@@ -6,7 +6,8 @@
     {
       siteName: "Unit 3 Revision", brandMark: "U3", brandText: "Revision", organisation: "", defaultPassMark: 80,
       certificateSignatory: "Teaching Team", questionsPerQuiz: 10,
-      groupLabel: "Element", groupShort: "E", storageKey: "unit3-revision-v1", certPrefix: "U3"
+      groupLabel: "Element", groupShort: "E", storageKey: "unit3-revision-v1", certPrefix: "U3",
+      suggestedNote: "Suggested answer, written for this site."
     },
     CONTENT.settings || {}
   );
@@ -328,8 +329,8 @@
       html += '<section class="subject" id="sec-' + esc(s.id) + '" style="--subject:' + esc(s.colour || "#1f4e79") + '">' +
         '<div class="subject-head"><h2>' + esc(s.title) + "</h2>" +
         '<span class="muted">' + done + "/" + s.topics.length + " passed</span>" +
-        (subjectComplete(state, s) ? ' <a class="badge gold" href="#/certificate/subject/' + encodeURIComponent(s.id) + '">' + esc(G) + ' certificate</a>' : "") +
-        '<a class="btn small-btn head-action" href="#/test/' + encodeURIComponent(s.id) + '">' + esc(G) + ' test</a>' +
+        (subjectComplete(state, s) ? ' <a class="badge gold" href="#/certificate/subject/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' certificate</a>' : "") +
+        '<a class="btn small-btn head-action" href="#/test/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' test</a>' +
         "</div>" +
         '<div class="grid">';
       s.topics.forEach(function (t) {
@@ -461,18 +462,18 @@
         }
         html += '<article class="card practice-item" data-key="' + esc(key) + '" data-i="' + i + '" data-marks="' + marks + '">' +
           '<div class="practice-q"><p class="question"><span class="qnum">' + (i + 1) + ".</span> " + esc(item.q) + "</p>" +
-          '<span class="badge">' + marks + " mark" + (marks === 1 ? "" : "s") + "</span></div>" +
+          '<span class="badge">' + marks + " mark" + (marks === 1 ? "" : "s") + "</span></div>" + dataTable(item.table) +
           printAnswerHtml(saved.text, marks) +
           '<label class="sr-only" for="pa-' + i + '">Your answer</label>' +
           '<textarea class="answer" id="pa-' + i + '" rows="' + Math.min(10, 2 + marks) + '" placeholder="Write your answer here">' + esc(saved.text) + "</textarea>" +
           '<details class="scheme"' + (saved.mark !== null ? " open" : "") + "><summary>Show mark scheme</summary>" +
-          (item.suggested ? '<p class="small muted">Suggested answer. Not from the original workbook.</p>' : "") +
+          (item.suggested ? '<p class="small muted">' + esc(SETTINGS.suggestedNote) + "</p>" : "") +
           formatScheme(item.answer) +
           '<div class="row self-mark"><label for="pm-' + i + '">My mark</label>' +
           '<select id="pm-' + i + '" class="mark">' + opts + "</select>" +
           '<span class="muted small">out of ' + marks + "</span></div>" +
           "</details>" +
-          '<div class="print-only print-scheme"><p class="print-label">Mark scheme' + (item.suggested ? " (suggested, not from the workbook)" : "") + "</p>" +
+          '<div class="print-only print-scheme"><p class="print-label">Mark scheme' + (item.suggested ? " (" + esc(SETTINGS.suggestedNote) + ")" : "") + "</p>" +
           formatScheme(item.answer) + "</div>" +
           '<p class="print-only print-mark">' + printMarkText(saved.mark, marks) + "</p>" +
           "</article>";
@@ -642,6 +643,17 @@
     }).join("");
   }
 
+  // Optional data for a question: table: [["", "Jan", "Feb"], ["Inflows", "1 200", "900"], ...]
+  // First row is the header. Cells after the first column are right-aligned (numbers).
+  function dataTable(rows) {
+    if (!rows || !rows.length) return "";
+    return '<div class="table-wrap data-table"><table><thead><tr>' +
+      rows[0].map(function (c) { return "<th>" + esc(c) + "</th>"; }).join("") + "</tr></thead><tbody>" +
+      rows.slice(1).map(function (r) {
+        return "<tr>" + r.map(function (c, i) { return (i ? '<td class="num">' : "<td>") + esc(c) + "</td>"; }).join("") + "</tr>";
+      }).join("") + "</tbody></table></div>";
+  }
+
   // ---------- Quiz engine ----------
   //
   // Question types (set with `type`, default "mcq"):
@@ -659,7 +671,7 @@
 
   function prepQuestion(q, topic) {
     var type = qType(q);
-    var pq = { type: type, q: q.q, explanation: q.explanation || "", key: questionKey(topic.id, q), topicId: topic.id };
+    var pq = { type: type, q: q.q, table: q.table, explanation: q.explanation || "", key: questionKey(topic.id, q), topicId: topic.id };
     var idxs, order;
     if (type === "mcq" || type === "multi") {
       idxs = q.options.map(function (_, i) { return i; });
@@ -709,9 +721,14 @@
   }
 
   function normaliseTyped(str) {
-    return String(str).toLowerCase()
+    var s = String(str).toLowerCase()
       .replace(/[£$,%'’]/g, "").replace(/\s+/g, " ").trim()
       .replace(/^the /, "").replace(/[.!]+$/, "");
+    // Pearson style numbers: "1 375" -> "1375", "(8 368)" -> "-8368", "1.2:1" -> "1.2"
+    s = s.replace(/(\d) (?=\d{3}\b)/g, "$1");
+    s = s.replace(/^\((-?[\d.]+)\)(.*)$/, "-$1$2");
+    s = s.replace(/^(-?[\d.]+)\s*:\s*1$/, "$1");
+    return s;
   }
 
   function typedMatches(given, accept) {
@@ -928,7 +945,7 @@
         '<div class="quiz-top"><span>Question ' + (idx + 1) + " of " + questions.length + "</span>" +
         '<span id="answered">' + answeredCount() + " answered</span></div>" +
         progressBar(Math.round(answeredCount() / questions.length * 100)) +
-        '<h2 class="question">' + esc(pq.q) + "</h2>" +
+        '<h2 class="question">' + esc(pq.q) + "</h2>" + dataTable(pq.table) +
         '<p class="type-hint">' + TYPE_HINT[pq.type] + "</p>" +
         '<div id="qbody">' + questionBodyHtml(pq, responses[idx]) + "</div>" +
         '<p class="small muted quiz-hint">Answers are marked when you finish. You can go back and change them until then.</p>' +
@@ -985,7 +1002,7 @@
         var label = sc >= 1 ? "Correct. " : sc > 0 ? "Partly correct. " : "Incorrect. ";
         return '<div class="card review ' + cls + '">' +
           '<div class="review-head"><span class="review-mark" aria-hidden="true">' + mark + "</span>" +
-          '<p class="question"><span class="sr-only">' + label + "</span>" + (i + 1) + ". " + esc(pq.q) + "</p>" +
+          '<p class="question"><span class="sr-only">' + label + "</span>" + (i + 1) + ". " + esc(pq.q) + "</p>" + dataTable(pq.table) +
           (pq.type !== "mcq" && pq.type !== "type" ? '<span class="badge">' + fmtPoints(sc) + " / 1</span>" : "") + "</div>" +
           reviewBodyHtml(pq, responses[i]) +
           (pq.explanation ? '<p class="muted">' + esc(pq.explanation) + "</p>" : "") + "</div>";
@@ -1085,7 +1102,7 @@
         });
         if (passed && subjectComplete(st, s)) {
           html += '<div class="banner gold">You have passed every topic in ' + esc(s.title) +
-            '. <a href="#/certificate/subject/' + encodeURIComponent(s.id) + '">Get your ' + esc(G) + ' certificate</a>.</div>';
+            '. <a href="#/certificate/subject/' + encodeURIComponent(s.id) + '">Get your ' + esc(s.label || G) + ' certificate</a>.</div>';
         }
         return html;
       }
@@ -1117,7 +1134,7 @@
       finish: function (score, total, responses) {
         var pct = Math.round(score / total * 100);
         var st = loadState();
-        track("test-finished/" + s.id, G + " test finished: " + s.title, true);
+        track("test-finished/" + s.id, (s.label || G) + " test finished: " + s.title, true);
         st.tests.push({ subjectId: s.id, score: Math.round(score * 10) / 10, total: total, pct: pct, date: new Date().toISOString(), seconds: Math.round((Date.now() - started) / 1000) });
         recordMistakes(st, questions, responses);
         saveState(st);
@@ -1303,7 +1320,7 @@
         '<a class="btn primary" href="#/mistakes">Practise them</a>'
         : '<p class="muted">Nothing to practise. Questions you get wrong in quizzes and tests show up here.</p>') + "</section>";
 
-    html += '<section class="card"><h2>' + esc(G) + ' tests</h2><div class="table-wrap"><table><thead><tr><th>' + esc(G) + '</th><th>Tests taken</th><th>Best</th><th>Last</th><th></th></tr></thead><tbody>' +
+    html += '<section class="card"><h2>Section tests</h2><div class="table-wrap"><table><thead><tr><th>Section</th><th>Tests taken</th><th>Best</th><th>Last</th><th></th></tr></thead><tbody>' +
       CONTENT.subjects.map(function (s) {
         var list = state.tests.filter(function (x) { return x.subjectId === s.id; });
         var best = list.reduce(function (m, x) { return Math.max(m, x.pct); }, 0);
@@ -1313,7 +1330,7 @@
 
     CONTENT.subjects.forEach(function (s) {
       html += '<section class="card"><div class="subject-head"><h2>' + esc(s.title) + "</h2>" +
-        (subjectComplete(state, s) ? '<a class="badge gold" href="#/certificate/subject/' + encodeURIComponent(s.id) + '">' + esc(G) + ' certificate</a>' : "") +
+        (subjectComplete(state, s) ? '<a class="badge gold" href="#/certificate/subject/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' certificate</a>' : "") +
         "</div>" +
         '<div class="table-wrap"><table><thead><tr><th>Topic</th><th>Attempts</th><th>Best</th><th>Cards</th><th>Written</th><th>Status</th></tr></thead><tbody>';
       s.topics.forEach(function (t) {

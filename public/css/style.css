@@ -397,3 +397,16 @@ tr:last-child td { border-bottom: 0; }
   /* Other pages: plain and readable */
   .result, .review { break-inside: avoid; }
 }
+
+/* Data tables inside questions (cash flows, accounts) */
+.data-table { margin: .6rem 0 .9rem; }
+.data-table table { font-size: .92rem; table-layout: auto; min-width: 0; }
+.data-table th, .data-table td { padding: .3rem .6rem; }
+.data-table th:first-child, .data-table td:first-child { width: auto; white-space: normal; }
+.data-table td.num, .data-table th:not(:first-child) { text-align: right; font-variant-numeric: tabular-nums; }
+.data-table td.num { white-space: nowrap; }
+@media (max-width: 520px) {
+  .data-table table { font-size: .82rem; }
+  .data-table th, .data-table td { padding: .28rem .35rem; }
+  .data-table th { letter-spacing: 0; white-space: normal; }
+}
