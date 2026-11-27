@@ -1,14 +1,14 @@
 # Unit 3 Revision
 
-A static revision site for **Pearson BTEC Level 3 Nationals in Business, Unit 3: Personal and Business Finance**: key points per topic, quizzes, flashcards, written exam practice with mark schemes, progress tracking and printable certificates.
+A static revision site for **Pearson BTEC Level 3 Nationals in Business, Unit 3: Personal and Business Finance**: key points per topic, quizzes, flashcards, written exam practice with mark schemes, progress tracking and printable score records.
 
 Built on the same engine as [TLV Revision](https://github.com/tom-landy/TLV-Revision). No build step, no server, no database. Plain HTML, CSS and JavaScript in `public/`.
 
 ## Content
 
-Two sections, matching the exam paper: **Section A: Personal finance** (learning aims A and B) and **Section B: Business finance** (learning aims C to F). Inside each section, topics are grouped under their learning aim, and the jump bar on the home page goes straight to each aim. Each section has its own section test and certificate.
+Two sections, matching the exam paper: **Section A: Personal finance** (learning aims A and B) and **Section B: Business finance** (learning aims C to F). Inside each section, topics are grouped under their learning aim, and the jump bar on the home page goes straight to each aim. Each section has its own section test and section score.
 
-23 topics following the specification (Issue 15, April 2023): 242 quiz questions, 177 flashcards and 97 exam practice questions.
+23 topics following the specification (Issue 15, April 2023): 253 quiz questions, 177 flashcards and 130 exam practice questions (560 marks), including every question from six past papers except one chart-plotting task.
 
 | File | Topics |
 |---|---|
@@ -21,9 +21,11 @@ Two sections, matching the exam paper: **Section A: Personal finance** (learning
 
 ### Where the exam practice comes from
 
-- **Past paper** items use questions from the January 2024, June 2024, January 2025 and January 2026 papers, with condensed Pearson mark schemes. Only the mark schemes were available, so question wording is taken from the mark scheme. Where a question needs scenario data (tables of savings accounts, insurance policies, accounts), the data is **rebuilt from the figures in the mark scheme** and labelled as such. A few figures the mark scheme doesn't state are filled in and flagged in the question (the Royal pet insurance premium, June 2024 Q6; the home insurance excesses, January 2025 Q6).
-- Items marked `suggested: true` were written for this site, with our own mark schemes. Students see "Suggested answer, written for this site. Not from a Pearson mark scheme."
-- Calculation quiz questions use our own figures, all checked by script.
+- **Past papers:** questions from six series (January 2023, June 2024, January 2024, January 2025, June 2025, January 2026) use the real question wording and data tables, labelled with their series.
+- **Mark schemes:** January 2024, June 2024, January 2025 and January 2026 use condensed Pearson mark schemes. January 2023 and June 2025 had no mark scheme supplied, so those answers were written for this site and are marked `suggested: true`.
+- **Not converted:** the June 2025 break-even chart (plotting can't be done on the site; the figures are used in calculation questions instead).
+- Items marked `suggested: true` show "Suggested answer, written for this site. Not from a Pearson mark scheme."
+- Calculation quiz questions use our own figures plus figures from the papers, all checked by script.
 
 ### Things staff should check
 
@@ -40,11 +42,13 @@ Two sections, matching the exam paper: **Section A: Personal finance** (learning
 - **Section tests**: 20 mixed questions across a whole section, with weak topics flagged.
 - **Practise my mistakes**: wrong answers come back until answered right.
 - **Exam practice**: written questions, self-marked against a mark scheme.
-- **Progress**, **certificates** (per topic and per section) and a **backup code** to move between devices.
+- **Progress**, printable **score records** (per topic and per section) and a **backup code** to move between devices.
+
+The site says "score", not "certificate", because a certificate means an education award. The printable page is titled "Score Record".
 
 ## Limits
 
-Progress is stored in the student's browser (`localStorage`). Teachers cannot see it, clearing browser data loses it (unless the student used the backup code), and certificates are not verifiable.
+Progress is stored in the student's browser (`localStorage`). Teachers cannot see it, clearing browser data loses it (unless the student used the backup code), and score records are not verifiable.
 
 ## Run locally
 
@@ -64,10 +68,10 @@ Then open http://localhost:8000.
 
 ## Settings
 
-`public/data/settings.js` holds the site name, header badge, pass mark, certificate signatory, GoatCounter code and:
+`public/data/settings.js` holds the site name, header badge, pass mark, the name printed on score records (`certificateSignatory`), GoatCounter code and:
 
 - `subjects`: the two sections (id, title, colour). Topics are added to them from the learning aim files.
-- `groupLabel`: what a section is called on buttons ("Section test", "Section certificate"). A section can override it with its own `label`.
+- `groupLabel`: what a section is called on buttons ("Section test", "Section score"). A section can override it with its own `label`.
 - `suggestedNote`: the line shown on site-written practice questions.
 - `storageKey`: where progress is saved. Changing it wipes everyone's progress.
 

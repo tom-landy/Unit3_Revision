@@ -10,8 +10,8 @@ window.TLV_CONTENT = {
     tagline: "BTEC Level 3 Business, Unit 3: Personal and Business Finance",
     organisation: "",
     defaultPassMark: 80,
-    certificateSignatory: "Teaching Team",
-    // What each top-level group is called: used on "Section test" and "Section certificate".
+    certificateSignatory: "Teaching Team",   // name printed on score records
+    // What each top-level group is called: used on "Section test" and "Section score".
     groupLabel: "Section",
     groupShort: "",
     // Max questions per quiz attempt, drawn at random from the topic's bank.

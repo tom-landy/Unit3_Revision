@@ -264,7 +264,7 @@
     return '<form class="card name-form" id="nameForm">' +
       "<h2>Welcome to " + esc(SETTINGS.siteName) + "</h2>" +
       (SETTINGS.tagline ? '<p class="eyebrow">' + esc(SETTINGS.tagline) + "</p>" : "") +
-      "<p>Enter your name as you want it to appear on your certificates.</p>" +
+      "<p>Enter your name as you want it to appear on your score records.</p>" +
       '<label for="studentName">Your full name</label>' +
       '<div class="row"><input id="studentName" name="studentName" maxlength="80" autocomplete="name" required placeholder="e.g. Sam Patel">' +
       '<button class="btn primary" type="submit">Continue</button></div>' +
@@ -333,7 +333,7 @@
       html += '<section class="subject" id="sec-' + esc(s.id) + '" style="--subject:' + esc(s.colour || "#166534") + '">' +
         '<div class="subject-head"><h2>' + esc(s.title) + "</h2>" +
         '<span class="muted">' + done + "/" + s.topics.length + " passed</span>" +
-        (subjectComplete(state, s) ? ' <a class="badge gold" href="#/certificate/subject/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' certificate</a>' : "") +
+        (subjectComplete(state, s) ? ' <a class="badge gold" href="#/certificate/subject/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' score</a>' : "") +
         '<a class="btn small-btn head-action" href="#/test/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' test</a>' +
         "</div>";
       aimGroups(s).forEach(function (g, gi) {
@@ -435,7 +435,7 @@
     }
     if (st.passed) {
       html += '<p><span class="badge pass">Passed</span></p>' +
-        '<a class="btn" href="#/certificate/' + encodeURIComponent(t.id) + '">View certificate</a> ';
+        '<a class="btn" href="#/certificate/' + encodeURIComponent(t.id) + '">View my score</a> ';
     }
     html += '<a class="btn primary" href="#/quiz/' + encodeURIComponent(t.id) + '">' + (st.attempts ? "Try again" : "Start quiz") + "</a>";
     if ((t.cards || []).length) {
@@ -462,7 +462,7 @@
         '<div class="subject-head no-print"><h2>Exam practice</h2>' +
         '<span class="muted small" id="practiceSummary">' + practiceSummary(ps) + "</span></div>" +
         '<p class="muted no-print">Write your answer, then open the mark scheme and give yourself a mark. ' +
-        "Answers save in this browser. These marks do not count towards the quiz certificate.</p>" +
+        "Answers save in this browser. These marks do not count towards your quiz score.</p>" +
         '<div class="practice-toolbar no-print">' +
         '<button class="btn" type="button" id="printPractice">Print my answers</button>' +
         '<label class="check"><input type="checkbox" id="printSchemes"' + (printSchemes ? " checked" : "") + "> Include mark schemes when printing</label>" +
@@ -1125,16 +1125,16 @@
         track("quiz-finished/" + t.id + "/" + (passed ? "pass" : "fail"), "Quiz finished: " + t.title + (passed ? " (pass)" : " (not passed)"), true);
         var html = storageBanner() + resultCard({
           passed: passed, score: score, total: total, pct: pct, passMark: pm,
-          heading: passed ? (firstPass ? "Passed. Certificate earned." : "Passed.") : "Not passed yet",
+          heading: passed ? (firstPass ? "Passed. Score recorded." : "Passed.") : "Not passed yet",
           text: passed ? "The pass mark was " + pm + "%." : "You need " + pm + "% to pass. Have another look at the key points and flashcards, then try again.",
-          actions: (passed ? '<a class="btn primary" href="#/certificate/' + encodeURIComponent(t.id) + '">View certificate</a>' : "") +
+          actions: (passed ? '<a class="btn primary" href="#/certificate/' + encodeURIComponent(t.id) + '">View my score</a>' : "") +
             '<a class="btn' + (passed ? "" : " primary") + '" href="#/quiz/' + encodeURIComponent(t.id) + '" id="retry">Try again</a>' +
             ((t.cards || []).length ? '<a class="btn" href="#/cards/' + encodeURIComponent(t.id) + '">Flashcards</a>' : "") +
             '<a class="btn" href="#/topic/' + encodeURIComponent(t.id) + '">Back to topic</a>'
         });
         if (passed && subjectComplete(st, s)) {
           html += '<div class="banner gold">You have passed every topic in ' + esc(s.title) +
-            '. <a href="#/certificate/subject/' + encodeURIComponent(s.id) + '">Get your ' + esc(s.label || G) + ' certificate</a>.</div>';
+            '. <a href="#/certificate/subject/' + encodeURIComponent(s.id) + '">See your ' + esc(s.label || G) + ' score</a>.</div>';
         }
         return html;
       }
@@ -1343,7 +1343,7 @@
       stat(passed + "/" + allTopics.length, "topics passed") +
       stat(state.attempts.length, "quizzes taken") +
       stat(state.attempts.length ? avg + "%" : "–", "average score") +
-      stat(Object.keys(state.certificates).length, "certificates") +
+      stat(Object.keys(state.certificates).length, "topic scores") +
       "</div>";
 
     var missedN = missedPool(state).length;
@@ -1362,7 +1362,7 @@
 
     CONTENT.subjects.forEach(function (s) {
       html += '<section class="card"><div class="subject-head"><h2>' + esc(s.title) + "</h2>" +
-        (subjectComplete(state, s) ? '<a class="badge gold" href="#/certificate/subject/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' certificate</a>' : "") +
+        (subjectComplete(state, s) ? '<a class="badge gold" href="#/certificate/subject/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' score</a>' : "") +
         "</div>" +
         '<div class="table-wrap"><table><thead><tr><th>Topic</th><th>Attempts</th><th>Best</th><th>Cards</th><th>Written</th><th>Status</th></tr></thead><tbody>';
       s.topics.forEach(function (t) {
@@ -1377,7 +1377,7 @@
             return ps.total ? ps.marked + "/" + ps.total + (ps.possible ? ' <span class="muted">(' + ps.got + "/" + ps.possible + ")</span>" : "") : "–";
           })() + "</td>" +
           "<td>" + (st.passed
-            ? '<a class="badge pass" href="#/certificate/' + encodeURIComponent(t.id) + '">Certificate</a>'
+            ? '<a class="badge pass" href="#/certificate/' + encodeURIComponent(t.id) + '">Score</a>'
             : st.attempts ? '<span class="badge">Pass mark ' + passMarkFor(t) + "%</span>" : '<span class="muted">Not started</span>') +
           "</td></tr>";
       });
@@ -1402,7 +1402,7 @@
       '<form id="renameForm" class="row"><label for="rename" class="sr-only">Name</label>' +
       '<input id="rename" maxlength="80" value="' + esc(state.student.name) + '" placeholder="Your full name" required>' +
       '<button class="btn" type="submit">Save name</button></form>' +
-      '<p class="small muted">This is the name printed on your certificates.</p></section>';
+      '<p class="small muted">This is the name printed on your score records.</p></section>';
 
     html += '<section class="card"><h2>Back up or move your progress</h2>' +
       "<p>Progress lives in this browser only. To move it to another device, copy this code and paste it into the box below on the other device.</p>" +
@@ -1415,7 +1415,7 @@
       '<p id="backupMsg" class="small" aria-live="polite"></p></section>';
 
     html += '<section class="card danger-zone"><h2>Start again</h2>' +
-      '<p class="small">Deletes your name, scores, written answers and certificates from this browser.</p>' +
+      '<p class="small">Deletes your name, scores and written answers from this browser.</p>' +
       '<button class="btn danger" id="resetAll" type="button">Delete all progress</button></section>';
 
     app.innerHTML = html;
@@ -1475,7 +1475,7 @@
       if (m) m.textContent = "Progress restored.";
     });
     document.getElementById("resetAll").addEventListener("click", function () {
-      if (!confirm("Delete all your progress and certificates from this browser? This cannot be undone.")) return;
+      if (!confirm("Delete all your progress and scores from this browser? This cannot be undone.")) return;
       saveState(emptyState());
       renderWho();
       location.hash = "#/";
@@ -1494,14 +1494,14 @@
       '<div class="cert-wrap"><div class="certificate" style="--subject:' + esc(opts.colour) + '">' +
       '<div class="cert-border">' +
       '<div class="cert-org">' + esc(SETTINGS.organisation) + "</div>" +
-      '<div class="cert-title">Certificate of Achievement</div>' +
-      '<div class="cert-line">This is to certify that</div>' +
+      '<div class="cert-title">Score Record</div>' +
+      '<div class="cert-line">This records that</div>' +
       '<div class="cert-name">' + esc(opts.name) + "</div>" +
       '<div class="cert-line">' + opts.reason + "</div>" +
       '<div class="cert-topic">' + esc(opts.topic) + "</div>" +
       (opts.detail ? '<div class="cert-detail">' + opts.detail + "</div>" : "") +
       '<div class="cert-foot">' +
-      '<div><div class="cert-sig">' + esc(SETTINGS.certificateSignatory) + '</div><div class="cert-cap">Awarded by</div></div>' +
+      '<div><div class="cert-sig">' + esc(SETTINGS.certificateSignatory) + '</div><div class="cert-cap">Issued by</div></div>' +
       '<div class="cert-seal" aria-hidden="true">★</div>' +
       '<div><div class="cert-sig">' + esc(fmtDate(opts.date)) + '</div><div class="cert-cap">Date</div></div>' +
       "</div>" +
@@ -1520,7 +1520,7 @@
 
   function bindPrint() {
     var b = document.getElementById("printCert");
-    if (b) b.addEventListener("click", function () { track("print-certificate" + location.hash.replace(/^#\/certificate/, ""), "Printed certificate", true); window.print(); });
+    if (b) b.addEventListener("click", function () { track("print-certificate" + location.hash.replace(/^#\/certificate/, ""), "Printed score record", true); window.print(); });
     fitCertificate();
   }
 
@@ -1530,11 +1530,11 @@
     var t = entry.topic, s = entry.subject;
     var state = loadState();
     var cert = state.certificates[t.id];
-    setTitle("Certificate: " + t.title);
+    setTitle("Score: " + t.title);
     markNav("progress");
     if (!cert) {
-      app.innerHTML = '<div class="card"><h1>No certificate yet</h1><p>Pass the ' + esc(t.title) +
-        ' quiz to earn this certificate.</p><a class="btn primary" href="#/quiz/' + encodeURIComponent(t.id) + '">Take the quiz</a></div>';
+      app.innerHTML = '<div class="card"><h1>No score yet</h1><p>Pass the ' + esc(t.title) +
+        ' quiz to record your score.</p><a class="btn primary" href="#/quiz/' + encodeURIComponent(t.id) + '">Take the quiz</a></div>';
       return;
     }
     if (!state.student.name) {
@@ -1559,12 +1559,12 @@
     var s = subjectIndex[subjectId];
     if (!s) return viewNotFound();
     var state = loadState();
-    setTitle("Certificate: " + s.title);
+    setTitle("Score: " + s.title);
     markNav("progress");
     if (!subjectComplete(state, s)) {
       var left = s.topics.filter(function (t) { return !state.certificates[t.id]; });
       app.innerHTML = '<div class="card"><h1>Not complete yet</h1><p>Pass every ' + esc(s.title) +
-        " topic to earn this certificate. Still to pass:</p><ul>" +
+        " topic to record your section score. Still to pass:</p><ul>" +
         left.map(function (t) { return '<li><a href="#/topic/' + encodeURIComponent(t.id) + '">' + esc(t.title) + "</a></li>"; }).join("") +
         "</ul></div>";
       return;
