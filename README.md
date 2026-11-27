@@ -147,6 +147,12 @@ Rules:
 - Typed answers ignore capitals, £, commas, % and apostrophes, and accept a number followed by a unit ("48 hours"). List every acceptable wording in `accept`; the first is shown as the correct answer.
 - Each quiz includes up to 4 non-multiple-choice questions, so topics with many of them still get a mix.
 - Options are shuffled each attempt, except two-option questions (True/False) and any question with `shuffle: false`.
+- Key points (`notes` body) are laid out automatically:
+  - a blank line starts a new section, separated by a line
+  - a section's first line `Term: definition` becomes a heading with the definition under it (also a short line with no full stop, or one ending in `:` or `?`)
+  - lines starting `- ` become bullets, and `- Term: text` bolds the term
+  - `- Advantages: a, b, c` and `- Disadvantages: …` (also Benefits, Limitations, Drawbacks) become green and red boxes side by side, split into bullets at semicolons, or at commas when the text is a single sentence
+  - consecutive plain lines (e.g. a statement layout) stay together
 - Mark schemes: a blank line starts a new paragraph; lines starting `- ` become a bullet list.
 - Practice items have an `id`, so their order can change without losing students' saved answers.
 - Each quiz draws up to `questionsPerQuiz` questions (default 10) at random.

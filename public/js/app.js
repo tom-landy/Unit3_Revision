@@ -415,10 +415,7 @@
     if (!t.resources || !t.resources.length) html += '<p class="muted">No resources yet.</p>';
     (t.resources || []).forEach(function (r) {
       if (r.type === "notes") {
-        html += '<article class="card notes"><h3>' + esc(r.title || "Notes") + "</h3>" +
-          String(r.body || "").split(/\n\s*\n/).map(function (p) {
-            return "<p>" + esc(p).replace(/\n/g, "<br>") + "</p>";
-          }).join("") + "</article>";
+        html += '<article class="card notes"><h3>' + esc(r.title || "Notes") + "</h3>" + renderNotes(r.body) + "</article>";
       } else {
         var label = { video: "Video", pdf: "PDF", link: "Link", docx: "Word" }[r.type] || "Link";
         html += '<a class="card resource" href="' + esc(safeUrl(r.url)) + '" target="_blank" rel="noopener">' +
@@ -648,6 +645,77 @@
   }
 
   // Mark schemes: blank line = new paragraph, lines starting "- " = bullet list.
+  // Key points text -> readable HTML. Conventions in the content files:
+  //   blank line            new block (shown as its own section)
+  //   "Term: definition"    on a block's first line becomes a bold heading
+  //   short line, no full stop, first in a block   becomes a heading
+  //   "- text"              bullet; "- Term: text" bolds the term
+  //   "- Advantages: a, b"  (also Disadvantages, Benefits, Limitations, Drawbacks) becomes a pros/cons box
+  var PC_RE = /^(advantages?|disadvantages?|benefits?|limitations?|drawbacks?|for|against)\s*:\s*(.*)$/i;
+  function splitList(text) {
+    var t = String(text).replace(/\.\s*$/, "");
+    // Split on semicolons; split on commas only when the text is a single sentence.
+    var parts = t.indexOf("; ") !== -1 ? t.split(/;\s+/) : (/[.!?]\s/.test(t) ? [t] : t.split(/,\s+(?![^(]*\))/));
+    return parts.map(function (x) { x = x.trim(); return x.charAt(0).toUpperCase() + x.slice(1); }).filter(Boolean);
+  }
+  function termHtml(text) {
+    var m = String(text).match(/^([^:]{1,48}):\s+(.+)$/);
+    if (m && m[1].split(" ").length <= 7 && !/[.!?]/.test(m[1])) return "<strong>" + esc(m[1]) + ":</strong> " + esc(m[2]);
+    return esc(text);
+  }
+  function renderNotes(body) {
+    return String(body || "").split(/\n\s*\n/).map(function (block) {
+      var lines = block.split("\n").filter(function (l) { return l.trim(); });
+      var out = "", list = [], pcs = [];
+      function flush() {
+        if (list.length) { out += "<ul>" + list.map(function (li) { return "<li>" + li + "</li>"; }).join("") + "</ul>"; list = []; }
+        if (pcs.length) {
+          out += '<div class="pc">' + pcs.map(function (pc) {
+            var good = /^(advantage|benefit|for)/i.test(pc.label);
+            var items = splitList(pc.text);
+            return '<div class="pc-box ' + (good ? "pro" : "con") + '"><div class="pc-label">' + esc(pc.label.charAt(0).toUpperCase() + pc.label.slice(1)) + "</div>" +
+              (items.length > 1 ? "<ul>" + items.map(function (i) { return "<li>" + esc(i) + "</li>"; }).join("") + "</ul>" : "<p>" + esc(items[0] || "") + "</p>") + "</div>";
+          }).join("") + "</div>";
+          pcs = [];
+        }
+      }
+      lines.forEach(function (line, i) {
+        var bullet = line.match(/^\s*-\s+(.*)$/);
+        if (bullet) {
+          var pc = bullet[1].match(PC_RE);
+          if (pc) { if (list.length) { var keep = pcs; pcs = []; flush(); pcs = keep; } pcs.push({ label: pc[1], text: pc[2] }); }
+          else { if (pcs.length) { var l = list; list = []; flush(); list = l; } list.push(termHtml(bullet[1])); }
+          return;
+        }
+        var pcLine = line.match(PC_RE);
+        if (pcLine && !/^(for|against)\b/i.test(line)) { if (list.length) { var k2 = pcs; pcs = []; flush(); pcs = k2; } pcs.push({ label: pcLine[1], text: pcLine[2] }); return; }
+        flush();
+        if (i === 0) {
+          var head = line.match(/^([^:]{1,48}):\s*(.*)$/);
+          if (head && head[1].split(" ").length <= 7 && !/[.!?]/.test(head[1])) {
+            out += "<h4>" + esc(head[1]) + "</h4>";
+            if (head[2]) head[2] = head[2].charAt(0).toUpperCase() + head[2].slice(1);
+            if (head[2]) {
+              var semi = head[2].split(/;\s+/);
+              out += semi.length >= 3 && !/[.!?]\s/.test(head[2]) ? "<ul>" + splitList(head[2]).map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>" : "<p>" + esc(head[2]) + "</p>";
+            }
+            return;
+          }
+          if (lines.length > 1 && line.length < 80 && /:$/.test(line.trim())) { out += "<h4>" + esc(line.trim().replace(/:$/, "")) + "</h4>"; return; }
+          if (lines.length > 1 && line.length < 75 && !/[.!:]$/.test(line.trim())) { out += "<h4>" + esc(line) + "</h4>"; return; }
+        }
+        // Consecutive plain lines (e.g. a statement layout) stay together as one tight block.
+        if (i > 0 && !/^\s*-\s/.test(lines[i - 1]) && /<\/p>$/.test(out) && !/<\/h4>$/.test(out)) {
+          out = out.replace(/<\/p>$/, "") + "<br>" + termHtml(line) + "</p>";
+          return;
+        }
+        out += "<p>" + termHtml(line) + "</p>";
+      });
+      flush();
+      return '<section class="kp">' + out + "</section>";
+    }).join("");
+  }
+
   function formatScheme(text) {
     return String(text || "").split(/\n\s*\n/).map(function (block) {
       var lines = block.split("\n");
