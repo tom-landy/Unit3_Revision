@@ -27,12 +27,24 @@ Two sections, matching the exam paper: **Section A: Personal finance** (learning
 - Items marked `suggested: true` show "Suggested answer, written for this site. Not from a Pearson mark scheme."
 - Calculation quiz questions use our own figures plus figures from the papers, all checked by script.
 
+### Extra depth from the OCR Level 3 Award in Personal Finance (H056)
+
+Where the OCR Award covers a Unit 3 area in more depth, that detail has been added to the matching topic (key points, flashcards, quiz and a few suggested practice questions). Only material Unit 3 can examine was used.
+
+- **A1:** credit score vs credit history and what affects it; budgeting (gross and net pay, essential vs discretionary spending, disposable income, opportunity cost, overspend and underspend, emergency fund); planned and unplanned life events.
+- **A4.1:** mortgage types (fixed, tracker, SVR, offset), repayment vs interest-only, loan-to-value, base rate effects, what lenders check, comparing borrowing, consequences of missed repayments, APR vs AER, short vs long-term borrowing, good and bad debt.
+- **A4.2:** savings rates and the base rate, tax on interest (Personal Savings Allowance), spreading savings, matching accounts to savers.
+- **A4.3:** factors affecting premiums, legal vs lender vs personal choice, tenants and contents cover, attitude to risk.
+- **B2:** phishing, scams, hacking, identity theft, and how to reduce the risk.
+
+Not used, as Unit 3 doesn't examine them: cryptocurrency, buy-to-let property, buy now pay later and PCP, payslip documents (P45, P60, tax codes), and the extra help sources (family, online communities, solicitors).
+
 ### Things staff should check
 
 - **FSCS limit (B3).** The January 2025 mark scheme says £85,000. The limit rose to £120,000 per person per banking licence on 1 December 2025. The site teaches £120,000 and notes the old figure.
 - **ISA allowance (A4.2).** The site says £20,000 and warns that a lower cash ISA limit for under-65s has been announced from April 2027. Update when it takes effect.
 - **Interest calculations in the mark schemes are not consistent.** January 2025 treats "25% interest over 4 years" as 25% in total; January 2024 treats 15% as a yearly rate. Site questions say "flat rate of X% a year" or "25% total interest" to avoid ambiguity.
-- **Other figures that date:** contactless limit £100, payday loan caps, credit union cap 42.6% APR, pension access age 55 (57 from 2028), auto-enrolment minimums.
+- **Other figures that date:** Personal Savings Allowance (£1,000 / £500), contactless limit £100, payday loan caps, credit union cap 42.6% APR, pension access age 55 (57 from 2028), auto-enrolment minimums.
 
 ## What students get
 
