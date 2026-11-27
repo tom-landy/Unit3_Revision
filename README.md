@@ -6,7 +6,9 @@ Built on the same engine as [TLV Revision](https://github.com/tom-landy/TLV-Revi
 
 ## Content
 
-24 topics following the specification (Issue 15, April 2023): learning aims A to F plus an exam skills topic. 255 quiz questions, 187 flashcards and 99 exam practice questions (418 marks).
+Two sections, matching the exam paper: **Section A: Personal finance** (learning aims A and B) and **Section B: Business finance** (learning aims C to F). Inside each section, topics are grouped under their learning aim, and the jump bar on the home page goes straight to each aim. Each section has its own section test and certificate.
+
+23 topics following the specification (Issue 15, April 2023): 242 quiz questions, 177 flashcards and 97 exam practice questions.
 
 | File | Topics |
 |---|---|
@@ -16,7 +18,6 @@ Built on the same engine as [TLV Revision](https://github.com/tom-landy/TLV-Revi
 | `aim-d-sources-of-finance.js` | D1.1 Internal sources and choosing finance, D1.2 External sources |
 | `aim-e-cash-flow-break-even.js` | E1 Cash flow forecasts, E2 Break-even |
 | `aim-f-final-accounts-ratios.js` | F1 SOCI, F2 SOFP, F3 Profitability, F4 Liquidity, F5 Efficiency, F6 Limitations of ratios |
-| `exam-skills.js` | X1 Exam technique and command words |
 
 ### Where the exam practice comes from
 
@@ -65,22 +66,24 @@ Then open http://localhost:8000.
 
 `public/data/settings.js` holds the site name, header badge, pass mark, certificate signatory, GoatCounter code and:
 
-- `groupLabel` / `groupShort`: what a top-level section is called. Set to "Learning aim" / "", so "Learning aim A: ..." gets a jump button "A" and buttons read "Learning aim test". A section can override this with its own `label` (the exam skills section uses `label: "Exam skills"`).
+- `subjects`: the two sections (id, title, colour). Topics are added to them from the learning aim files.
+- `groupLabel`: what a section is called on buttons ("Section test", "Section certificate"). A section can override it with its own `label`.
 - `suggestedNote`: the line shown on site-written practice questions.
 - `storageKey`: where progress is saved. Changing it wipes everyone's progress.
 
 ## Adding content
 
-One file per section in `public/data/`, each pushing to `window.TLV_CONTENT.subjects`, with a `<script>` line in `public/index.html`. The global names (`TLV_CONTENT`, `TLV_PODCASTS`) are kept from TLV Revision on purpose so engine fixes can be copied between the two repos unchanged.
+One file per learning aim in `public/data/`, each with a `<script>` line in `public/index.html`. A file adds its topics to a section with `U3_AIM`:
 
 ```js
-window.TLV_CONTENT.subjects.push({
-  id: "element-1",                // unique, never change once live
-  title: "Element 1: Section name",  // must start with groupLabel
-  colour: "#1f4e79",
-  topics: [ /* topic objects, below */ ]
-});
+window.U3_AIM("personal", "Learning aim A: Managing personal finance", [
+  /* topic objects, below */
+]);
 ```
+
+The first argument is the section id from `settings.js` (`personal` or `business`). The second is the heading shown above the topics; "Learning aim X: name" gives a jump button "X". To add a new sub-topic, add a topic object to the right file. To add a new group of topics, add another `U3_AIM` call.
+
+The global names (`TLV_CONTENT`, `TLV_PODCASTS`) are kept from TLV Revision on purpose so engine fixes can be copied between the two repos.
 
 Questions and practice items can carry a data table (cash flow forecasts, accounts) shown under the question:
 

@@ -1,10 +1,6 @@
 /* Learning aim A: Understand the importance of managing personal finance. Written from the Unit 3 specification and Pearson mark schemes (Jan 2024, Jun 2024, Jan 2025, Jan 2026). */
 (function () {
-  window.TLV_CONTENT.subjects.push({
-    id: "aim-a",
-    title: "Learning aim A: Managing personal finance",
-    colour: "#0969da",
-    topics: [
+  window.U3_AIM("personal", "Learning aim A: Managing personal finance", [
       {
         id: "A1",
         title: "A1 Functions and role of money",
@@ -263,6 +259,5 @@
           { id: "A43-p3", q: "Humaira is reviewing her home insurance. She owns few valuable items: a £1,000 laptop and a cheap phone. Royal (current): £57 a month, buildings and contents, buildings excess £100, contents excess £50, emergency call-out £45 a year extra, high-value items up to £10,000. Shirevale: £45 a month, buildings and contents, buildings excess £300, contents excess £100, emergency call-out included, high-value items up to £1,000 each. Ashridge: £32 a month, buildings only, emergency call-out £47 a year extra. Westshire: £42 a month, buildings and contents, higher excess than Royal, emergency call-out £19.95 a year extra, high-value items up to £500 each. Evaluate which policy Humaira should choose. (Past paper, January 2025. Figures rebuilt from the mark scheme; the excess figures are illustrative.)", marks: 12, answer: "Shirevale: £12 a month cheaper than Royal (£144 a year), covers buildings and contents, call-out included. Highest excesses, so she funds more of any claim. £1,000 per item covers the laptop and phone.\n\nAshridge: cheapest. £25 a month less than Royal (£300 a year). Even with call-out added it's only £431 a year. But buildings only: her belongings aren't covered after a fire or break-in.\n\nWestshire: £180 a year cheaper than Royal. With call-out £523.95 a year, £16.05 cheaper than Shirevale. £500 per item covers the phone but not the laptop. Higher excess.\n\nRoyal: most expensive. With call-out £729 a year (£60.75 a month), so like for like Shirevale is £189 cheaper. £10,000 item cover is far more than she needs, though excesses are lowest.\n\nApplication: she has few valuables so may consider buildings only, but after a fire or flood she'd need to replace beds, clothes, sofas, so contents cover is wise.\n\nLevels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description." }
         ]
       }
-    ]
-  });
+  ]);
 })();

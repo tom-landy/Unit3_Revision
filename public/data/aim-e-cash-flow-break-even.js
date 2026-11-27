@@ -17,11 +17,7 @@
     ["Closing balance", "800", "?", "?"]
   ];
 
-  window.TLV_CONTENT.subjects.push({
-    id: "aim-e",
-    title: "Learning aim E: Break-even and cash flow forecasts",
-    colour: "#cf222e",
-    topics: [
+  window.U3_AIM("business", "Learning aim E: Break-even and cash flow forecasts", [
       {
         id: "E1",
         title: "E1 Cash flow forecasts",
@@ -115,6 +111,5 @@
           { id: "E2-p7", q: "Quality Threads Ltd is thinking of launching a premium carpet range using high-quality raw materials, selling at £5,000 per roll. Discuss the advantages and disadvantages of break-even analysis for Quality Threads Ltd. (Past paper, January 2026. Scenario summarised from the mark scheme.)", marks: 6, answer: "Advantages:\n- Shows fixed and variable costs, so the impact of the premium range and higher variable costs can be analysed.\n- Allows 'what if' modelling, e.g. the £5,000 selling price.\n- Useful for planning different prices and variable costs.\n- Helps set targets and judge whether the premium range will improve profit.\n- Can help secure finance.\n- Helps monitor and control costs and revenue.\n\nDisadvantages:\n- Based on predictions; customers may not pay £5,000 per roll.\n- Assumes all carpets are sold.\n- Ignores future changes in the cost of high-quality raw materials.\n- Ignores external factors, e.g. competitors launching their own premium range.\n- Only as reliable as the person who creates it.\n- Only applies to one product.\n\nLevels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description." }
         ]
       }
-    ]
-  });
+  ]);
 })();

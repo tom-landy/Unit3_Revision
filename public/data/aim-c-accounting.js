@@ -1,10 +1,6 @@
 /* Learning aim C: Understand the purpose of accounting. Written from the Unit 3 specification and Pearson mark schemes. */
 (function () {
-  window.TLV_CONTENT.subjects.push({
-    id: "aim-c",
-    title: "Learning aim C: The purpose of accounting",
-    colour: "#bf3989",
-    topics: [
+  window.U3_AIM("business", "Learning aim C: The purpose of accounting", [
       {
         id: "C1",
         title: "C1 Purpose of accounting",
@@ -119,6 +115,5 @@
           { id: "C3-p4", q: "Explain the difference between capital expenditure and revenue expenditure, using an example of each.", marks: 4, suggested: true, answer: "Capital expenditure is spending on non-current assets kept for more than a year (1), e.g. buying a delivery van (1).\n\nRevenue expenditure is spending on day-to-day running costs used up within the year (1), e.g. paying wages or rent (1)." }
         ]
       }
-    ]
-  });
+  ]);
 })();

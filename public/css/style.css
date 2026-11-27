@@ -1,10 +1,10 @@
 :root {
-  --bg: #f5f7fa;
+  --bg: #eff6f1;
   --surface: #ffffff;
-  --text: #1c2430;
-  --muted: #5d6b7c;
-  --line: #dde3ea;
-  --brand: #1f4e79;
+  --text: #16261c;
+  --muted: #53685a;
+  --line: #d3e4d8;
+  --brand: #166534;
   --brand-ink: #ffffff;
   --ok: #1a7f37;
   --ok-bg: #e6f4ea;
@@ -13,18 +13,18 @@
   --gold: #a87b00;
   --gold-bg: #fff5d6;
   --radius: 12px;
-  --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 1px 3px rgba(16, 24, 40, .08);
+  --shadow: 0 1px 2px rgba(12, 40, 22, .06), 0 1px 3px rgba(12, 40, 22, .08);
   --subject: var(--brand);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0f141a;
-    --surface: #18202a;
-    --text: #e6ebf1;
-    --muted: #9aa8b8;
-    --line: #2a3542;
-    --brand: #4f8fd1;
+    --bg: #0c1510;
+    --surface: #14221a;
+    --text: #e3efe6;
+    --muted: #93ab9b;
+    --line: #25392c;
+    --brand: #4cc38a;
     --ok: #4ac26b;
     --ok-bg: #12301c;
     --bad: #ff7b72;
@@ -142,7 +142,7 @@ label { display: block; font-weight: 600; margin: 8px 0 4px; }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
 .grid .card { margin: 0; }
 .topic-card { text-decoration: none; display: flex; flex-direction: column; border-top: 4px solid var(--subject); transition: transform .12s, box-shadow .12s; }
-.topic-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(16, 24, 40, .12); }
+.topic-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(12, 40, 22, .12); }
 .topic-card p { flex: 1; font-size: .92rem; }
 .card-foot { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
 
@@ -350,7 +350,7 @@ tr:last-child td { border-bottom: 0; }
   /* Printed pages always use light colours, whatever the screen theme. */
   :root {
     --bg: #fff; --surface: #fff; --text: #111; --muted: #555; --line: #bbb;
-    --brand: #1f4e79; --ok: #1a7f37; --bad: #b42318;
+    --brand: #166534; --ok: #1a7f37; --bad: #b42318;
   }
   body { background: #fff; color: #111; font-size: 11pt; }
   .no-print, .site-header, .site-footer { display: none !important; }
@@ -381,7 +381,7 @@ tr:last-child td { border-bottom: 0; }
   .practice-q .question { font-size: 11pt; margin-bottom: 2mm; }
   .practice-q .badge { background: none; border: 1px solid #999; color: #111; }
   .practice-item textarea, .practice-item details { display: none !important; }
-  .print-answer { white-space: pre-wrap; overflow-wrap: anywhere; border-left: 3px solid #1f4e79; padding: 1mm 0 1mm 4mm; margin: 2mm 0; line-height: 1.5; }
+  .print-answer { white-space: pre-wrap; overflow-wrap: anywhere; border-left: 3px solid #166534; padding: 1mm 0 1mm 4mm; margin: 2mm 0; line-height: 1.5; }
   .print-answer.is-blank {
     border: 0; padding: 0; break-inside: avoid;
     height: calc(var(--lines) * 8mm);
@@ -389,7 +389,7 @@ tr:last-child td { border-bottom: 0; }
     -webkit-print-color-adjust: exact; print-color-adjust: exact;
   }
   .print-scheme { display: none !important; }
-  .print-schemes .print-scheme { display: block !important; background: #f3f5f8; border-radius: 2mm; padding: 2mm 4mm; margin: 2mm 0; font-size: 10pt; break-inside: avoid; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .print-schemes .print-scheme { display: block !important; background: #f1f7f3; border-radius: 2mm; padding: 2mm 4mm; margin: 2mm 0; font-size: 10pt; break-inside: avoid; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   .print-label { font-weight: 700; margin: 0 0 1mm; }
   .print-scheme ul { margin: 0 0 1mm; padding-left: 5mm; }
   .print-mark { text-align: right; font-weight: 700; margin: 2mm 0 0; }
@@ -409,4 +409,12 @@ tr:last-child td { border-bottom: 0; }
   .data-table table { font-size: .82rem; }
   .data-table th, .data-table td { padding: .28rem .35rem; }
   .data-table th { letter-spacing: 0; white-space: normal; }
+}
+
+/* Learning aim groups inside each section */
+.aim-group { margin: 6px 0 22px; }
+.aim-head { font-size: 1rem; margin: 0 0 10px; color: var(--subject); display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.aim-head .muted { font-weight: 400; }
+@media (prefers-color-scheme: dark) {
+  .aim-head, .jump-num { color: color-mix(in srgb, var(--subject) 45%, #ffffff); }
 }

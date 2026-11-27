@@ -1,10 +1,6 @@
 /* Learning aim D: Select and evaluate different sources of business finance. Written from the Unit 3 specification and Pearson mark schemes. */
 (function () {
-  window.TLV_CONTENT.subjects.push({
-    id: "aim-d",
-    title: "Learning aim D: Sources of business finance",
-    colour: "#1a7f37",
-    topics: [
+  window.U3_AIM("business", "Learning aim D: Sources of business finance", [
       {
         id: "D1.1",
         title: "D1.1 Internal sources and choosing finance",
@@ -84,6 +80,5 @@
           { id: "D12-p6", q: "The owner of a milkshake business wants to place 10 vending machines at local venues. Option 1: buy 10 second-hand machines at £1,200 each with a bank loan, paying 25% total interest over 4 years, plus £20 per machine per week for the location, electricity and security. Option 2: lease 10 new machines for 3 years at £40 per machine per week, which includes the location, electricity and security. Evaluate which option the owner should choose. (Past paper, January 2025. Scenario summarised from the mark scheme.)", marks: 12, answer: "Option 1 figures: loan £12,000 + 25% interest (£3,000) = £15,000 ÷ 48 = £312.50 a month. Location etc: £20 × 52 × 10 = £10,400 a year (£866.67 a month). Total about £1,179.17 a month (£14,150 a year).\n\nOption 2 figures: £40 × 52 × 10 = £20,800 a year = £1,733.33 a month.\n\nFor Option 1: owns the machines, which can be sold later; about £554 a month (£6,650 a year) cheaper; after 4 years only location costs remain.\n\nAgainst Option 1: second-hand machines may break down, causing lost income and repairs; 4-year commitment; time to get the loan; machines may be worth little after 4 years.\n\nFor Option 2: only a 3-year commitment; new machines are less likely to break, so cash flow is more predictable; can hand them back if the venture fails; easier budgeting; no capital tied up; no depreciation; quicker to arrange.\n\nAgainst Option 2: never owns the machines, so pays indefinitely; no asset to sell; pays for damage; expensive early termination charges.\n\nA strong answer uses the figures and reaches a supported judgement.\n\nLevels: 10 to 12 thorough, balanced evaluation with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description." }
         ]
       }
-    ]
-  });
+  ]);
 })();

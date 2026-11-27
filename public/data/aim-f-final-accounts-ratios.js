@@ -66,11 +66,7 @@
     ["Capital employed", "", "", "18,300"]
   ];
 
-  window.TLV_CONTENT.subjects.push({
-    id: "aim-f",
-    title: "Learning aim F: Final accounts and ratio analysis",
-    colour: "#9a6700",
-    topics: [
+  window.U3_AIM("business", "Learning aim F: Final accounts and ratio analysis", [
       {
         id: "F1",
         title: "F1 Statement of comprehensive income",
@@ -304,6 +300,5 @@
           { id: "F6-p2", q: "Candy is deciding whether she can afford to expand. Her ratios are: gross profit margin 64%, profit margin 38%, current ratio 1.2:1, trade receivable days 219. Analyse the limitations of ratio analysis to Candy in deciding whether she can afford to expand. (Past paper, June 2024. Scenario summarised from the mark scheme.)", marks: 8, answer: "Learners may analyse benefits and drawbacks of individual ratios or of ratio analysis overall.\n\nBenefits:\n- Compare current with past performance, useful for predicting whether expansion will succeed.\n- Compare with competitors to see what they may be doing better.\n- Monitor and identify issues to avoid past mistakes and improve performance.\n\nDrawbacks:\n- Information is historic and may not be relevant in future.\n- Ignores factors such as recession, economic, social or political change, supply chains, competitors and customers, which could lead Candy to the wrong decision.\n- Single ratios used alone prevent the right conclusions about overall performance.\n- Actual figures may matter more than percentages: £67,000 profit may be low even though 38% looks high.\n- Ratios may show likely performance and areas to improve, but don't create solutions.\n\nAllow analysis of the learner's own calculated figures.\n\nLevels: 7 to 8 thorough application with balanced analysis; 4 to 6 some linkages; 1 to 3 basic description." }
         ]
       }
-    ]
-  });
+  ]);
 })();

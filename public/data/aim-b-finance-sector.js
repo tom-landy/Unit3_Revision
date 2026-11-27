@@ -1,10 +1,6 @@
 /* Learning aim B: Explore the personal finance sector. Written from the Unit 3 specification and Pearson mark schemes. */
 (function () {
-  window.TLV_CONTENT.subjects.push({
-    id: "aim-b",
-    title: "Learning aim B: The personal finance sector",
-    colour: "#8250df",
-    topics: [
+  window.U3_AIM("personal", "Learning aim B: The personal finance sector", [
       {
         id: "B1",
         title: "B1 Features of financial institutions",
@@ -158,6 +154,5 @@
           { id: "B4-p4", q: "Explain one difference between an IVA and bankruptcy.", marks: 2, suggested: true, answer: "In an IVA the person keeps their assets, such as their home, and repays what they can over 5 to 6 years (1), whereas in bankruptcy their assets can be sold to repay creditors, but they are usually discharged after 12 months (1)." }
         ]
       }
-    ]
-  });
+  ]);
 })();

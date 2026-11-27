@@ -312,41 +312,51 @@
         "</section>";
     }
 
-    html += '<nav class="jump" aria-label="Jump to a section">' + CONTENT.subjects.map(function (s) {
-      var done = s.topics.filter(function (t) { return state.certificates[t.id]; }).length;
-      var m = s.title.match(new RegExp("^" + G.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\s+(\\w+):\\s*(.*)$"));
-      return '<button type="button" class="jump-btn" data-jump="' + esc(s.id) + '" style="--subject:' + esc(s.colour || "#1f4e79") + '">' +
-        '<span class="jump-top"><span class="jump-num">' + (m ? esc(SETTINGS.groupShort + m[1]) : "") + '</span>' +
-        '<span class="jump-count">' + done + "/" + s.topics.length + "</span></span>" +
-        '<span class="jump-name">' + esc(m ? m[2] : s.title) + "</span></button>";
-    }).join("") + "</nav>";
+    html += '<nav class="jump" aria-label="Jump to a learning aim">';
+    CONTENT.subjects.forEach(function (s, si) {
+      aimGroups(s).forEach(function (g, gi) {
+        var done = g.topics.filter(function (t) { return state.certificates[t.id]; }).length;
+        var a = splitAim(g.aim || s.title);
+        html += '<button type="button" class="jump-btn" data-jump="' + si + "-" + gi + '" style="--subject:' + esc(s.colour || "#166534") + '">' +
+          '<span class="jump-top"><span class="jump-num">' + esc(a.num) + '</span>' +
+          '<span class="jump-count">' + done + "/" + g.topics.length + "</span></span>" +
+          '<span class="jump-name">' + esc(a.name) + "</span></button>";
+      });
+    });
+    html += "</nav>";
 
     html += '<div class="search"><label for="topicSearch" class="sr-only">Search topics</label>' +
       '<input id="topicSearch" type="search" placeholder="Search topics…"></div>';
 
     CONTENT.subjects.forEach(function (s) {
       var done = s.topics.filter(function (t) { return state.certificates[t.id]; }).length;
-      html += '<section class="subject" id="sec-' + esc(s.id) + '" style="--subject:' + esc(s.colour || "#1f4e79") + '">' +
+      html += '<section class="subject" id="sec-' + esc(s.id) + '" style="--subject:' + esc(s.colour || "#166534") + '">' +
         '<div class="subject-head"><h2>' + esc(s.title) + "</h2>" +
         '<span class="muted">' + done + "/" + s.topics.length + " passed</span>" +
         (subjectComplete(state, s) ? ' <a class="badge gold" href="#/certificate/subject/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' certificate</a>' : "") +
         '<a class="btn small-btn head-action" href="#/test/' + encodeURIComponent(s.id) + '">' + esc(s.label || G) + ' test</a>' +
-        "</div>" +
-        '<div class="grid">';
-      s.topics.forEach(function (t) {
+        "</div>";
+      aimGroups(s).forEach(function (g, gi) {
+        var gdone = g.topics.filter(function (t) { return state.certificates[t.id]; }).length;
+        html += '<div class="aim-group" id="aim-' + CONTENT.subjects.indexOf(s) + "-" + gi + '">' +
+          (g.aim ? '<h3 class="aim-head">' + esc(g.aim) + ' <span class="muted small">' + gdone + "/" + g.topics.length + " passed</span></h3>" : "") +
+          '<div class="grid">';
+      g.topics.forEach(function (t) {
         var st = topicStats(state, t.id);
         var status = st.passed ? '<span class="badge pass">Passed</span>'
           : st.attempts ? '<span class="badge">Best ' + st.best + "%</span>"
           : '<span class="badge muted">Not started</span>';
         html += '<a class="card topic-card" href="#/topic/' + encodeURIComponent(t.id) + '" data-search="' +
-          esc((s.title + " " + t.title + " " + (t.summary || "")).toLowerCase()) + '">' +
+          esc((s.title + " " + (t.aim || "") + " " + t.title + " " + (t.summary || "")).toLowerCase()) + '">' +
           "<h3>" + esc(t.title) + "</h3>" +
           '<p class="muted">' + esc(t.summary || "") + "</p>" +
           '<div class="card-foot">' + status + '<span class="muted small">' + t.questions.length + " quiz" +
           ((t.practice || []).length ? " · " + t.practice.length + " written" : "") + "</span></div>" +
           "</a>";
       });
-      html += "</div></section>";
+        html += "</div></div>";
+      });
+      html += "</section>";
     });
 
     app.innerHTML = html;
@@ -354,9 +364,9 @@
 
     app.querySelectorAll(".jump-btn").forEach(function (b) {
       b.addEventListener("click", function () {
-        var sec = document.getElementById("sec-" + b.getAttribute("data-jump"));
+        var sec = document.getElementById("aim-" + b.getAttribute("data-jump"));
         if (!sec) return;
-        if (sec.hidden) { search.value = ""; search.dispatchEvent(new Event("input")); }
+        if (sec.hidden || sec.closest(".subject").hidden) { search.value = ""; search.dispatchEvent(new Event("input")); }
         // Measure the sticky header each time: it is taller on phones.
         var header = document.querySelector(".site-header");
         var offset = (header ? header.getBoundingClientRect().height : 0) + 12;
@@ -369,10 +379,15 @@
       var q = search.value.trim().toLowerCase();
       document.querySelectorAll(".subject").forEach(function (sec) {
         var any = false;
-        sec.querySelectorAll(".topic-card").forEach(function (card) {
-          var show = !q || card.getAttribute("data-search").indexOf(q) !== -1;
-          card.hidden = !show;
-          if (show) any = true;
+        sec.querySelectorAll(".aim-group").forEach(function (grp) {
+          var anyInGroup = false;
+          grp.querySelectorAll(".topic-card").forEach(function (card) {
+            var show = !q || card.getAttribute("data-search").indexOf(q) !== -1;
+            card.hidden = !show;
+            if (show) anyInGroup = true;
+          });
+          grp.hidden = !anyInGroup;
+          if (anyInGroup) any = true;
         });
         sec.hidden = !any;
       });
@@ -391,8 +406,8 @@
     var count = Math.min(t.questions.length, SETTINGS.questionsPerQuiz);
 
     var html = storageBanner() +
-      '<nav class="crumbs"><a href="#/">Topics</a> › ' + esc(s.title) + "</nav>" +
-      '<header class="page-head" style="--subject:' + esc(s.colour || "#1f4e79") + '">' +
+      '<nav class="crumbs"><a href="#/">Topics</a> › ' + esc(s.title) + (t.aim ? " › " + esc(splitAim(t.aim).num ? "Learning aim " + splitAim(t.aim).num : t.aim) : "") + "</nav>" +
+      '<header class="page-head" style="--subject:' + esc(s.colour || "#166534") + '">' +
       "<h1>" + esc(t.title) + "</h1>" +
       '<p class="muted">' + esc(t.summary || "") + "</p></header>" +
       '<div class="two-col"><section><h2>Resources</h2><div id="podcast"></div>';
@@ -619,7 +634,7 @@
       CONTENT.subjects.forEach(function (s) {
         var eps = live.filter(function (e) { return topicIndex[e.topic].subject === s; });
         if (!eps.length) return;
-        out += '<section class="subject" style="--subject:' + esc(s.colour || "#1f4e79") + '"><div class="subject-head"><h2>' + esc(s.title) + "</h2>" +
+        out += '<section class="subject" style="--subject:' + esc(s.colour || "#166534") + '"><div class="subject-head"><h2>' + esc(s.title) + "</h2>" +
           '<span class="muted">' + eps.length + " episode" + (eps.length === 1 ? "" : "s") + "</span></div>" +
           '<div class="podcast-grid">' + eps.map(function (e) { return podcastCardHtml(e, true); }).join("") + "</div></section>";
       });
@@ -641,6 +656,23 @@
       }
       return "<p>" + esc(block).replace(/\n/g, "<br>") + "</p>";
     }).join("");
+  }
+
+  // Split a section's topics into runs that share the same `aim` (learning aim) heading.
+  function aimGroups(s) {
+    var groups = [];
+    s.topics.forEach(function (t) {
+      var last = groups[groups.length - 1];
+      if (!last || last.aim !== (t.aim || "")) groups.push(last = { aim: t.aim || "", topics: [] });
+      last.topics.push(t);
+    });
+    return groups;
+  }
+
+  // "Learning aim A: Managing personal finance" -> { num: "A", name: "Managing personal finance" }
+  function splitAim(title) {
+    var m = String(title).match(/^(?:Learning aim\s+)?(\w+):\s*(.*)$/);
+    return m ? { num: m[1], name: m[2] } : { num: "", name: title };
   }
 
   // Optional data for a question: table: [["", "Jan", "Feb"], ["Inflows", "1 200", "900"], ...]
@@ -1071,7 +1103,7 @@
     var questions = pickQuestions(pool, SETTINGS.questionsPerQuiz, 4).map(function (x) { return prepQuestion(x.q, x.topic); });
 
     runQuiz({
-      colour: s.colour || "#1f4e79",
+      colour: s.colour || "#166534",
       crumbs: '<nav class="crumbs"><a href="#/topic/' + encodeURIComponent(t.id) + '">' + esc(t.title) + "</a> › Quiz</nav>",
       questions: questions,
       finish: function (score, total, responses) {
@@ -1128,7 +1160,7 @@
     var started = Date.now();
 
     runQuiz({
-      colour: s.colour || "#1f4e79",
+      colour: s.colour || "#166534",
       crumbs: '<nav class="crumbs"><a href="#/">Topics</a> › ' + esc(s.title) + " test</nav>",
       questions: questions,
       finish: function (score, total, responses) {
@@ -1183,7 +1215,7 @@
     }
     var questions = shuffle(pool).slice(0, 10).map(function (x) { return prepQuestion(x.q, x.topic); });
     runQuiz({
-      colour: "#1f4e79",
+      colour: "#166534",
       crumbs: '<nav class="crumbs"><a href="#/progress">My progress</a> › Practise my mistakes</nav>',
       questions: questions,
       finish: function (score, total, responses) {
@@ -1228,7 +1260,7 @@
     function render() {
       var remaining = deck.length + 1;
       app.innerHTML = '<nav class="crumbs"><a href="#/topic/' + encodeURIComponent(t.id) + '">' + esc(t.title) + "</a> › Flashcards</nav>" +
-        '<section class="cards-wrap" style="--subject:' + esc(s.colour || "#1f4e79") + '">' +
+        '<section class="cards-wrap" style="--subject:' + esc(s.colour || "#166534") + '">' +
         '<div class="quiz-top"><span>' + remaining + " card" + (remaining === 1 ? "" : "s") + " left</span>" +
         '<label class="check small"><input type="checkbox" id="flipMode"' + (flipBack ? " checked" : "") + "> Show definition first</label></div>" +
         '<button type="button" class="flashcard' + (flipped ? " is-flipped" : "") + '" id="card" aria-live="polite">' +
@@ -1512,7 +1544,7 @@
     }
     app.innerHTML = certificateHtml({
       back: "#/topic/" + encodeURIComponent(t.id),
-      colour: s.colour || "#1f4e79",
+      colour: s.colour || "#166534",
       name: state.student.name,
       reason: "has passed the revision quiz for",
       topic: t.title,
@@ -1546,7 +1578,7 @@
     var date = subjectCompletionDate(state, s);
     app.innerHTML = certificateHtml({
       back: "#/progress",
-      colour: s.colour || "#1f4e79",
+      colour: s.colour || "#166534",
       name: state.student.name,
       reason: "has passed every revision quiz in",
       topic: s.title,
