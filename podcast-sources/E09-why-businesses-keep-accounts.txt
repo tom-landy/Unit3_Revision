@@ -1,0 +1,189 @@
+UNIT 3 PODCAST SOURCE PACK: E09 Why businesses keep accounts
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: The purposes of accounting, capital vs revenue income and expenditure, tangible and intangible assets, and straight-line vs reducing balance depreciation with one slow worked example.
+
+=== WHAT THE SPECIFICATION SAYS ===
+C1 Purpose of accounting
+- Recording transactions.
+- Management of business (planning, monitoring and controlling).
+- Compliance (preventing fraud, compliance with law and regulations).
+- Measuring performance.
+- Control – assisting with the prevention of fraud, trade receivables and trade payables.
+C2 Types of income
+- Capital income:
+  - loan
+  - mortgages
+  - shares
+  - owner’s capital
+  - debentures.
+- Revenue income:
+  - cash sales
+  - credit sales
+  - rent received
+  - commission received
+  - interest received
+  - discount received.
+C3 Types of expenditure
+- Capital expenditure:
+  - non-current assets – tangible (land, buildings and premises, machinery and
+equipment, vehicles, fixtures and fittings)
+  - intangible (goodwill, patents, trademarks, brand names).
+- Revenue expenditure:
+  - inventory
+  - rent
+  - rates
+  - heating and lighting
+  - water
+  - insurance
+  - administration
+  - telephone
+  - postage
+  - stationery
+  - salaries
+  - wages
+  - marketing
+  - bank charges
+  - interest paid
+  - straight-line depreciation
+  - reducing balance depreciation
+  - discount allowed.
+
+=== KEY POINTS: C1 Purpose of accounting (Section B: Business finance) ===
+Why businesses keep accounts:
+
+Recording transactions
+- An accurate record of every sale, purchase, receipt and payment.
+- Needed to work out profit, pay the right tax (sole traders complete a Self Assessment tax return; VAT-registered businesses submit VAT returns) and answer questions from HMRC. Records must be kept for several years.
+
+Management of the business
+- Planning: budgets and forecasts (e.g. cash flow forecasts) set out what should happen.
+- Monitoring: compare actual results with the plan to spot differences (variances).
+- Controlling: take action when results are off target, e.g. cut costs or chase customers.
+
+Compliance
+- With the law and regulations: tax rules, VAT, employment law (payroll records), and for companies the Companies Act.
+- Preventing fraud: clear records, checks, separating duties and audits make theft and false entries harder to hide.
+
+Measuring performance
+- Profit, and ratios such as profit margin and ROCE, show how well the business is doing.
+- Compare with previous years, targets and competitors.
+- Stakeholders use the accounts: the owner, lenders (before giving a loan), investors, HMRC, suppliers (before giving credit).
+
+Control of trade receivables and trade payables
+- Trade receivables: customers who owe the business money for credit sales. Keeping records shows who owes what and how late they are, so debts can be chased and bad debts avoided.
+- Trade payables: suppliers the business owes. Records make sure suppliers are paid on time, protecting the business's credit rating and relationships, and allowing it to take any prompt payment discounts.
+
+=== GLOSSARY: C1 Purpose of accounting ===
+- Recording transactions: Keeping an accurate record of all sales, purchases, receipts and payments.
+- Planning: Setting budgets and forecasts for the future.
+- Monitoring: Comparing actual results with the plan.
+- Controlling: Taking action when results are off target.
+- Compliance: Following tax law and other regulations.
+- Trade receivables: Customers who owe the business money for credit sales.
+- Trade payables: Suppliers the business owes money to.
+- Variance: The difference between planned and actual figures.
+
+=== KEY POINTS: C2 Types of income (Section B: Business finance) ===
+Capital income: money put into the business to fund it, usually for the long term. It doesn't come from trading.
+- Loan: borrowed from a bank and repaid with interest.
+- Mortgage: a long-term loan secured on property.
+- Shares: money from selling part-ownership (limited companies only, not sole traders).
+- Owner's capital: the owner's own money invested in the business.
+- Debentures: long-term loans to a company, usually at a fixed rate of interest and often secured on assets.
+Capital income appears in the statement of financial position (as a liability or as capital), not in the statement of comprehensive income.
+
+Revenue income: money earned from the day-to-day running of the business.
+- Cash sales: paid for straight away.
+- Credit sales: goods sold now and paid for later (creates trade receivables).
+- Rent received: from letting out part of the business's property.
+- Commission received: earned for selling something on someone else's behalf.
+- Interest received: earned on money in the business's bank account.
+- Discount received: a reduction given by a supplier, e.g. for paying early.
+Sales go at the top of the statement of comprehensive income. Other revenue income (rent, commission, interest, discount received) is added after gross profit as 'other income'.
+
+Tip: ask 'did this come from trading or running the business?' If yes, it's revenue income. If it was money put in or borrowed to fund the business, it's capital income.
+
+=== GLOSSARY: C2 Types of income ===
+- Capital income: Money put into or borrowed by the business, not from trading.
+- Revenue income: Money earned from the day-to-day running of the business.
+- Debenture: Long-term loan to a company at a fixed interest rate.
+- Owner's capital: The owner's own money invested in the business.
+- Discount received: A reduction from a supplier, e.g. for paying early. Revenue income.
+- Commission received: Earned for selling on someone else's behalf. Revenue income.
+- Credit sales: Sold now, paid for later. Creates trade receivables.
+
+=== KEY POINTS: C3 Types of expenditure and depreciation (Section B: Business finance) ===
+Capital expenditure: buying non-current assets, which the business keeps and uses for more than a year.
+- Tangible (physical): land, buildings and premises, machinery and equipment, vehicles, fixtures and fittings.
+- Intangible (not physical): goodwill (the value of a business's reputation and customer base above its assets), patents, trademarks, brand names.
+Capital expenditure appears in the statement of financial position as non-current assets.
+
+Revenue expenditure: day-to-day running costs used up within the year: inventory (purchases), rent, rates, heating and lighting, water, insurance, administration, telephone, postage, stationery, salaries, wages, marketing, bank charges, interest paid, depreciation (straight-line and reducing balance) and discount allowed (a reduction given to customers, e.g. for paying early).
+Revenue expenditure appears in the statement of comprehensive income as cost of sales or expenses.
+
+Depreciation: the fall in value of a non-current asset over time, through wear and tear or becoming out of date. It is an expense in the statement of comprehensive income, and accumulated depreciation is taken off the asset's cost in the statement of financial position to give the net book value (NBV). For intangible assets this is called amortisation.
+
+Straight-line depreciation: the same amount every year.
+- Formula used in Unit 3: cost × %.
+- Example: van cost £12,000, 15% straight-line. Depreciation = £1,800 every year. After 3 years, accumulated depreciation £5,400, NBV £6,600.
+
+Reducing balance depreciation: a percentage of the net book value each year, so the charge gets smaller.
+- Formula: (cost − depreciation to date) × %.
+- Example: machine cost £40,000, 20% reducing balance. Year 1: £40,000 × 20% = £8,000, NBV £32,000. Year 2: £32,000 × 20% = £6,400, NBV £25,600.
+- Suits assets that lose most value early, such as vehicles and computers.
+
+Net book value = cost − accumulated depreciation.
+
+=== GLOSSARY: C3 Types of expenditure and depreciation ===
+- Capital expenditure: Buying non-current assets kept for more than a year.
+- Revenue expenditure: Day-to-day running costs used up within the year.
+- Tangible asset: A physical non-current asset, e.g. machinery or vehicles.
+- Intangible asset: A non-physical asset, e.g. goodwill, patents, brand names.
+- Goodwill: Value of a business's reputation and customers above its assets.
+- Straight-line depreciation: Cost × %. The same charge every year.
+- Reducing balance depreciation: (Cost − depreciation to date) × %. Charge falls each year.
+- Net book value: Cost − accumulated depreciation.
+- Discount allowed: A reduction given to customers. Revenue expenditure.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (2 marks): Give two purposes of accounting. (Past paper, June 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: recording transactions; planning; monitoring; controlling; compliance with law and regulations; preventing fraud; measuring performance.
+
+QUESTION (2 marks): Explain what is meant by the term credit purchase. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Buying goods or services from a supplier now (1) and paying for them at a later date, e.g. within 30 days, which creates a trade payable (1).
+
+QUESTION (2 marks): Give two examples of non-current assets. (Past paper, June 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: land; buildings and premises; machinery and equipment; vehicles; fixtures and fittings; goodwill; patents; trademarks; brand names.
+
+'Tangible' and 'intangible' are not examples, so get no marks.
+
+QUESTION (2 marks): State two current assets. (Past paper, January 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: inventory (stock); trade receivables (debtors); bank; cash; prepayments.
+
+QUESTION (2 marks): State two types of revenue expenditure. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each, up to 2: inventory; rent; rates; heating and lighting; water; insurance; administration; telephone; postage; stationery; salaries; wages; marketing; bank charges; interest paid; depreciation; discount allowed.
+
+QUESTION (3 marks): Cody's Chauffeurs' vehicles had a net book value of £500,000 at the end of 2025. Depreciation for 2025 was £90,000 and Cody uses the straight-line method. Calculate the net book value of the vehicles at the end of 2027. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+3 marks for £320,000.
+
+Otherwise:
+- 2 marks for £500,000 − (2 × £90,000) or two years' depreciation of £180,000
+- 1 mark for recognising that straight-line depreciation stays at £90,000 a year, or for the formula: NBV = cost − accumulated depreciation
+
+QUESTION (4 marks): Tom's mobile milkshake van was purchased for £25,500 on 1 January 2023. He has decided to depreciate this by 10% per year using the reducing balance method. Calculate the net book value of the van on 31 December 2024. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+4 marks for £20,655.
+
+Otherwise:
+- 3 marks for depreciation at the end of 2024 of £2,295
+- 2 marks for net book value at the end of 2023 of £22,950
+- 1 mark for depreciation at the end of 2023 of £2,550
+AND 1 mark for the formula in words: cost − depreciation to date × %.
+
+Working: 2023: £25,500 × 10% = £2,550, NBV £22,950. 2024: £22,950 × 10% = £2,295, NBV £20,655.

@@ -1,0 +1,138 @@
+UNIT 3 PODCAST SOURCE PACK: E05 Saving and investing
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: Saving vs investing, risk and reward, ISAs, savings accounts, Premium Bonds, bonds and gilts, shares and pensions, AER and compound interest. Use the Tia and Zayan 12-mark scenarios to show how to compare options.
+
+=== WHAT THE SPECIFICATION SAYS ===
+A4 Managing personal finance
+- Suitability of different financial products and services against individual needs.
+- Different types of borrowing, features, advantages and disadvantages:
+  - overdraft
+  - personal loans
+  - hire purchase
+  - mortgages
+  - credit cards
+  - payday loans
+- Different types of saving and investment features, advantages and disadvantages:
+  - individual savings accounts (ISAs)
+  - deposit and savings accounts
+  - premium bonds
+  - bonds and gilts
+  - shares
+  - pensions.
+- Risks and rewards of saving versus investment.
+- Different insurance products:
+  - products (car, home and contents, life assurance and insurance, travel, pet, health)
+  - different types of insurance policy for each product
+  - features of different types of insurance
+  - advantages and disadvantages of different types and features.
+
+=== KEY POINTS: A4.2 Saving and investing (Section A: Personal finance) ===
+Saving: putting money somewhere safe, usually a bank account, where the amount you put in can't fall. Low risk, low return.
+Investing: buying assets such as shares or bonds hoping for a higher return. The value can go down as well as up. Usually for the longer term (5 years or more).
+
+AER (annual equivalent rate): shows what interest you'd earn in a year including compounding. Use it to compare savings. Fixed rates stay the same; variable rates can change.
+
+Individual Savings Accounts (ISAs)
+- No tax on interest or investment returns. Annual allowance £20,000 across all your ISAs (check the current rules: the government has announced a lower cash ISA limit for under-65s from April 2027).
+- Cash ISA: like a savings account but tax-free. Stocks and shares ISA: investments, tax-free. Lifetime ISA (age 18 to 39): up to £4,000 a year with a 25% government bonus, for a first home or retirement; a penalty if withdrawn for anything else. Junior ISA: for under-18s.
+- Disadvantages: annual limit; rates can be lower than some ordinary accounts; fixed-rate ISAs lock money away.
+
+Deposit and savings accounts
+- Instant (easy) access, notice accounts (e.g. 90 days' notice), fixed-term bonds (money locked away for a higher fixed rate), regular savers (high rate but monthly limit).
+- Advantages: safe, protected by the FSCS, easy to open.
+- Disadvantages: low interest, often below inflation; penalties or no access on fixed accounts.
+
+Premium Bonds (from NS&I)
+- Minimum £25, maximum £50,000. No interest; instead each £1 bond is entered into a monthly prize draw, from £25 up to £1 million. Prizes are tax-free.
+- Advantages: 100% backed by the government; instant access; chance of a big win.
+- Disadvantages: you might win nothing, so inflation reduces the value of your money; average returns can be lower than a good savings account.
+
+Bonds and gilts
+- Lending money to the government (gilts) or a company (corporate bonds) for a fixed period in return for regular fixed interest.
+- Advantages: predictable income; gilts are very low risk.
+- Disadvantages: money is tied up; if sold early the price may be lower; corporate bonds carry the risk the company fails.
+
+Shares
+- Buying part-ownership of a company. Returns come from dividends and from the share price rising.
+- Advantages: highest potential long-term return; can be traded easily.
+- Disadvantages: share prices can fall and you can lose money; dividends aren't guaranteed; dealing fees; the FSCS doesn't cover falls in value.
+
+Pensions
+- State pension: paid from state pension age if you have enough National Insurance years (35 for the full new state pension).
+- Workplace pension: automatic enrolment for most employees, with employer contributions (at least 3%, 8% in total).
+- Personal pension: arranged yourself.
+- Advantages: tax relief on contributions; employer adds money; builds income for retirement.
+- Disadvantages: can't usually access until 55 (rising to 57 from 2028); value of invested pensions can fall.
+
+Risk and reward: higher possible return means higher risk. Choose based on the goal, how long the money can be tied up, whether you need access, and how much risk you can accept.
+
+Interest, tax and spreading savings
+- Savings rates generally follow the Bank of England base rate: when it rises, savers usually earn more.
+- Interest can be paid monthly, quarterly or yearly.
+- Tax on interest: interest outside an ISA can be taxed once it goes over the Personal Savings Allowance (£1,000 a year for basic rate taxpayers, £500 for higher rate). ISA interest is always tax-free.
+- Spreading savings across different accounts gives a mix of instant access and higher fixed rates, and keeps each amount within the FSCS limit per bank.
+- Match the account to the customer: easy access for an emergency fund; fixed-rate bonds for money not needed for a while; Lifetime ISA for a first-time buyer aged 18 to 39; regular saver for someone saving a set amount each month.
+
+=== GLOSSARY: A4.2 Saving and investing ===
+- Personal Savings Allowance: Interest you can earn tax-free outside an ISA: £1,000 basic rate, £500 higher rate.
+- Why spread savings?: Mix of access and rates, and stays within the FSCS limit per bank.
+- ISA: Individual Savings Account. Interest and returns are tax-free.
+- ISA allowance: £20,000 a year across all ISAs (check for changes).
+- Premium Bonds: NS&I. No interest; monthly prize draw. Government-backed.
+- Gilts: Bonds issued by the UK government. Very low risk.
+- Shares: Part-ownership of a company. Dividends and growth, but can fall in value.
+- AER: Annual equivalent rate: compares savings interest including compounding.
+- Lifetime ISA: Age 18 to 39. 25% government bonus for a first home or retirement.
+- Auto-enrolment: Employers must put eligible staff into a workplace pension.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (2 marks): Explain one advantage for an individual of investing in Premium Bonds. (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for the advantage and 1 for a linked development, e.g.:
+- Minimum purchase is £25 (1), so most people can afford it (1).
+- Chance of winning the top prize of £1,000,000 (1), so the investment could grow a lot (1).
+- Prizes are tax-free (1), so you keep everything you win (1).
+- Backed by the government (1), so no risk of losing your money (1).
+- Instant access (1), so it is a flexible way to keep money (1).
+
+QUESTION (12 marks): Zayan is a 19-year-old university student. He often uses his agreed bank overdraft to pay his rent and for holidays. He has inherited £15,000 which he wants to invest. His goal is to open his own business within the next two years. He has estimated that opening a business will cost £16,500. Zayan has researched four savings and investment options, shown in the table. (Deposit guaranteed means the value of your investment won't go down and you will get back at least the sum invested.) Evaluate which saving/investment option would be most suitable for Zayan. (Past paper, January 2026)
+DATA:
+Option | Minimum investment | AER % | Fees | Deposit guaranteed | Period
+Stocks and shares ISA | £50 lump sum and £50 per month | 7.8% fixed for 6 months then variable | 1.5% of investment | No | 2 years
+Bonds and gilts | £1,000 | 5.06% fixed | 0 | Yes | 4 years
+British saving bond | £500 | 4.10% fixed | £100 | Yes | 3 years
+Open access cash ISA | £500 | 4.81% variable + 0.71% bonus if no withdrawals in first 12 months | 0 | Yes | 2 years, instant access, 3 withdrawals a year
+MARK SCHEME (Pearson mark scheme (condensed)):
+Stocks and shares: lowest minimum (£50), but £50 a month may be hard for a student. Highest rate, but only fixed for 6 months. At 7.8% for 2 years he'd earn £1,170 then £1,261.26, beating his target even after 1.5% fees (£225). But his money isn't guaranteed; he could lose his inheritance. Only tied up for 2 years.
+
+Bonds and gilts: £1,000 minimum is fine. 5.06% fixed: £759 then £797.40, so £16,556.40 after 2 years, hitting the target. No fees, guaranteed. But tied up for 4 years, so he can't start the business in 2.
+
+British savings bond: 4.10% earns £615 then about £640, short of £1,500, and £100 fees. Guaranteed, but the 3-year term is too long.
+
+Cash ISA: 4.81% variable; with no withdrawals 5.52%, which would hit the target if the rate holds. Guaranteed, tax-free. Instant access is useful for emergencies as a student, but he may be tempted to spend.
+
+Application: he's 19, a student, needs exactly £16,500 in 2 years, may need money in an emergency.
+
+A strong answer reaches a supported judgement, e.g. the cash ISA balances safety, access and the target, or stocks and shares only if he accepts the risk.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks): Tia is 28 and works as a supply teacher, so her earnings are often unpredictable. When Tia has paid her utility bills and living expenses each month, she has between £100 and £400 left over, which she would like to save. She has £1,500 in her current account. Her personal goals are to buy her own home and to save money for emergencies and for travelling. Tia has researched the savings options in the table, available through her bank. Evaluate which option would be the most suitable for Tia. (Past paper, January 2024)
+DATA:
+Account | AER % | Term | Minimum deposit | Maximum monthly deposit | Instant access
+Regular saver | 5% variable | 12 months | £1,000 | £200 | Yes
+Deposit account | 3.5% fixed | 3 years | £2,000 | £7,000 | No
+Cash ISA | 2.75% fixed | 2 years | £1 | £20,000 per year | Yes, but lose 6 months' interest
+Current account | 1.5% on credit balances | N/A | £1 | No limit | Yes
+MARK SCHEME (Pearson mark scheme (condensed)):
+Regular saver: highest rate at 5%, only 12 months, she has the £1,000 to open it, instant access helps if supply work dries up. But the £200 monthly maximum may be too low in months she can save £400.
+
+Deposit account: second highest rate (3.5%) but she needs £2,000 to open and only has £1,500. Money locked for 3 years, so no use if work dries up or she wants to travel. £7,000 monthly limit is plenty.
+
+Cash ISA: 2.75%, can open with £1 straight away, £20,000 limit easily covers her £1,200 to £4,800 a year. Instant access, but she loses the interest if she withdraws.
+
+Current account: lowest rate (1.5%) but already open, no limits, instant access, which suits an unpredictable income.
+
+A strong answer reaches a supported judgement, e.g. the regular saver for up to £200 a month plus the cash ISA or current account for anything above that.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.

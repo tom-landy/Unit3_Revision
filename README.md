@@ -172,4 +172,7 @@ Rules:
 
 ## Podcasts
 
+A 15-episode series is planned and listed in `public/data/podcasts.js` (E01.m4a to E15.m4a). Episodes stay hidden until their audio file is uploaded to `public/audio/` with exactly that name. `podcast-sources/` has a NotebookLM source pack for each episode, plus the customise prompts and checks, in `podcast-sources/README.md`.
+
+
 List episodes in `public/data/podcasts.js` and put the files in `public/audio/` with exactly the listed names. Each appears once its file is uploaded.

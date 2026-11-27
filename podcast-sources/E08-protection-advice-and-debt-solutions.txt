@@ -1,0 +1,156 @@
+UNIT 3 PODCAST SOURCE PACK: E08 Protection, advice and debt solutions
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: The FCA, Financial Ombudsman Service, FSCS and consumer credit law; then Citizens Advice, IFAs, price comparison sites, debt counsellors, IVAs and bankruptcy. Use the Connor and Roberto scenarios.
+
+=== WHAT THE SPECIFICATION SAYS ===
+B3 Consumer protection in relation to personal finance
+Function, role and responsibilities of:
+- Financial Conduct Authority (FCA)
+- Financial Ombudsman Service (FOS)
+- Financial Services Compensation Scheme (FSCS)
+- legislation – consumer credit.
+B4 Information, guidance and advice
+Function, role and responsibilities, advantages and disadvantages of:
+- Citizens Advice
+- independent financial advisor (IFA)
+- price comparison websites
+- debt counsellors
+- Individual Voluntary Arrangements (IVAs)
+- bankruptcy.
+
+=== KEY POINTS: B3 Consumer protection (Section A: Personal finance) ===
+Financial Conduct Authority (FCA)
+- Regulates how financial services firms behave, to protect consumers and keep markets fair.
+- Authorises firms: they must be on the FCA register to offer financial services. Check the register before dealing with a firm.
+- Sets rules, e.g. the payday loan price cap and the Consumer Duty (since 2023), which requires firms to deliver good outcomes for customers.
+- Investigates firms and can fine them, ban individuals, or make firms pay compensation.
+- Has regulated consumer credit (loans, credit cards, payday lenders) since 2014.
+
+Financial Ombudsman Service (FOS)
+- A free, independent service that settles complaints between consumers and financial firms.
+- First complain to the firm. It has 8 weeks to give a final response. If you're not happy, you can go to the FOS, usually within 6 months.
+- If the consumer accepts the FOS decision, it is legally binding on the firm. It can order the firm to put things right or pay compensation (up to a set limit).
+- It does not regulate or fine firms; that is the FCA.
+
+Financial Services Compensation Scheme (FSCS)
+- Pays compensation if an authorised firm fails (goes bust).
+- Deposits are protected up to £120,000 per person per banking licence (raised from £85,000 on 1 December 2025; older mark schemes say £85,000). Joint accounts are protected up to twice that.
+- Also covers some investments, insurance and bad advice from failed firms.
+- Free to consumers; funded by a levy on financial firms.
+- Purpose: raises public confidence in the financial system and prevents panic withdrawals.
+
+Consumer credit legislation (Consumer Credit Act 1974, updated in 2006)
+- Credit agreements must be in writing and show the APR and total cost.
+- A 14-day cooling-off period to cancel most credit agreements.
+- Section 75: the card provider is jointly liable with the seller for credit card purchases between £100 and £30,000, so you can claim from the card company if goods don't arrive or are faulty.
+- The right to repay early, with a reduced interest charge.
+- Lenders must check you can afford the credit and treat customers in difficulty fairly.
+
+Order of events: firm behaves badly → complain to the firm → if not resolved, go to the FOS. Firm fails → FSCS pays compensation. FCA sets and enforces the rules throughout.
+
+=== GLOSSARY: B3 Consumer protection ===
+- FCA: Financial Conduct Authority. Regulates financial firms, sets rules, can fine them.
+- FOS: Financial Ombudsman Service. Free, independent settling of complaints.
+- FSCS: Compensation if an authorised firm fails. Deposits protected up to £120,000.
+- Consumer Credit Act 1974: Written agreements, APR shown, cooling-off, Section 75.
+- Cooling-off period: 14 days to cancel most credit agreements.
+- Consumer Duty: FCA rule (2023) that firms must deliver good outcomes for customers.
+- FOS time limit: Firm has 8 weeks to respond; then go to the FOS within 6 months.
+
+=== KEY POINTS: B4 Information, guidance and advice (Section A: Personal finance) ===
+Citizens Advice
+- A charity giving free, confidential, impartial advice on money, debt, benefits, housing and consumer rights. Online, phone and local offices.
+- Advantages: free; trusted; helps people in difficulty; can refer to specialists.
+- Disadvantages: waiting times; advice is general, not product recommendations; staffed partly by volunteers.
+
+Independent financial advisor (IFA)
+- A qualified professional who recommends products from the whole market, not just one provider. Regulated by the FCA.
+- Advantages: impartial advice; more choice so a better fit for your situation; expert, up to date; you can complain to the FOS if the advice is poor.
+- Disadvantages: fees (hourly, fixed or a percentage of the money invested) can be high; not worth it for small sums; quality varies.
+- A restricted advisor only covers some products or providers.
+
+Price comparison websites (e.g. for insurance, energy, loans)
+- Advantages: free; quick to compare many providers; can save money; reviews and filters.
+- Disadvantages: not every provider is listed; the sites are paid commission, which may affect rankings; focus on price rather than the level of cover; they don't give personal advice; your data may be used for marketing.
+
+Debt counsellors
+- Free from charities such as StepChange and National Debtline; some companies charge fees.
+- Help people make a budget, prioritise debts, negotiate with lenders, and choose a solution such as a debt management plan, IVA or bankruptcy.
+- Advantages: free expert help; can stop a situation getting worse; reduce stress.
+- Disadvantages: fee-charging firms can be expensive; solutions usually affect your credit rating.
+
+Individual Voluntary Arrangement (IVA)
+- A legally binding agreement with creditors, set up by an insolvency practitioner. You make one affordable monthly payment, usually for 5 to 6 years, and the remaining unsecured debt is written off. Creditors owed at least 75% of the debt (by value) must agree.
+- Advantages: avoids bankruptcy; one fixed monthly payment helps budgeting; interest and charges are frozen; creditors can't take legal action; you can usually keep your home; debt-free at the end.
+- Disadvantages: fees (often several thousand pounds), so usually only suitable for larger debts (around £10,000+); credit rating damaged for at least 6 years; some debts can't be included (e.g. court fines); windfalls may have to go into the IVA; it's on the public Insolvency Register and may affect jobs in finance or law; if you fail to keep up payments you may be made bankrupt.
+
+Bankruptcy
+- A legal process for people who can't pay their debts. Your assets (possibly including your home and car) are taken by a trustee (the Official Receiver) and sold to repay creditors. Most people are discharged after 12 months and the remaining debts are written off.
+- Advantages: a fresh start; creditors must stop chasing you; most debts written off.
+- Disadvantages: you may lose your home and valuable possessions; an application fee; credit rating damaged for 6 years; public record; restrictions (e.g. can't be a company director, must tell lenders if borrowing over £500); some jobs are affected.
+
+=== GLOSSARY: B4 Information, guidance and advice ===
+- Citizens Advice: Free, impartial charity advice on money, debt and consumer rights.
+- IFA: Independent financial advisor. Recommends from the whole market; charges fees.
+- Price comparison website: Compares providers quickly but not all are listed; paid by commission.
+- Debt counsellor: Helps budget, negotiate with creditors and choose a debt solution.
+- IVA: Legally binding deal to repay what you can over 5 to 6 years; the rest is written off.
+- Bankruptcy: Legal process: assets sold to pay creditors; usually discharged after 12 months.
+- Insolvency practitioner: Licensed professional who sets up and runs an IVA.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (2 marks): State two roles of the Financial Services Compensation Scheme (FSCS). (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2:
+- Compensates customers up to a set level if a firm fails / protects money in accounts (the January 2025 mark scheme gives £85,000, or £170,000 for joint accounts; from 1 December 2025 this rose to £120,000 and £240,000)
+- Raises public confidence in the financial services industry
+- Protects against misleading financial advice from failed firms
+
+QUESTION (4 marks): Explain two advantages for an individual of using an independent financial advisor (IFA). (Past paper, June 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for each advantage and 1 for a linked development, up to 4:
+- Impartial advice (1), as products from the whole market are considered, not just one provider (1).
+- More choice (1), so more likely to get a product suited to their situation (1).
+- Regulated by the FCA (1), so they are protected (1).
+- They gather information about your current finances (1) and help you reach your goals (1).
+- Qualified experts (1), so advice is reliable and up to date (1).
+
+QUESTION (6 marks): Connor is 26 years old. He lives alone in a house that he bought five years ago. He was made redundant from his job eight months ago. He has no savings and owes £4,000 to the bank for missed mortgage payments. Connor also owes £2,000 for utility bills and he has credit card debts of £4,500. He recently sought help from Citizens Advice who suggested that he consider applying for an Individual Voluntary Arrangement (IVA). Discuss the advantages and disadvantages to Connor of applying for an IVA. (Past paper, January 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+Advantages:
+- Avoids bankruptcy.
+- Some of his debts may be written off.
+- One fixed monthly repayment, which helps budgeting.
+- Interest on his debts is frozen from when the IVA is approved.
+- Creditors' legal action is stopped.
+- Most IVAs make you debt-free in five to six years.
+- Because of the fees, IVAs suit debts over about £10,000, and Connor owes £10,500.
+- He can keep his home and carry on paying his mortgage.
+
+Disadvantages:
+- His credit rating will be damaged during the IVA and possibly after.
+- Some debts can't be included, e.g. court fines.
+- Any unexpected money may have to go into the IVA.
+- It may have to be disclosed to future lenders or employers, affecting borrowing, renting or jobs in finance or law.
+- It must be set up by a professional and involves fees (around £5,000), which is high compared with his debt.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks): Roberto has an annual income of £23,000 after tax and other deductions. He has debts of £22,500. Roberto is struggling to manage his monthly outgoings and is considering using a debt counsellor. Discuss the advantages and disadvantages for Roberto of using a debt counsellor. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Context: his debts are almost a full year's take-home pay (about 98%), so he needs a plan.
+
+Advantages:
+- Free help from charities such as StepChange or Citizens Advice.
+- Helps him build a budget and prioritise essential debts (rent, council tax, utilities).
+- Can negotiate with creditors to lower payments or freeze interest.
+- Can explain options: debt management plan, IVA (his debts are well above the £10,000 usually needed), or bankruptcy.
+- Reduces stress and stops the situation getting worse.
+
+Disadvantages:
+- Fee-charging debt management companies can be expensive, taking money that could repay debts.
+- Any formal solution (DMP, IVA, bankruptcy) harms his credit rating for years.
+- Creditors don't have to accept a plan.
+- Can take time to set up, and he must stick to a strict budget.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.

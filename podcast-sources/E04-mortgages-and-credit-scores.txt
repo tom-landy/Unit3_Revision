@@ -1,0 +1,200 @@
+UNIT 3 PODCAST SOURCE PACK: E04 Mortgages and credit scores
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: Mortgage types (fixed, tracker, SVR, offset), repayment vs interest-only, loan-to-value, what happens when the base rate changes, what lenders check, and how credit scores affect borrowing.
+
+=== WHAT THE SPECIFICATION SAYS ===
+A4 Managing personal finance
+- Suitability of different financial products and services against individual needs.
+- Different types of borrowing, features, advantages and disadvantages:
+  - overdraft
+  - personal loans
+  - hire purchase
+  - mortgages
+  - credit cards
+  - payday loans
+- Different types of saving and investment features, advantages and disadvantages:
+  - individual savings accounts (ISAs)
+  - deposit and savings accounts
+  - premium bonds
+  - bonds and gilts
+  - shares
+  - pensions.
+- Risks and rewards of saving versus investment.
+- Different insurance products:
+  - products (car, home and contents, life assurance and insurance, travel, pet, health)
+  - different types of insurance policy for each product
+  - features of different types of insurance
+  - advantages and disadvantages of different types and features.
+
+=== KEY POINTS: A4.1 Borrowing (Section A: Personal finance) ===
+APR (annual percentage rate): the yearly cost of borrowing including interest and compulsory fees. Use it to compare products. Lower is cheaper.
+
+Secured borrowing is linked to an asset (e.g. a house) that can be taken if you don't repay. Unsecured borrowing isn't, so it usually costs more.
+
+Overdraft: borrowing on a current account up to an agreed limit.
+- Advantages: flexible, can be arranged in advance, interest only on what you use for the days you use it, repaid automatically when money goes in.
+- Disadvantages: high interest (often around 35 to 40% APR), repayable on demand, easy to stay in it permanently, unarranged overdrafts can lead to refused payments.
+
+Personal loan: a fixed amount over a fixed term (e.g. 1 to 7 years), repaid in fixed monthly instalments. Usually unsecured.
+- Advantages: easy to budget, lower APR than an overdraft or credit card for larger amounts, money paid in one go.
+- Disadvantages: credit check needed, interest adds to the cost, may be fees for paying off early, missed payments harm your credit rating.
+
+Hire purchase (HP): used for cars and other goods. Pay a deposit, then fixed monthly instalments. You don't own the item until the last payment (and any 'option to purchase' fee).
+- Advantages: spreads the cost, fixed payments, often easier to get than a loan, some deals need no deposit, can settle early.
+- Disadvantages: total cost higher than the cash price, the item can be repossessed if you fall behind, you can't sell it until you own it.
+
+Mortgage: a long-term loan (often 25 to 35 years) to buy property, secured on the property.
+- Repayment mortgage: pay off interest and the amount borrowed. Interest-only: pay interest and repay the full loan at the end.
+- Fixed rate (payments stay the same for a set period) or variable/tracker (payments go up and down with interest rates).
+- Advantages: lets people buy a home they couldn't afford outright; lower interest than unsecured borrowing.
+- Disadvantages: need a deposit (often 5 to 15%); your home can be repossessed if you don't keep up repayments; very large total interest over the term.
+
+Credit card: borrow up to a credit limit, pay at least the minimum each month.
+- Advantages: no interest if you pay the full balance each month; Section 75 protection; helps build a credit score; handy for emergencies; fraud protection.
+- Disadvantages: high APR (often 20 to 30%) on unpaid balances; paying only the minimum takes years; fees for cash withdrawals and late payments.
+
+Payday loan: a small, short-term loan, often paid within an hour.
+- Advantages: very quick; most applicants are accepted; costs are capped by the FCA (0.8% a day, £15 default fee, and you never repay more than double what you borrowed).
+- Disadvantages: very expensive compared with other borrowing; people who need them often can't afford to repay; can lead to a debt spiral, IVA or bankruptcy.
+
+Mortgage types
+- Fixed rate: the interest rate stays the same for a set period (e.g. 2 or 5 years), so repayments are predictable. Doesn't fall if the base rate falls; fees to leave early.
+- Tracker: follows the Bank of England base rate plus a set margin, so repayments change as soon as the base rate changes.
+- Variable rate / Standard Variable Rate (SVR): the lender sets the rate and can change it. Borrowers usually move onto the SVR when a fixed deal ends; it is often higher.
+- Offset: savings are linked to the mortgage and reduce the balance interest is charged on. You earn no interest on the savings but pay less mortgage interest.
+- Base rate rise: tracker and variable repayments go up straight away; fixed repayments don't change until the deal ends.
+
+Repayment or interest-only?
+- Repayment: each payment covers interest and part of the loan, so the debt is cleared by the end. Higher monthly payments.
+- Interest-only: lower monthly payments, but the whole loan must be repaid at the end, so the borrower needs a plan (e.g. savings or selling the home). Riskier.
+
+Loan-to-value (LTV)
+- LTV = loan ÷ property value × 100. A £180,000 mortgage on a £200,000 home is 90% LTV (a 10% deposit).
+- A bigger deposit means a lower LTV, a wider choice of mortgages and lower interest rates.
+
+What lenders look at: income, deposit, credit score and history, how stable the person's job is, and how much they want to borrow. They check affordability before lending, and you must be at least 18.
+
+Comparing borrowing: interest rate (APR), any fees, monthly repayments, the term, how much can be borrowed, the lending criteria, and whether security is needed.
+
+If repayments are missed: extra charges and interest, a lower credit score, harder or dearer borrowing in future, and for secured debts, repossession (or eviction for unpaid rent).
+
+APR vs AER: APR is the yearly cost of borrowing; AER is the yearly return on savings. Short-term borrowing is usually 12 months or less (overdraft, credit card); long-term is over 12 months (mortgage, HP, longer personal loans).
+
+'Good debt' and 'bad debt': borrowing that may increase wealth or income in the long run (a mortgage, a student loan) is sometimes called good debt. Expensive borrowing for things that lose value or are quickly used up (a payday loan for a night out) is bad debt.
+
+Suitability depends on how much is needed, for how long, what it's for, the person's income and credit rating, and how much risk they can take.
+
+=== GLOSSARY: A4.1 Borrowing ===
+- Fixed rate mortgage: Interest rate fixed for a set period; predictable repayments.
+- Tracker mortgage: Follows the base rate plus a margin; repayments change with the base rate.
+- Standard Variable Rate (SVR): Lender's own variable rate, often charged after a fixed deal ends.
+- Offset mortgage: Savings reduce the balance interest is charged on.
+- Loan-to-value (LTV): Loan ÷ property value × 100. Lower LTV means better rates.
+- APR vs AER: APR is the cost of borrowing; AER is the return on savings.
+- APR: Annual percentage rate: the yearly cost of borrowing including fees.
+- Secured loan: Linked to an asset that can be taken if you don't repay.
+- Hire purchase: Deposit then instalments. You own the item after the final payment.
+- Repayment mortgage: Pay off the interest and the amount borrowed over the term.
+- Interest-only mortgage: Pay only interest; the full loan is repaid at the end.
+- Payday loan cap: 0.8% a day; never repay more than double what you borrowed.
+- Overdraft: Flexible borrowing on a current account, repayable on demand.
+- Personal loan: Fixed amount, fixed term, fixed monthly repayments.
+
+=== KEY POINTS: A1 Functions and role of money (Section A: Personal finance) ===
+Functions of money:
+- Unit of account: money measures value, so you can compare the price of two things.
+- Means (medium) of exchange: people accept money for goods and services, so you don't need to barter.
+- Store of value: you can save money now and spend it later. Inflation weakens this because prices rise and the same money buys less.
+- Legal tender: coins and notes that must be accepted to settle a debt. It has a narrow legal meaning. A shop can still refuse a £50 note.
+
+What affects the role of money in someone's life:
+- Attitude to risk and reward: a risk-averse person keeps money in safe savings. A risk-taker might buy shares for a higher possible return.
+- Attitudes to borrowing, spending and saving.
+- Life stage (see below).
+- Culture, including religious and ethical beliefs. For example, Islamic finance does not allow interest (riba), so Sharia-compliant mortgages and accounts work differently. Ethical investors avoid some industries.
+- Life events: marriage, divorce, children, illness, redundancy, inheritance, moving house. These vary the life cycle from person to person.
+- External influences and trends: inflation, unemployment, tax and benefit changes, the move to cashless payment.
+- Interest rates: the cost of borrowing against the reward for saving. When rates rise, loans, mortgages and credit cards cost more and savers earn more.
+
+Life stages:
+- Childhood: pocket money, a children's savings account, learning money habits.
+- Adolescence: part-time job, first current account, phone contract, saving for things.
+- Young adult: student loan, renting, first full-time job, building a credit history, saving for a house deposit, car costs.
+- Middle age: mortgage, family costs, usually peak earnings, paying into a pension, life insurance.
+- Old age: retirement, living on pensions and savings, care costs, making a will.
+
+Why plan expenditure (spec list): avoid debt; control costs; avoid legal action and repossession; remain solvent (able to pay debts when due); keep a good credit rating; avoid bankruptcy; manage money to fund purchases; generate income and savings; set financial targets and goals; provide insurance against loss or illness; counter the effects of inflation.
+
+A budget compares income with expenditure. Income higher than spending is a surplus. Spending higher than income is a deficit.
+
+Credit rating (credit score): a record of how you borrow and repay, kept by credit reference agencies such as Experian, Equifax and TransUnion. Lenders use it to decide whether to lend and at what rate. To keep a good rating: register on the electoral roll, pay bills and loans on time, avoid county court judgements and bankruptcy, don't apply for lots of credit at once, and don't move house often.
+
+Real interest rate = interest rate minus inflation. Savings at 3% when inflation is 5% lose 2% of their buying power a year.
+
+Credit score in more detail
+- Credit history: the record of how you have borrowed and repaid. Credit score: a number worked out from that history.
+- You can check your score and report for free through the credit reference agencies' websites and apps.
+- A high score means you look low-risk to lenders. A low score means you look high-risk.
+- What a score affects: whether you can borrow, the interest rate you are offered, whether a landlord will rent to you, phone contracts and some insurance premiums.
+- Lowers your score: late or missed payments, defaults, county court judgements, lots of applications in a short time, using most of your credit limit.
+- Helps your score: paying on time, being on the electoral roll, applying only for products you are likely to get, paying off debts, using a small amount of credit and repaying it in full.
+
+Budgeting
+- Gross pay: earnings before deductions. Net pay (take-home pay): what is left after income tax, National Insurance, workplace pension and any student loan repayment.
+- Essential spending: needed for basic living, e.g. rent or mortgage, council tax, utilities, groceries, travel to work, debt repayments. Some is paid weekly, some monthly, quarterly or yearly.
+- Discretionary spending: improves quality of life but isn't essential, e.g. eating out, holidays, hobbies, gifts, new clothes.
+- Disposable income: the money left after tax and essential spending, which can be spent on extras or saved.
+- Opportunity cost: the next best thing you give up when you make a choice, e.g. a holiday instead of adding to a house deposit.
+- Overspend (deficit): cut discretionary spending first, switch to cheaper providers, look for extra income. Underspend (surplus): build an emergency fund, pay off debt, save for a goal.
+- An emergency fund (often 3 to 6 months of essential spending) is a buffer for unplanned costs such as a broken boiler or losing a job.
+
+Life events that change finances
+- Planned: starting university or an apprenticeship, moving into a first home, marriage, children, reducing hours, a gap year, becoming self-employed, retiring early.
+- Unplanned: redundancy, illness, divorce, bereavement, inheritance.
+- Each changes income or spending, so the budget and the products a person needs (insurance, savings, borrowing) change too.
+
+=== GLOSSARY: A1 Functions and role of money ===
+- Credit history vs credit score: History is the record of borrowing and repaying; the score is a number calculated from it.
+- Net pay: Pay after income tax, National Insurance, pension and student loan deductions.
+- Essential spending: Spending needed for basic living, e.g. rent, utilities, groceries.
+- Discretionary spending: Spending that improves quality of life but isn't essential.
+- Disposable income: Money left after tax and essential spending.
+- Opportunity cost: The next best alternative given up when making a choice.
+- Emergency fund: Savings kept for unplanned costs, often 3 to 6 months of essential spending.
+- Unit of account: Money measures value so prices can be compared.
+- Means of exchange: Money is accepted in exchange for goods and services, so no need to barter.
+- Store of value: Money can be saved and spent later. Inflation reduces its value.
+- Legal tender: Money that must be accepted to settle a debt.
+- Solvent: Able to pay your debts when they are due.
+- Credit rating: A score showing how reliable you are at repaying borrowing. Used by lenders.
+- Inflation: A rise in the general level of prices, so money buys less.
+- Budget deficit: Spending is more than income.
+- Riba: Interest. Not allowed in Islamic finance.
+- Effect of a rise in interest rates: Borrowing costs more; savers earn more.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (2 marks): Explain one advantage for an individual of using an overdraft to borrow money. (Past paper, June 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for the advantage and 1 for a linked development, e.g.:
+- Can keep buying goods and services (1) when there are no funds in the account (1).
+- Can be prearranged (1), so funds are available quickly (1).
+- Interest is only charged on the amount borrowed for the days used (1), which may be cheaper than a loan (1).
+- The overdraft reduces when money is paid in (1), so repayment is automatic (1).
+
+QUESTION (6 marks): Fatima is 23 years old and lives with her two friends in a flat. The three friends share responsibility for all bills, including rent. Fatima has booked a holiday to Ibiza with her two friends. The cost of the holiday is £1,500 for each friend. She paid half of the £1,500 when the holiday was booked in January. However, in the four months since January she has only saved £400 towards the cost of the holiday. The holiday is in four weeks' time and by then Fatima needs to have paid the balance of £750. Fatima cannot pay the balance by credit card because she has already reached her credit limit of £2,000. Fatima is concerned that she will have to cancel her holiday. One of Fatima's friends has advised her that she could qualify for a payday loan. Discuss whether Fatima should apply for a payday loan. (Past paper, June 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+Advantages:
+- Money straight away, often within an hour, so she can go on holiday.
+- Most people qualify, so she's likely to get it.
+- She can't repay more than double what she borrows, so £700 at most.
+- Payday loans are capped by law and regulated by the FCA, limiting interest and default fees.
+
+Disadvantages:
+- Very high interest, so she could repay a lot.
+- She couldn't save £750 in four months, so she may not afford the repayments.
+- She only saved £100 a month; the interest alone could be more than that.
+- She already owes £2,000 on her credit card, so she may not afford both.
+- She may fall behind on other bills, leading to charges and a poor credit rating.
+- She could end up in uncontrollable debt, an IVA or bankruptcy.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.

@@ -1,0 +1,334 @@
+UNIT 3 PODCAST SOURCE PACK: E11 Cash flow forecasts
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: Inflows and outflows, net cash flow, opening and closing balances, brackets for negatives, revising a forecast, uses, benefits and limitations, and ways to improve cash flow.
+
+=== WHAT THE SPECIFICATION SAYS ===
+E1 Cash flow forecasts
+- Inflows/receipts:
+  - cash sales
+  - credit sales
+  - loans
+  - capital introduced
+  - sale of assets
+  - bank interest received.
+- Outflows/payments:
+  - cash purchases
+  - credit purchases
+  - rent
+  - rates
+  - salaries
+  - wages
+  - utilities
+  - purchase of assets
+  - Value Added Tax (VAT)
+  - bank interest paid.
+- Prepare, complete, analyse, revise and evaluate cash flow.
+- Use of cash flow forecasts for planning, monitoring, control, target setting.
+- Benefits and limitations of cash flow forecasts.
+
+=== KEY POINTS: E1 Cash flow forecasts (Section B: Business finance) ===
+A cash flow forecast predicts the money coming into and going out of a business over the coming months.
+
+Inflows (receipts): cash sales, credit sales (when the customer actually pays), loans, capital introduced, sale of assets, bank interest received.
+
+Outflows (payments): cash purchases, credit purchases (when the supplier is paid), rent, rates, salaries, wages, utilities, purchase of assets, VAT, bank interest paid.
+
+Layout and formulas (not given in the exam, so learn them):
+- Total inflows − total outflows = net cash flow
+- Closing balance = opening balance + net cash flow
+- The closing balance of one month is the opening balance of the next month.
+- Negative figures are shown in brackets, e.g. (2,480). A negative closing balance means the business is overdrawn.
+
+Always say whether a figure is positive or negative. In the exam a missing bracket loses the mark.
+
+Revising a forecast: if a figure changes (e.g. wages fall by 25%), recalculate that figure, then total outflows, net cash flow, and every closing balance after it.
+
+Uses: planning (see when money will be short and arrange an overdraft in advance), monitoring (compare actual with forecast), control (act on differences), target setting (set targets for sales or spending), securing finance (banks want to see one in a business plan).
+
+Benefits: shows all inflows and outflows; good for planning and budgeting; shows when the business may go overdrawn so action can be taken; helps secure finance.
+Limitations: it's a prediction so may be inaccurate; external changes (economy, competitors, costs) can't be predicted; only as good as the person who makes it; decisions may be based on wrong figures; takes time to prepare.
+
+Improving cash flow:
+- Increase inflows: raise prices (customers may buy less), promotions (cost money now), reduce the credit period given to customers (they may go elsewhere), sell unused assets, encourage cash sales.
+- Reduce or delay outflows: delay buying assets, or use leasing or HP to spread the cost; negotiate longer credit from suppliers; find cheaper suppliers or premises; cut costs.
+- Arrange an overdraft to cover short gaps.
+
+Cash is not the same as profit: a profitable business can run out of cash if customers pay late or it buys expensive assets.
+
+=== GLOSSARY: E1 Cash flow forecasts ===
+- Net cash flow: Total inflows − total outflows.
+- Closing balance: Opening balance + net cash flow.
+- Opening balance: Last month's closing balance.
+- Brackets in a forecast: Show a negative figure, e.g. (500) means −£500.
+- Inflows: Cash sales, credit sales, loans, capital introduced, sale of assets, interest received.
+- Outflows: Purchases, rent, rates, wages, salaries, utilities, assets, VAT, interest paid.
+- Uses of a cash flow forecast: Planning, monitoring, control, target setting, securing finance.
+- Limitation of a forecast: It's a prediction, so it may be inaccurate.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (2 marks): Explain one impact of a rise in Value Added Tax (VAT) on a cash flow forecast. (Past paper, January 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for the impact and 1 for development, e.g.:
+- Outflows increase (1), leading to lower net cash flow or closing balance (1).
+- Lower inflows (e.g. fewer sales) (1), leading to lower net cash flow or closing balance (1).
+- Higher inflows (VAT collected on sales) (1), leading to a higher net cash flow or closing balance (1).
+
+QUESTION (2 marks): Johann owns a carpet factory. Give two uses of cash flow forecasts for Johann. (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: planning; monitoring; control; target setting; more aware of inflows, outflows, net cash flow or closing balance; helps avoid debt or deficit.
+
+QUESTION (2 marks): State one benefit and one limitation of using a cash flow forecast. (Past paper, January 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for a benefit and 1 for a limitation.
+
+Benefits: aware of all inflows and outflows; good for planning and budgeting; shows if the business will go overdrawn; can take action to avoid deficits; can be used to get finance.
+
+Limitations: it's a prediction so not always accurate; can't predict inflows and outflows exactly; owners may lack experience to interpret it; decisions may be based on inaccurate information.
+
+'Time could be spent doing other things' gets no mark.
+
+QUESTION (6 marks): Arjun and Sai run Home Office Creations, making furniture for small businesses and home workers. Complete the cash flow forecast for the three months ending 31 March 2024 by calculating (i) to (vi). (Past paper, January 2024)
+DATA:
+Home Office Creations | Jan £ | Feb £ | Mar £
+Credit sales | 1,890 | 953 | 509
+Cash sales | 20,068 | (ii) | 13,276
+Bank interest |  |  | 98
+Total inflows | 21,958 | 17,831 | 13,785
+Purchase of assets |  | 15,500 | 
+Rent | 1,500 | 1,500 | 1,500
+Wages | 6,890 | 6,200 | 8,578
+Utilities | 470 | 510 | (v)
+Other outflows | 2,349 | 2,489 | 4,495
+Total outflows | 11,209 | 26,199 | 14,953
+Net cash flow | 10,749 | (iii) | (1,168)
+Opening balance | (i) | (iv) | (5,008)
+Closing balance | 3,360 | (5,008) | (vi)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each. Answers must correctly show whether the figure is positive or negative.
+(i) January opening balance: (£7,389)
+(ii) February cash sales: £16,780
+(iii) February net cash flow: (£8,368)
+(iv) February opening balance: £3,360
+(v) March utilities: £380
+(vi) March closing balance: (£6,176)
+
+QUESTION (2 marks): In February 2024 Arjun and Sai intend to buy a wood cutting machine for £15,500 (shown as purchase of assets). If they buy it, they will reduce staff wages by 25% per month. Calculate the new closing balance for February 2024 if they purchase the machine. (Past paper, January 2024)
+DATA:
+Home Office Creations | Jan £ | Feb £ | Mar £
+Credit sales | 1,890 | 953 | 509
+Cash sales | 20,068 | (ii) | 13,276
+Bank interest |  |  | 98
+Total inflows | 21,958 | 17,831 | 13,785
+Purchase of assets |  | 15,500 | 
+Rent | 1,500 | 1,500 | 1,500
+Wages | 6,890 | 6,200 | 8,578
+Utilities | 470 | 510 | (v)
+Other outflows | 2,349 | 2,489 | 4,495
+Total outflows | 11,209 | 26,199 | 14,953
+Net cash flow | 10,749 | (iii) | (1,168)
+Opening balance | (i) | (iv) | (5,008)
+Closing balance | 3,360 | (5,008) | (vi)
+MARK SCHEME (Pearson mark scheme (condensed)):
+2 marks for (£3,458).
+
+Otherwise 1 mark for any of:
+- The formula in words: closing balance = opening balance + inflows − outflows (or + net cash flow)
+- New wages of £4,650
+- The 25% reduction in wages of £1,550
+
+QUESTION (6 marks): Discuss actions that Arjun and Sai could take to improve the closing balances in the cash flow forecast in the first three months of 2024. (Past paper, January 2024)
+DATA:
+Home Office Creations | Jan £ | Feb £ | Mar £
+Credit sales | 1,890 | 953 | 509
+Cash sales | 20,068 | (ii) | 13,276
+Bank interest |  |  | 98
+Total inflows | 21,958 | 17,831 | 13,785
+Purchase of assets |  | 15,500 | 
+Rent | 1,500 | 1,500 | 1,500
+Wages | 6,890 | 6,200 | 8,578
+Utilities | 470 | 510 | (v)
+Other outflows | 2,349 | 2,489 | 4,495
+Total outflows | 11,209 | 26,199 | 14,953
+Net cash flow | 10,749 | (iii) | (1,168)
+Opening balance | (i) | (iv) | (5,008)
+Closing balance | 3,360 | (5,008) | (vi)
+MARK SCHEME (Pearson mark scheme (condensed)):
+Increase inflows:
+- Raise the selling price: only increases inflows if customers keep buying; they may not buy at a higher price.
+- Advertising or promotion: may worsen cash flow in the short term, but increases the closing balance long term if it brings in more revenue than it costs.
+- Reduce the credit period for customers: brings payments forward, but credit may be a sales tool, so customers may not buy at all.
+- Other ways, e.g. a wider product range, with advantages and disadvantages.
+
+Decrease outflows:
+- Don't buy, or delay buying, the wood cutting machine: raises the closing balance by £15,500 in the short term, but no wage savings in the long term.
+- Rent cheaper premises: relocating could be costly.
+- Reduce other outflows.
+- Buy the machine using HP, leasing or other credit to spread the cost.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (5 marks): Ella and Poppy have just started Lucky Unlimited, selling crystals and lucky charms. Complete the cash flow forecast for the three months ending 31 March 2025 by calculating (i) to (v). (Past paper, January 2025)
+DATA:
+Lucky Unlimited | Jan £ | Feb £ | Mar £
+Shop sales | 650 | 1,000 | 1,450
+Online sales | 890 | 1,500 | 2,000
+Bank loan | 3,000 |  | 
+Total inflows | 4,540 | 2,500 | (iv)
+Stock | 4,500 | 2,500 | 2,500
+Rent | 1,500 | 1,500 | 1,500
+Postage and packaging | 90 | 150 | 200
+Utilities | 550 | 510 | 450
+Other outflows | 300 | 350 | 400
+Total outflows | 6,940 | 5,010 | (v)
+Net cash flow | (i) | (2,510) | (1,600)
+Opening balance | 5,000 | (iii) | 90
+Closing balance | (ii) | 90 | (1,510)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each (own figure rule applies to (ii) and (iii)):
+(i) January net cash flow: (£2,400)
+(ii) January closing balance: £2,600
+(iii) February opening balance: £2,600
+(iv) March total inflows: £3,450
+(v) March total outflows: £5,050
+
+QUESTION (2 marks): Ella and Poppy have discovered that postage and packaging costs will be 25% higher than budgeted. Calculate the new net cash flow in March 2025 considering the higher costs. (Past paper, January 2025)
+DATA:
+Lucky Unlimited | Jan £ | Feb £ | Mar £
+Shop sales | 650 | 1,000 | 1,450
+Online sales | 890 | 1,500 | 2,000
+Bank loan | 3,000 |  | 
+Total inflows | 4,540 | 2,500 | (iv)
+Stock | 4,500 | 2,500 | 2,500
+Rent | 1,500 | 1,500 | 1,500
+Postage and packaging | 90 | 150 | 200
+Utilities | 550 | 510 | 450
+Other outflows | 300 | 350 | 400
+Total outflows | 6,940 | 5,010 | (v)
+Net cash flow | (i) | (2,510) | (1,600)
+Opening balance | 5,000 | (iii) | 90
+Closing balance | (ii) | 90 | (1,510)
+MARK SCHEME (Pearson mark scheme (condensed)):
+2 marks for (£1,650).
+
+Otherwise 1 mark for any of:
+- Net cash flow = inflows − outflows, or (£1,600) − £50
+- New packaging cost of £250
+- The 25% increase of £50
+
+QUESTION (2 marks): Calculate stock costs as a percentage of total sales in March. (Past paper, January 2025)
+DATA:
+Lucky Unlimited | Jan £ | Feb £ | Mar £
+Shop sales | 650 | 1,000 | 1,450
+Online sales | 890 | 1,500 | 2,000
+Bank loan | 3,000 |  | 
+Total inflows | 4,540 | 2,500 | (iv)
+Stock | 4,500 | 2,500 | 2,500
+Rent | 1,500 | 1,500 | 1,500
+Postage and packaging | 90 | 150 | 200
+Utilities | 550 | 510 | 450
+Other outflows | 300 | 350 | 400
+Total outflows | 6,940 | 5,010 | (v)
+Net cash flow | (i) | (2,510) | (1,600)
+Opening balance | 5,000 | (iii) | 90
+Closing balance | (ii) | 90 | (1,510)
+MARK SCHEME (Pearson mark scheme (condensed)):
+2 marks for 72.46% (accept 72.5% or 72%).
+
+Otherwise 1 mark for (£2,500 ÷ £3,450) × 100, or for total March sales of £3,450.
+
+QUESTION (4 marks): Johann owns a carpet factory called Quality Threads Ltd. Using his forecast, calculate the net cash flow for January 2026. (Past paper, January 2026)
+DATA:
+Quality Threads Ltd | January 2026
+Variable cost per roll of carpet | £570
+Average revenue per roll of carpet | £2,600
+Estimated number of rolls sold | 350
+Rent of factory | £3,000
+Other expenses | £1,030
+Utilities | £2,060
+MARK SCHEME (Pearson mark scheme (condensed)):
+4 marks for £704,410.
+
+Otherwise:
+- 2 marks for total outflows of £205,590 AND 1 mark for total inflows of £910,000
+- OR 1 mark for total variable costs of £199,500
+- OR 1 mark for the formula: net cash flow = inflows − outflows
+
+QUESTION (6 marks): Ruby owns Training Treats, which makes high quality pet treats. All credit sales are on 30 days' credit. Complete the cash flow forecast for the six months ending 31 December 2023 by calculating (i) to (vi). (Past paper, January 2023)
+DATA:
+Training Treats | Jul | Aug | Sep | Oct | Nov | Dec
+Opening balance | 2,300 | (iii) | 2,592 | 1,183 | 2,318 | 57
+Credit sales | 44,345 | 40,765 | 35,555 | 34,005 | 40,345 | 52,656
+Cash sales | 13,304 | 12,230 | 10,667 | 10,202 | 12,104 | 15,797
+Total inflows | 57,649 | 52,995 | 46,222 | 44,207 | 52,449 | 68,453
+Cash purchases | 43,236 | 39,746 | 34,666 | 33,155 | 39,336 | 51,340
+Advertising | 7,949 | 6,933 | 6,631 | 7,867 | 10,268 | 10,800
+Other expenses | 6,099 | 6,389 | 6,334 | 2,050 | 5,106 | 5,003
+Total outflows | (i) | 53,068 | 47,631 | 43,072 | 54,710 | 67,143
+Net cash flow | 365 | (iv) | (1,409) | 1,135 | (v) | 1,310
+Closing balance | (ii) | 2,592 | 1,183 | 2,318 | 57 | (vi)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each. Negative figures must show brackets or a minus sign.
+(i) July total outflows: £57,284
+(ii) July closing balance: £2,665
+(iii) August opening balance: £2,665
+(iv) August net cash flow: (£73)
+(v) November net cash flow: (£2,261)
+(vi) December closing balance: £1,367
+
+QUESTION (1 marks): Ruby wants to buy a new packaging machine costing £2,300, paid in September. September's closing balance is currently £1,183. Calculate the new closing balance for September if Ruby buys the machine. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+(£1,117). Must show it is negative. Working: £1,183 − £2,300.
+
+QUESTION (2 marks): Give two possible ways Ruby could improve the closing balance in her cash flow forecast. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each, up to 2: reduce advertising spend; reduce other expenses; negotiate credit from suppliers instead of cash purchases; reduce the credit period given to customers; increase prices; increase sales; delay or lease the packaging machine; sell unused assets; owner introduces capital; take a loan.
+
+QUESTION (6 marks): Ruby has an overdraft facility charging 30% a year on outstanding balances. She thinks she may have to use it if she buys the new £2,300 machine, which she hopes will improve production efficiency. Discuss the benefits and limitations for Training Treats of using a cash flow forecast. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Benefits:
+- Shows that buying the machine in September would leave her overdrawn by £1,117, so she can plan ahead.
+- She can see the cost of using a 30% overdraft and look for cheaper options, e.g. buying the machine in a month with a bigger balance, or leasing.
+- Helps monitor advertising, which rises sharply in November and December.
+- Can be shown to the bank to support finance.
+- Highlights months with low balances (e.g. November, £57).
+
+Limitations:
+- Based on estimates; pet treat sales may differ, e.g. seasonal demand.
+- Assumes customers pay on time within 30 days.
+- Doesn't show the efficiency savings the new machine may bring.
+- External changes (ingredient costs, competitors) aren't predicted.
+- Only as good as the person preparing it.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks): Ella and Poppy have just started Lucky Unlimited, which sells crystals and lucky charms. Discuss the benefits and limitations to Ella and Poppy of using a cash flow forecast. (Past paper, January 2025)
+DATA:
+Lucky Unlimited | Jan £ | Feb £ | Mar £
+Shop sales | 650 | 1,000 | 1,450
+Online sales | 890 | 1,500 | 2,000
+Bank loan | 3,000 |  | 
+Total inflows | 4,540 | 2,500 | (iv)
+Stock | 4,500 | 2,500 | 2,500
+Rent | 1,500 | 1,500 | 1,500
+Postage and packaging | 90 | 150 | 200
+Utilities | 550 | 510 | 450
+Other outflows | 300 | 350 | 400
+Total outflows | 6,940 | 5,010 | (v)
+Net cash flow | (i) | (2,510) | (1,600)
+Opening balance | 5,000 | (iii) | 90
+Closing balance | (ii) | 90 | (1,510)
+MARK SCHEME (Pearson mark scheme (condensed)):
+Benefits:
+- Gives an insight into inflows and outflows.
+- As a forecast it allows changes to be made if inflows are too low or outflows too high.
+- Pinpoints times of cash shortage so adjustments can be made (increase inflows, decrease outflows).
+- Can track actual spending so differences can be dealt with.
+- Can be used in a business plan to get finance.
+
+Limitations:
+- Based on predictions, so can be unreliable.
+- Doesn't account for external changes such as the economy.
+- Only as reliable as the person who creates it; lack of experience affects it.
+- Decisions may be based on inaccurate information.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.

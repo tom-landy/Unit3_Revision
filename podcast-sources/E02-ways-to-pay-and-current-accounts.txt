@@ -1,0 +1,220 @@
+UNIT 3 PODCAST SOURCE PACK: E02 Ways to pay and current accounts
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: Every payment method in the spec with a clear advantage and disadvantage for each, the BACS / Faster Payments / CHAPS differences, and the four types of current account and who each suits.
+
+=== WHAT THE SPECIFICATION SAYS ===
+A2 Different ways to pay
+The use of money as a payment method, advantages and disadvantages of:
+- cash
+- debit card
+- credit card
+- cheque
+- electronic transfer
+- direct debit
+- standing order
+- pre-paid cards
+- mobile payment apps
+- contactless cards
+- charge cards
+- store cards
+- mobile banking
+- Banker’s Automated Clearing Services (BACS)
+- Faster Payments Service (FPS)
+- Clearing House Automated Payment System (CHAPS).
+A3 Current accounts
+Different types, features, advantages and disadvantages, different services offered:
+- standard
+- packaged, premium
+- basic
+- student.
+
+=== KEY POINTS: A2 Different ways to pay (Section A: Personal finance) ===
+Cash: accepted almost everywhere, no fees, easy to budget, no technology needed. But it can be lost or stolen, there's no record, and more shops are going cashless.
+
+Debit card: takes money straight from your current account. No interest, widely accepted, can be used online. You can overspend into an overdraft, and card fraud is a risk.
+
+Credit card: buy now and pay later, up to a credit limit. No interest if you pay the full balance each month. Section 75 of the Consumer Credit Act protects purchases between £100 and £30,000. Can build a credit score. But interest rates are high (often 20 to 30% APR) if you don't clear the balance, and it's easy to build up debt.
+
+Cheque: a written order to your bank to pay someone. Gives a record, useful for people who don't use cards. Slow to clear, can bounce if there is not enough money, and few businesses take them.
+
+Electronic transfer (online or mobile banking): quick, available 24/7, no need to carry cash or cards, done remotely. Needs internet access and can be targeted by scams.
+
+Direct debit: you let a company take payments from your account. The amount can change (e.g. utility bills). Bills are never missed, and the Direct Debit Guarantee gives a refund if a wrong payment is taken. But you must make sure the money is there or you get charges.
+
+Standing order: you tell your bank to pay a fixed amount on a set date (e.g. rent). You stay in control, but you must change it yourself if the amount changes.
+
+Pre-paid card: load money on first, then spend. You can't overspend and there's no credit check, so it's good for young people and travel. There may be fees to load or use it.
+
+Mobile payment apps (Apple Pay, Google Pay, PayPal): quick and convenient because people carry their phone everywhere, and secure because they need a fingerprint, face or PIN. Need a smartphone and battery, and not every shop takes them.
+
+Contactless card: tap to pay, quick for small amounts. In the UK the single payment limit is £100. If the card is stolen it can be used until it is blocked.
+
+Charge card: like a credit card but the whole balance must be paid each month. Usually an annual fee and big penalties for late payment. No interest if paid on time.
+
+Store card: credit card for one retailer. Often comes with discounts when you sign up, but interest rates are very high and you can only use it in that store.
+
+Mobile banking: managing your account through an app: check balances, transfer money, set up payments.
+
+BACS (Bankers' Automated Clearing Services): takes three working days. Used for wages, direct debits and paying suppliers in bulk. Cheap, but slow.
+
+Faster Payments Service (FPS): near-instant transfers, 24/7, used for most online and mobile banking payments. Banks set limits on how much you can send.
+
+CHAPS (Clearing House Automated Payment System): same-day, high-value payments with no upper limit, e.g. buying a house. Banks charge a fee, often around £20 to £35.
+
+=== GLOSSARY: A2 Different ways to pay ===
+- Direct debit: A company takes payments from your account. The amount can vary.
+- Standing order: You tell the bank to pay a fixed amount on a set date.
+- Charge card: Balance must be paid in full every month. Usually an annual fee.
+- Store card: Credit for one retailer only. Very high interest.
+- Pre-paid card: Loaded with money first, so you can't overspend.
+- BACS: Takes three working days. Used for wages and direct debits.
+- Faster Payments: Near-instant transfers, available 24/7.
+- CHAPS: Same-day, high-value payments with a fee, e.g. buying a house.
+- Section 75: Credit card protection for purchases from £100 to £30,000.
+- Contactless limit: £100 per payment in the UK.
+
+=== KEY POINTS: A3 Current accounts (Section A: Personal finance) ===
+A current account is an everyday bank account for receiving income and making payments.
+
+Common services: debit card, direct debits and standing orders, online, mobile and telephone banking, statements, an arranged overdraft (on most), cash withdrawals, paying in cash and cheques. Since 2020, banks must charge a single simple interest rate on overdrafts, often around 35 to 40% APR.
+
+Standard current account
+- Features: debit card, overdraft on application, direct debits and standing orders, online banking. Usually no monthly fee.
+- Advantages: free day-to-day banking; some pay interest on balances or offer switching bonuses.
+- Disadvantages: overdraft interest is high; you may need a decent credit score to open one.
+
+Packaged (premium) current account
+- Features: a monthly fee (often £10 to £25) in exchange for extras such as travel insurance, mobile phone insurance, vehicle breakdown cover, cheaper overdraft or foreign currency fees, discounted loan rates, financial advice, perks such as cinema tickets. Some need a minimum monthly income paid in.
+- Advantages: can be cheaper than buying each extra separately, if you actually use them; can withdraw more cash at one time.
+- Disadvantages: the fee is wasted if you don't use the benefits; insurance may not cover you (e.g. age limits, pre-existing medical conditions); these accounts were widely mis-sold in the past.
+
+Basic current account
+- Features: debit card, receive payments, direct debits and standing orders, online and telephone banking, no overdraft, free to set up and use. The largest banks must offer a fee-free basic account to people who can't get a standard one.
+- Advantages: lets people with a low credit score or low income have a bank account; no overdraft means you can't go into debt.
+- Disadvantages: no overdraft for emergencies; fewer extras; some payments may be refused if there's not enough money.
+
+Student current account
+- Features: interest-free arranged overdraft (often in tiers, rising each year of study), perks such as a free railcard, discounts with retailers, cinemas, restaurants and travel providers, cashback, money management tools.
+- Advantages: free borrowing while studying; perks have real value.
+- Disadvantages: only for students in higher education, usually with proof of enrolment; the overdraft must be paid back after graduation, when interest starts; it can encourage overspending.
+
+Switching: the Current Account Switch Service moves your account, payments and direct debits to a new bank in 7 working days.
+
+=== GLOSSARY: A3 Current accounts ===
+- Packaged account: Monthly fee for extras like travel and phone insurance.
+- Basic account: No overdraft, free, for people who can't get a standard account.
+- Student account: Interest-free overdraft and perks like a railcard.
+- Standard account: Debit card, overdraft on application, usually no fee.
+- Arranged overdraft: Agreed borrowing on a current account, charged daily interest.
+- Current Account Switch Service: Moves your account to a new bank in 7 working days.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (2 marks): Identify two methods of payment. (Past paper, June 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: cash; debit card; credit card; cheque; electronic transfer; direct debit; standing order; pre-paid card; contactless card; charge card; store card; mobile banking or mobile payment apps; BACS; Faster Payments; CHAPS.
+
+QUESTION (2 marks): Give two advantages for an individual of using cash as a method of payment. (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2:
+- Immediate transactions
+- No transaction fees
+- Accepted by most businesses
+- No need for technology or accounts
+- Easy to track for budgeting
+- Useful for small payments where cards are inconvenient
+
+QUESTION (2 marks): Explain one advantage for an individual of using electronic transfer as a method of payment. (Past paper, January 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for the advantage and 1 for a linked development, e.g.:
+- It's instant (1), so it saves time (1).
+- You don't need a bank card (1), so it is more secure (1).
+- No risk of losing cash or cards (1), so less chance of financial loss (1).
+- Payments can be made remotely (1), so there is no need to travel (1).
+- Available 24/7 (1), so you can pay at any time (1).
+
+'Quick and easy' or 'convenient' on their own get no marks.
+
+QUESTION (4 marks): Explain two advantages for an individual of using mobile payment apps. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for each advantage (must be specific to mobile payment apps) and 1 for a linked development, up to 4:
+- More convenient than carrying cash or cards (1), as most people carry their phone everywhere (1).
+- More secure than cash or cheques (1), because they need face or fingerprint recognition or a PIN (1).
+- Quick to pay (1), as linked card details are saved in the app (1).
+
+QUESTION (2 marks): Give two advantages for a consumer of paying for purchases using a contactless card. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each, up to 2:
+- Quick to pay, no PIN for payments up to £100
+- No need to carry cash
+- Widely accepted
+- Each payment is recorded on the statement, helping budgeting
+- Card doesn't leave your hand, reducing skimming risk
+- Card provider refunds fraudulent contactless payments
+
+QUESTION (2 marks): Explain one advantage for the consumer of using a cheque to buy goods. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark for the advantage and 1 for development, e.g.:
+- Gives a written record of payment (1), useful as proof if there is a dispute (1).
+- Useful for people without cards or internet banking (1), such as some elderly customers (1).
+- Safer than carrying large amounts of cash (1), as it can only be paid to the named person (1).
+- Money leaves the account a little later than with a card (1), giving time to transfer funds (1).
+
+QUESTION (2 marks): Give two disadvantages for an individual of using a contactless card. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each, up to 2:
+- If lost or stolen it can be used without a PIN until it is blocked
+- Easy to overspend because paying feels effortless
+- £100 limit per payment, so larger purchases need chip and PIN
+- Not every retailer accepts it
+- Risk of paying with the wrong card if several are in a wallet (card clash)
+- May be asked for a PIN at random, causing delays
+
+QUESTION (4 marks): Explain two disadvantages for an individual of using a prepaid card. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark for each disadvantage and 1 for a linked development, up to 4:
+- Fees to buy, load, use or withdraw cash (1), which add to the cost of spending (1).
+- Doesn't build a credit history (1), so it won't help the individual borrow in future (1).
+- Not protected by Section 75 or the FSCS in the same way (1), so less protection if something goes wrong (1).
+- Must be topped up before use (1), so it can't be used in an emergency if the balance is low (1).
+- Some merchants won't accept them, e.g. car hire or hotels (1), so the individual still needs another method (1).
+
+QUESTION (2 marks): Give two features of a basic current account. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2:
+- Provides a debit card
+- Can pay for goods and services online
+- Can receive payments into the account
+- Direct debits and standing orders
+- Online or telephone banking
+- No usage or monthly fees; free to set up
+- No overdraft
+- Can pay in money or cheques
+- Regular statements
+- Allows people with a low credit score to have an account
+
+QUESTION (2 marks): Give two advantages for an individual of a premium current account. (Past paper, June 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2:
+- Lower or no fees on overdrafts or foreign exchange
+- Travel insurance
+- Mobile phone insurance
+- Vehicle breakdown cover
+- Discounted loan rates
+- Free financial advice
+- Preferential rates on linked products
+- Perks such as cinema tickets
+- Can withdraw more cash at one time
+
+QUESTION (2 marks): Give two features of a student current account. (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2:
+- Overdraft facility
+- Lower fees or interest rates
+- Free or discounted railcard
+- Discounts with retailers, cinemas, restaurants or travel providers
+- Cashback on purchases
+- Services to help students manage money
+
+QUESTION (2 marks): Give two types of current account. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each, up to 2: standard; packaged or premium; basic; student. (Also accept graduate or joint account.)

@@ -1,0 +1,264 @@
+UNIT 3 PODCAST SOURCE PACK: E10 Raising business finance
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: Internal and external sources of finance, short vs long term, and how to choose. Use the Farida, Gabriella, Tom (vending machines), Jisoo and Cody scenarios to show how 12-mark finance choices are argued.
+
+=== WHAT THE SPECIFICATION SAYS ===
+D1 Sources of finance
+Advantages, disadvantages, short term and long term:
+- internal:
+  - retained profit
+  - net current assets
+  - sale of assets
+- external:
+  - owner’s capital
+  - loans
+  - crowd-funding
+  - mortgages
+  - venture capital
+  - debt factoring
+  - hire purchase
+  - leasing
+  - trade credit
+  - grants
+  - donations
+  - peer to peer lending
+  - invoice discounting.
+
+=== KEY POINTS: D1.1 Internal sources and choosing finance (Section B: Business finance) ===
+Internal sources come from within the business.
+
+Retained profit: profit kept in the business rather than taken out by the owner.
+- Advantages: no interest or repayment; no loss of control; no application needed.
+- Disadvantages: only available if the business is profitable; may not be enough for big projects; the owner takes less out (lower drawings); a new business has none.
+
+Net current assets (working capital): using current assets, e.g. selling off excess inventory or collecting money owed by customers faster, or using cash already in the bank.
+- Advantages: no interest; quick; makes better use of resources.
+- Disadvantages: may leave too little cash for day-to-day bills; low inventory risks running out; chasing customers may upset them.
+
+Sale of assets: selling non-current assets the business no longer needs (e.g. an old van). Sale and leaseback means selling an asset and renting it back.
+- Advantages: raises a lump sum; no interest; gets rid of unused assets.
+- Disadvantages: the asset can no longer be used; may not get full market value; selling can take time; you might not find a buyer; can only be done once.
+
+Short term versus long term
+- Short-term (under a year), for day-to-day cash flow: overdraft, trade credit, debt factoring, invoice discounting.
+- Medium-term (1 to 5 years), for equipment and vehicles: loans, hire purchase, leasing.
+- Long-term (over 5 years), for premises and expansion: mortgages, venture capital, owner's capital, retained profit, debentures.
+Match the source to the use: don't fund a building with an overdraft or pay wages with a mortgage.
+
+How to choose a source of finance
+- Purpose and how long it's needed for.
+- Amount needed.
+- Cost (interest, fees, share of profit).
+- Control: does the owner give up ownership or decision-making?
+- Risk: can the business afford regular repayments? Is security needed?
+- Speed: how quickly is the money needed?
+- Type of business: sole traders can't sell shares; new businesses find it harder to borrow; charities can get donations.
+- Current financial position: existing debts, profit, cash flow.
+
+=== GLOSSARY: D1.1 Internal sources and choosing finance ===
+- Internal finance: Money from within the business: retained profit, net current assets, sale of assets.
+- Retained profit: Profit kept in the business instead of being taken out.
+- Net current assets: Current assets minus current liabilities. Can release cash.
+- Sale and leaseback: Sell an asset and rent it back to keep using it.
+- Short-term finance: Under a year, for cash flow: overdraft, trade credit, factoring.
+- Long-term finance: Over 5 years, for premises and expansion: mortgage, venture capital.
+
+=== KEY POINTS: D1.2 External sources of finance (Section B: Business finance) ===
+Owner's capital: the owner's own savings. No interest and no loss of control, but limited by the owner's wealth and they risk losing their own money.
+
+Loans: a fixed sum from a bank, repaid with interest over a set term. Keep control; fixed repayments help planning. But interest adds cost, security may be needed, regular repayments are needed even in bad months, and new businesses can be refused.
+
+Overdraft (accepted in mark schemes as external finance): flexible short-term borrowing on the business account. Only pay interest on what is used, but high interest and repayable on demand.
+
+Crowdfunding: raising money from many people online through a platform. Can be reward-based (backers get a product or perk), equity-based (backers get shares) or donation-based. Advantages: no interest, may keep control (reward-based), tests public interest, free marketing, suits ideas banks won't fund. Disadvantages: often all-or-nothing (no money if the target isn't reached), takes time, platform fees, rewards cost money, the idea becomes public and could be copied.
+
+Mortgage: long-term loan secured on property, for buying premises. Lower interest than unsecured loans; spread over many years. But the property can be repossessed and lots of interest is paid overall.
+
+Venture capital: investment from specialist firms or wealthy individuals (business angels) in return for a share of ownership or profit, usually for businesses with high growth potential. Advantages: large sums quickly, no repayments, expert advice and contacts, more willing to take risks than banks. Disadvantages: lose some control and a share of profit, pressure for fast growth, possible conflict with the owner.
+
+Debt factoring: selling unpaid customer invoices to a factoring company. The factor pays most of the value straight away (e.g. 80%) and the rest, minus a fee, when the customer pays. The factor collects the debt. Advantages: cash quickly, no time spent chasing debts, guaranteed at least some money. Disadvantages: receive less than the invoice value, so lower profit; customers know a factor is involved.
+
+Invoice discounting: borrowing against unpaid invoices. The business still collects from its customers, and customers don't know. Advantages: improves cash flow quickly, confidential. Disadvantages: fees and interest, less revenue from each invoice, the business still has to chase debts.
+
+Hire purchase: buy an asset with a deposit and instalments; owned after the final payment. Spreads cost and the asset is used straight away, but costs more than buying outright and can be repossessed.
+
+Leasing: renting an asset (e.g. vehicles, machinery) for a fixed period. No large upfront cost, maintenance often included, easy to upgrade, no depreciation. But never owned, more expensive over time, early cancellation charges, must pay for damage.
+
+Trade credit: buying from suppliers and paying later, often 30 to 90 days. Free if paid on time and helps cash flow, but late payment damages the relationship and the business may lose prompt payment discounts.
+
+Grants: money from government, local councils or charities that doesn't need repaying. But there are conditions, competition is high, applying takes time, and they're only for certain businesses or projects.
+
+Donations: gifts of money, mainly for charities and social enterprises. Free, but unpredictable and not suitable for most businesses.
+
+Peer-to-peer lending: online platforms match businesses with individuals willing to lend. Often quicker and easier than a bank, with competitive rates, but rates can be high for riskier businesses and there are platform fees.
+
+=== GLOSSARY: D1.2 External sources of finance ===
+- Crowdfunding: Raising money from many people online, often for rewards or shares.
+- Venture capital: Investment for a share of ownership or profit, plus advice.
+- Business angel: A wealthy individual who invests in small businesses.
+- Debt factoring: Selling unpaid invoices to a factor who collects the debt.
+- Invoice discounting: Borrowing against invoices; the business still collects; confidential.
+- Leasing: Renting an asset for a fixed period; never owned.
+- Trade credit: Buy now, pay the supplier later (e.g. 30 days).
+- Grant: Money from government or charities that doesn't need repaying.
+- Peer-to-peer lending: Online platforms matching businesses with individual lenders.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (2 marks): Give two disadvantages for a business of using sale of assets as a source of finance. (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2:
+- The asset is no longer available to use in the business
+- May not get the full market value
+- May take time to sell
+- May not be able to sell the asset
+
+QUESTION (2 marks): Give two external sources of finance. (Past paper, January 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: loans or debentures; overdraft; owner's capital; crowdfunding; mortgages; venture capital or business angel; debt factoring; hire purchase; leasing; trade credit; grants; donations; peer-to-peer lending; invoice discounting.
+
+QUESTION (2 marks): Explain one impact of debt factoring on a small business. (Past paper, June 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for the impact and 1 for development, e.g.:
+- Money received is less than the invoice value (1), so lower inflows, profit or closing balance (1).
+- Money is received sooner (1), which helps manage cash flow (1).
+- Saves time chasing debts (1), so the owner can focus on running the business (1).
+- Guaranteed to receive at least some money (1), which helps prevent business failure (1).
+
+'Quicker' or 'easier' on their own get no marks.
+
+QUESTION (2 marks): Give one advantage and one disadvantage for a business of using invoice discounting as a source of finance. (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for an advantage and 1 for a disadvantage.
+
+Advantages: improves cash flow; quick access to funds; helps manage debt.
+
+Disadvantages: high fees and commission; less revenue from each invoice; the business is still responsible for chasing debts.
+
+QUESTION (2 marks): State two advantages for a business of using peer-to-peer lending as a source of finance. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each, up to 2:
+- Often quicker and easier to get than a bank loan
+- Competitive interest rates
+- Available to businesses a bank may refuse
+- Flexible amounts and terms
+- No loss of ownership or control
+- Simple online application
+
+QUESTION (12 marks): Gabriella started her organic gardening and landscaping business in January 2025. She wants to expand by renting premises and opening a small garden centre. She enjoys being her own boss and working with staff but finds other aspects of the business, such as negotiating contracts with customers and suppliers, more difficult. She knows the new business will have high fixed costs and that revenue in the first few months may be low until she builds awareness with local people. She has estimated her set-up costs to be £23,000. Option 1: crowdfunding. Option 2: venture capital. Evaluate whether Gabriella should fund the expansion of Gabriella's Garden Services by crowdfunding (Option 1) or venture capital (Option 2). (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+For crowdfunding:
+- No interest, so lower outflows, important as she's worried about high fixed costs.
+- She doesn't give away a share, so keeps control and all the profit; she enjoys being her own boss.
+- No repayments.
+- The campaign is marketing that builds awareness before opening, helping with low early revenue.
+- Tests public reaction; an organic USP may appeal to crowdfunding backers.
+- A new business may struggle to get a bank loan.
+
+Against crowdfunding:
+- If the target isn't reached she may get nothing, though £23,000 is a modest target.
+- Time-consuming, so expansion may be delayed.
+- Rewards for backers (free plants or services) cost money.
+- Platform fees add to the £23,000.
+
+For venture capital:
+- Large sums quickly, so she could rent premises straight away.
+- Expert guidance; she has one year's experience and struggles with negotiating.
+- Networking: contacts for contracts and cheaper stock.
+- No monthly repayments, good for cash flow while fixed costs are high.
+
+Against venture capital:
+- She gives up equity and some control, which conflicts with enjoying being her own boss.
+- Pressure for rapid growth with little experience.
+- Possible conflict with the investor.
+
+A strong answer weighs these against Gabriella's situation and reaches a justified conclusion.
+
+Levels: 10 to 12 thorough, balanced evaluation with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks): Farida runs Camping Cuisine, which makes camping stoves, and has operated it for five years. She has raised most of the finance she needed using her own capital, but has an outstanding loan of £15,000 at 12% interest, due to be repaid before the end of 2024. She keeps all the profit she makes. In 2023 the business made a loss of £26,310. One of her packaging machines keeps breaking down and needs replacing at a cost of £25,000. Option 1: a bank loan for £25,000 at 15% interest over five years. Option 2: £40,000 from a venture capitalist in return for 50% of the profit for the next 10 years; £40,000 will cover both her existing debts and the new machine. Evaluate whether Farida should take the bank loan (Option 1) or obtain £40,000 from a venture capitalist (Option 2). (Past paper, January 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+Possible figures:
+- Existing debt: £15,000 + 12% (£1,800) = £16,800, or £1,400 a month.
+- New loan: £25,000 × 15% = £3,750 interest in year 1 (£312.50 a month) + about £416.67 a month capital = about £729 a month for 5 years.
+- Year 1 total: £1,400 + £729 = £2,129 a month, about £25,548 a year, when she made a £26,310 loss.
+
+For the bank loan: she keeps control and all her profit; after year 1 only about £729 a month (£8,748 a year), which may cost less than giving away 50% of profit.
+
+Against the loan: another monthly cost when she's making losses; she must find about £25,548 in 12 months; risk of insolvency or losing the business if she can't keep up.
+
+For venture capital: no monthly repayments for either debt; gets the machine straight away; advice and help running the business; VCs are more willing to take risks than banks.
+
+Against venture capital: gives away 50% of profit for 10 years; may lose the independence of being her own boss; possible conflict.
+
+A strong answer uses the figures and reaches a supported judgement.
+
+Levels: 10 to 12 thorough, balanced evaluation with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks): Tom sells milkshakes from a mobile van and plans to sell them from vending machines at 10 locations in nearby towns. He can either buy second-hand machines for £1,200 each or lease brand new models from a national supplier for £40 per machine per week, for a minimum of three years. The £40 includes use of the location, electricity and security. If Tom bought his own machines, the location, electricity and security would cost £20 per week per machine. Option 1: a bank loan for all 10 machines, with interest for the four years charged at 25% of the total borrowed. Option 2: leasing the machines from the national supplier. Evaluate whether Tom should take the bank loan (Option 1) or lease the vending machines (Option 2). (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+Option 1 figures: loan £12,000 + 25% interest (£3,000) = £15,000 ÷ 48 = £312.50 a month. Location etc: £20 × 52 × 10 = £10,400 a year (£866.67 a month). Total about £1,179.17 a month (£14,150 a year).
+
+Option 2 figures: £40 × 52 × 10 = £20,800 a year = £1,733.33 a month.
+
+For Option 1: owns the machines, which can be sold later; about £554 a month (£6,650 a year) cheaper; after 4 years only location costs remain.
+
+Against Option 1: second-hand machines may break down, causing lost income and repairs; 4-year commitment; time to get the loan; machines may be worth little after 4 years.
+
+For Option 2: only a 3-year commitment; new machines are less likely to break, so cash flow is more predictable; can hand them back if the venture fails; easier budgeting; no capital tied up; no depreciation; quicker to arrange.
+
+Against Option 2: never owns the machines, so pays indefinitely; no asset to sell; pays for damage; expensive early termination charges.
+
+A strong answer uses the figures and reaches a supported judgement.
+
+Levels: 10 to 12 thorough, balanced evaluation with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks): Jisoo runs The Circle, which sells redesigned and recycled retro clothing online and through a small shop. In 2022 her profit before tax was £7,215.50. She wants to expand the online side by moving production to a £150,000 unit in a Local Enterprise Partnership area supported by the UK Government. Grants of between £10,000 and £500,000 are available, with larger grants for businesses that take on workers who have been unemployed for more than six months. Option 1: apply for a grant from the Local Enterprise Partnership. Option 2: take out a £150,000 mortgage at a variable interest rate of 6.9% a year, repaid over 25 years. Evaluate whether Jisoo should apply for a grant (Option 1) or take out a mortgage (Option 2) to pay for the unit. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Figures: interest on £150,000 at 6.9% is about £10,350 in year 1. A repayment mortgage would cost about £1,050 a month (around £12,600 a year), more than her 2022 profit of £7,215.50.
+
+For the grant:
+- Doesn't need repaying and no interest, so no extra outflows.
+- Could cover the whole £150,000 if she qualifies for a large grant.
+- Taking on long-term unemployed workers could help her expand production and supports the local community.
+
+Against the grant:
+- Not guaranteed; competitive and slow to apply for.
+- May only get £10,000, leaving a big gap.
+- Conditions: hiring long-term unemployed workers may need training and supervision, and adds wage costs.
+- Must stay in the area or meet targets, or may have to repay.
+
+For the mortgage:
+- Raises the full £150,000 and she owns the unit, an asset that may rise in value.
+- Spread over 25 years.
+- Her decision alone, no conditions on who she hires.
+
+Against the mortgage:
+- Repayments of about £12,600 a year are more than her current profit.
+- Variable rate: repayments rise if interest rates rise.
+- Secured on the unit, which can be repossessed.
+- Total repaid over 25 years is about £315,000.
+
+A strong answer uses the figures and reaches a supported judgement, e.g. apply for the grant first and use a smaller mortgage for any gap.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (8 marks): Cody's Chauffeurs has 20 limousines and made a profit for the year of £600,000 in 2025 (sales revenue £2,400,000). Cody is considering buying 20 new limousines at £52,000 each. A national car dealership has offered to supply them on hire purchase over five years at 4.5% APR. Analyse whether Cody should use hire purchase to buy the new limousines over five years at 4.5% APR. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Figures: 20 × £52,000 = £1,040,000. At 4.5% APR over 5 years, repayments are roughly £19,400 a month (about £233,000 a year), around £123,000 interest in total. (A flat-rate estimate of 4.5% × £1,040,000 × 5 = £234,000 interest is also acceptable if explained.)
+
+For HP:
+- Spreads a very large cost, so he doesn't need £1.04m up front.
+- 4.5% APR is a low rate compared with most borrowing.
+- Annual repayments of about £233,000 are affordable from £600,000 profit.
+- New limousines may attract more executive customers and need fewer repairs.
+- He owns the vehicles at the end.
+
+Against HP:
+- Total cost is higher than buying outright.
+- Vehicles can be repossessed if he misses payments.
+- He can't sell them until the final payment.
+- Limousines depreciate quickly (he already charges £90,000 a year on his current fleet).
+- If demand falls, the fixed repayments still have to be paid.
+- Alternatives: leasing, or using retained profit for part of the cost.
+
+Levels: 7 to 8 thorough application with balanced analysis using the figures; 4 to 6 some linkages; 1 to 3 basic description.

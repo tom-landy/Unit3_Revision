@@ -1,0 +1,857 @@
+UNIT 3 PODCAST SOURCE PACK: E15 Cracking the 6, 8 and 12-mark questions
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+
+=== THE EXAM ===
+2 hours, 80 marks. Section A Personal Finance (about a third of the marks, 45 minutes). Section B Business Finance (about two thirds, 75 minutes). Formulas are not given. Questions 5 and 10(d) or 11 are 6 or 8-mark discuss or analyse questions; Questions 6 and the last part of 11 are 12-mark evaluate questions.
+
+=== COMMAND WORDS (from the specification) ===
+Command or term                                           Definition
+Analyse                                                   Learners present the outcome of methodical
+and detailed examination either by breaking
+down:
+• a theme, topic or situation in order to
+interpret and study the relationships
+between the parts and/or
+• information or data to interpret and study
+key trends and interrelationships.
+Assess                                                    Learners present a careful consideration of
+varied factors or events that apply to a specific
+situation or to identify those which are the
+most important or relevant and arrive at a
+conclusion.
+Calculate                                                 Learners work out an answer, usually by
+adding, multiplying, subtracting or dividing.
+Can involve the use of formula.
+Command or term                                     Definition
+Describe                                            Learners give an account of something, steps
+in a process or characteristics of something.
+Statements in the response need to be
+developed, as they are often linked/in a logical
+order, but do not need to include a justification
+or reason.
+Discuss                                             Learners consider different aspects of:
+• a theme or topic;
+• how they interrelate; and
+• the extent to which they are important.
+A conclusion is not required.
+Evaluate                                            Learners’ work draws on varied information,
+themes or concepts to consider aspects
+such as:
+•   strengths or weaknesses
+•   advantages or disadvantages;
+•   alternative actions
+•   relevance or significance.
+Learners’ inquiries should lead to a supported
+judgement showing relationship to its context.
+This will often be in a conclusion.
+Evidence will be written.
+Explain                                             Learners’ work shows clear details and gives
+reasons and/or evidence to support an opinion,
+view or argument. It could show how
+conclusions are drawn (arrived at). Learners
+are able to show that they comprehend the
+origins, functions and objectives of a subject,
+and its suitability for purpose.
+Give                                                Learners can provide:
+• examples
+• justifications.
+Identify                                            Learners indicate the main features or purpose
+of something by recognising it and/or being
+able to discern and understand facts or
+qualities.
+Illustrate                                          Learners include examples, images or diagrams
+to show what is meant in a specific context.
+Outline                                             Learners’ work, performance or practice gives a
+summary or overview or a brief description of
+something.
+
+=== HOW LEVELS-BASED QUESTIONS ARE MARKED ===
+6-mark discuss: Level 1 (1-2) basic description; Level 2 (3-4) some weighing up of pros and cons in context but imbalanced; Level 3 (5-6) well-developed, balanced discussion in context with technical language.
+8-mark analyse: Level 1 (1-3) isolated knowledge; Level 2 (4-6) some linkages between factors; Level 3 (7-8) thorough application with balanced analysis linking the figures.
+12-mark evaluate: Level 1 (1-3) basic description and generic conclusions; Level 2 (4-6) some application and judgements, some lacking support; Level 3 (7-9) balanced evaluation with supported judgements; Level 4 (10-12) thorough, balanced, coherent evaluation using the data, leading to supported conclusions.
+
+=== EXAMPLE QUESTIONS AND MARK SCHEMES ===
+QUESTION (12 marks, topic A4.2): Zayan is a 19-year-old university student. He often uses his agreed bank overdraft to pay his rent and for holidays. He has inherited £15,000 which he wants to invest. His goal is to open his own business within the next two years. He has estimated that opening a business will cost £16,500. Zayan has researched four savings and investment options, shown in the table. (Deposit guaranteed means the value of your investment won't go down and you will get back at least the sum invested.) Evaluate which saving/investment option would be most suitable for Zayan. (Past paper, January 2026)
+DATA:
+Option | Minimum investment | AER % | Fees | Deposit guaranteed | Period
+Stocks and shares ISA | £50 lump sum and £50 per month | 7.8% fixed for 6 months then variable | 1.5% of investment | No | 2 years
+Bonds and gilts | £1,000 | 5.06% fixed | 0 | Yes | 4 years
+British saving bond | £500 | 4.10% fixed | £100 | Yes | 3 years
+Open access cash ISA | £500 | 4.81% variable + 0.71% bonus if no withdrawals in first 12 months | 0 | Yes | 2 years, instant access, 3 withdrawals a year
+MARK SCHEME:
+Stocks and shares: lowest minimum (£50), but £50 a month may be hard for a student. Highest rate, but only fixed for 6 months. At 7.8% for 2 years he'd earn £1,170 then £1,261.26, beating his target even after 1.5% fees (£225). But his money isn't guaranteed; he could lose his inheritance. Only tied up for 2 years.
+
+Bonds and gilts: £1,000 minimum is fine. 5.06% fixed: £759 then £797.40, so £16,556.40 after 2 years, hitting the target. No fees, guaranteed. But tied up for 4 years, so he can't start the business in 2.
+
+British savings bond: 4.10% earns £615 then about £640, short of £1,500, and £100 fees. Guaranteed, but the 3-year term is too long.
+
+Cash ISA: 4.81% variable; with no withdrawals 5.52%, which would hit the target if the rate holds. Guaranteed, tax-free. Instant access is useful for emergencies as a student, but he may be tempted to spend.
+
+Application: he's 19, a student, needs exactly £16,500 in 2 years, may need money in an emergency.
+
+A strong answer reaches a supported judgement, e.g. the cash ISA balances safety, access and the target, or stocks and shares only if he accepts the risk.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic A4.2): Tia is 28 and works as a supply teacher, so her earnings are often unpredictable. When Tia has paid her utility bills and living expenses each month, she has between £100 and £400 left over, which she would like to save. She has £1,500 in her current account. Her personal goals are to buy her own home and to save money for emergencies and for travelling. Tia has researched the savings options in the table, available through her bank. Evaluate which option would be the most suitable for Tia. (Past paper, January 2024)
+DATA:
+Account | AER % | Term | Minimum deposit | Maximum monthly deposit | Instant access
+Regular saver | 5% variable | 12 months | £1,000 | £200 | Yes
+Deposit account | 3.5% fixed | 3 years | £2,000 | £7,000 | No
+Cash ISA | 2.75% fixed | 2 years | £1 | £20,000 per year | Yes, but lose 6 months' interest
+Current account | 1.5% on credit balances | N/A | £1 | No limit | Yes
+MARK SCHEME:
+Regular saver: highest rate at 5%, only 12 months, she has the £1,000 to open it, instant access helps if supply work dries up. But the £200 monthly maximum may be too low in months she can save £400.
+
+Deposit account: second highest rate (3.5%) but she needs £2,000 to open and only has £1,500. Money locked for 3 years, so no use if work dries up or she wants to travel. £7,000 monthly limit is plenty.
+
+Cash ISA: 2.75%, can open with £1 straight away, £20,000 limit easily covers her £1,200 to £4,800 a year. Instant access, but she loses the interest if she withdraws.
+
+Current account: lowest rate (1.5%) but already open, no limits, instant access, which suits an unpredictable income.
+
+A strong answer reaches a supported judgement, e.g. the regular saver for up to £200 a month plus the cash ISA or current account for anything above that.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic A4.3): Philip is a student and has just bought a rescue puppy from a local charity. The puppy was abandoned so Philip does not know its medical history. Philip has discovered that the average annual pet insurance claim in the UK is over £750 and that an operation can cost over £3,000. Philip predicts that he will spend £58 per month on dog food once the puppy is fully grown. He has researched the insurance options in the table. (Pre-existing conditions are illnesses, injuries or health conditions that existed before the start of a policy.) Evaluate which option would be most suitable for Philip. (Past paper, June 2024)
+DATA:
+Provider | Cost per month | Covers | Maximum claim | Vet nurse text-chat | Excess
+Shirevale | £10 | Accidents only | £500 per accident, up to £2,000 per year | No | £150
+Ashridge | £38 | Accidents only | £5,000 per year | No | £80
+Westshire | £108 | Accidents, illnesses and pre-existing conditions | Up to £25,000 per year | Yes | £50
+Royal | £52 | Accidents and illnesses | £2,000 per condition, up to £10,000 per year | Yes | £200
+MARK SCHEME:
+Context: Philip is a student so money is tight; food will cost £58 a month; the puppy is a rescue with unknown history, so may have pre-existing conditions; average claim £750; operations £3,000+.
+
+Shirevale: cheapest (£10, £120 a year) but accidents only, and the £500 per accident limit is below the £750 average claim. After the £150 excess he can only claim £350 per accident.
+
+Ashridge: nearly 4 times Shirevale (£456 a year) but still accidents only. £5,000 a year covers the average claim and an operation. £80 excess.
+
+Westshire: most expensive at £108 a month (£1,296 a year), hard on a student budget. But covers accidents, illness and pre-existing conditions, up to £25,000, vet chat saves consultation fees, lowest excess (£50).
+
+Royal: £52 a month (£624 a year), under half of Westshire. Covers accidents and illness but not pre-existing conditions. £2,000 per condition covers the average claim but not a £3,000 operation. Highest excess (£200), so many vet visits won't be worth claiming.
+
+A strong answer weighs cost against cover in Philip's situation and reaches a justified choice.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic A4.3): Humaira has a mortgage on the house she lives in. She has a lockable safe in her home and, apart from a laptop worth £1,000 and a mobile phone worth £250, she has no other valuables. Recent cost of living increases and a rise in her mortgage repayments mean she is looking to make savings on her monthly costs. She is currently insured with Royal Insurance, paying £57 a month, and has researched the home insurance options in the table. (Excess is the amount you pay towards the cost of any claim.) Evaluate which insurance option would be most suitable for Humaira. (Past paper, January 2025)
+DATA:
+Provider | Monthly cost | Total excess | High value item cover | Home emergency call out | Type of cover
+Shirevale | £45 | Buildings £350, contents £200 | Up to £1,000 per named item | Included | Buildings and contents
+Ashridge | £32 | Buildings £300 | No cover | Available for £47 | Buildings only
+Westshire | £42 | Buildings £175, contents £200 | Up to £500 per named item | Available for £19.95 | Buildings and contents
+Royal | £57 | Buildings £150, contents £150 | Up to £10,000 per named item | Available for £45 | Buildings and contents
+MARK SCHEME:
+Shirevale: £12 a month cheaper than Royal (£144 a year), covers buildings and contents, call-out included. Highest excesses, so she funds more of any claim. £1,000 per item covers the laptop and phone.
+
+Ashridge: cheapest. £25 a month less than Royal (£300 a year). Even with call-out added it's only £431 a year. But buildings only: her belongings aren't covered after a fire or break-in.
+
+Westshire: £180 a year cheaper than Royal. With call-out £523.95 a year, £16.05 cheaper than Shirevale. £500 per item covers the phone but not the laptop. Higher excess.
+
+Royal: most expensive. With call-out £729 a year (£60.75 a month), so like for like Shirevale is £189 cheaper. £10,000 item cover is far more than she needs, though excesses are lowest.
+
+Application: she has few valuables so may consider buildings only, but after a fire or flood she'd need to replace beds, clothes, sofas, so contents cover is wise.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic A4.3): Takudzwa is planning to use all his savings to buy a camper van, to take his two children on outdoor adventure holidays across Europe. The family enjoys diving, kayaking and rock climbing. They each have a kayak worth £400 and a mobile phone worth £300. A friend has advised him to take out travel insurance including European travel to cover cancellation, theft from the camper van and medical expenses. Evaluate which insurance product would be the best for Takudzwa to purchase. (Past paper, January 2023)
+DATA:
+Provider | Annual cost | Cover for lost or stolen items or cash | Emergency medical expenses | Cancellation or missed departure
+Ashridge | £262 | £1,000, maximum £200 cash | Up to £2m | No
+Shirevale | £400 | £2,500, no limit for cash within the £2,500 | Up to £3m | Yes, up to £2,000
+Royal | £375 | £3,000, maximum £300 cash | Up to £8m | No
+Westshire | £545 | £5,000, maximum £1,000 cash | Up to £10m | Yes, up to £5,000
+MARK SCHEME:
+Context: he has spent all his savings on the camper van, so cost matters and he can't afford a big uninsured loss. Belongings: 3 kayaks (£1,200) and 3 phones (£900) = £2,100. High-risk activities (diving, climbing) make medical cover important.
+
+Ashridge: cheapest (£262) but only £1,000 for lost or stolen items, under half his £2,100; no cancellation cover; lowest medical cover (£2m).
+
+Shirevale: £400. £2,500 covers the £2,100 of kit with no cash sub-limit; cancellation up to £2,000; £3m medical.
+
+Royal: £375, cheaper than Shirevale with more item cover (£3,000) and much higher medical cover (£8m), but no cancellation cover, which matters with two children.
+
+Westshire: most expensive (£545, £283 more than Ashridge) but the most cover: £5,000 items, £10m medical, £5,000 cancellation. May be more than he needs.
+
+Other points: check whether diving and climbing are excluded or need an add-on; check single-item limits (a £400 kayak); travel insurance won't cover the camper van itself.
+
+A strong answer reaches a justified choice, e.g. Shirevale as the cheapest policy covering his kit and cancellation, or Royal if he values medical cover over cancellation.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic A4.3): Alex has just passed his driving test and has been given a 15-year-old car by his grandmother, valued at £1,300. Alex drives 10 miles to work each day, partly on the motorway. Alex is on a low income and has £500 in savings. Alex needs to insure his car. Evaluate which insurance option would be most suitable for Alex. (Past paper, June 2025)
+DATA:
+Provider | Monthly cost | Total excess | Covered | Add-ons (extra cost per year) | Type of cover
+Shirevale | £150 | £475 | Personal accident, courtesy car, breakdown cover | Legal assistance £10 | Comprehensive
+Ashridge | £127 | £550 | Personal accident, courtesy car | Breakdown £68, legal assistance £22 | Comprehensive
+Westshire | £80 | £300 | Personal accident | Breakdown £100, legal assistance £45 | Third party, fire and theft
+Royal | £65 | N/A | Damage to someone else's vehicle or injury to others | Breakdown not available, legal assistance £50 | Third party
+MARK SCHEME:
+Annual costs: Shirevale £1,800; Ashridge £1,524 (+£90 with add-ons); Westshire £960 (+£145 with add-ons); Royal £780 (+£50).
+
+Context: the car is worth only £1,300; Alex is a new driver on a low income with £500 savings; daily motorway driving means breakdown cover is useful.
+
+Shirevale: comprehensive with breakdown and courtesy car included, but £1,800 a year is more than the car is worth. The £475 excess nearly wipes out his savings, and a claim on a £1,300 car would pay at most about £825.
+
+Ashridge: cheaper comprehensive, but the £550 excess is more than his savings, and adding breakdown takes it to £1,592.
+
+Westshire: third party, fire and theft at £960. Covers theft and fire of his car plus damage to others. £300 excess is affordable from his savings. Adding breakdown (£100) gives £1,060, still well below comprehensive.
+
+Royal: cheapest at £780, the legal minimum. No cover for his own car and no breakdown cover available, risky for motorway driving. But with a £1,300 car the loss is limited.
+
+A strong answer reaches a justified choice, e.g. Westshire with breakdown cover as the best balance, or Royal if cost is the priority, noting comprehensive cover costs more than the car's value.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic D1.2): Gabriella started her organic gardening and landscaping business in January 2025. She wants to expand by renting premises and opening a small garden centre. She enjoys being her own boss and working with staff but finds other aspects of the business, such as negotiating contracts with customers and suppliers, more difficult. She knows the new business will have high fixed costs and that revenue in the first few months may be low until she builds awareness with local people. She has estimated her set-up costs to be £23,000. Option 1: crowdfunding. Option 2: venture capital. Evaluate whether Gabriella should fund the expansion of Gabriella's Garden Services by crowdfunding (Option 1) or venture capital (Option 2). (Past paper, January 2026)
+MARK SCHEME:
+For crowdfunding:
+- No interest, so lower outflows, important as she's worried about high fixed costs.
+- She doesn't give away a share, so keeps control and all the profit; she enjoys being her own boss.
+- No repayments.
+- The campaign is marketing that builds awareness before opening, helping with low early revenue.
+- Tests public reaction; an organic USP may appeal to crowdfunding backers.
+- A new business may struggle to get a bank loan.
+
+Against crowdfunding:
+- If the target isn't reached she may get nothing, though £23,000 is a modest target.
+- Time-consuming, so expansion may be delayed.
+- Rewards for backers (free plants or services) cost money.
+- Platform fees add to the £23,000.
+
+For venture capital:
+- Large sums quickly, so she could rent premises straight away.
+- Expert guidance; she has one year's experience and struggles with negotiating.
+- Networking: contacts for contracts and cheaper stock.
+- No monthly repayments, good for cash flow while fixed costs are high.
+
+Against venture capital:
+- She gives up equity and some control, which conflicts with enjoying being her own boss.
+- Pressure for rapid growth with little experience.
+- Possible conflict with the investor.
+
+A strong answer weighs these against Gabriella's situation and reaches a justified conclusion.
+
+Levels: 10 to 12 thorough, balanced evaluation with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic D1.2): Farida runs Camping Cuisine, which makes camping stoves, and has operated it for five years. She has raised most of the finance she needed using her own capital, but has an outstanding loan of £15,000 at 12% interest, due to be repaid before the end of 2024. She keeps all the profit she makes. In 2023 the business made a loss of £26,310. One of her packaging machines keeps breaking down and needs replacing at a cost of £25,000. Option 1: a bank loan for £25,000 at 15% interest over five years. Option 2: £40,000 from a venture capitalist in return for 50% of the profit for the next 10 years; £40,000 will cover both her existing debts and the new machine. Evaluate whether Farida should take the bank loan (Option 1) or obtain £40,000 from a venture capitalist (Option 2). (Past paper, January 2024)
+MARK SCHEME:
+Possible figures:
+- Existing debt: £15,000 + 12% (£1,800) = £16,800, or £1,400 a month.
+- New loan: £25,000 × 15% = £3,750 interest in year 1 (£312.50 a month) + about £416.67 a month capital = about £729 a month for 5 years.
+- Year 1 total: £1,400 + £729 = £2,129 a month, about £25,548 a year, when she made a £26,310 loss.
+
+For the bank loan: she keeps control and all her profit; after year 1 only about £729 a month (£8,748 a year), which may cost less than giving away 50% of profit.
+
+Against the loan: another monthly cost when she's making losses; she must find about £25,548 in 12 months; risk of insolvency or losing the business if she can't keep up.
+
+For venture capital: no monthly repayments for either debt; gets the machine straight away; advice and help running the business; VCs are more willing to take risks than banks.
+
+Against venture capital: gives away 50% of profit for 10 years; may lose the independence of being her own boss; possible conflict.
+
+A strong answer uses the figures and reaches a supported judgement.
+
+Levels: 10 to 12 thorough, balanced evaluation with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic D1.2): Tom sells milkshakes from a mobile van and plans to sell them from vending machines at 10 locations in nearby towns. He can either buy second-hand machines for £1,200 each or lease brand new models from a national supplier for £40 per machine per week, for a minimum of three years. The £40 includes use of the location, electricity and security. If Tom bought his own machines, the location, electricity and security would cost £20 per week per machine. Option 1: a bank loan for all 10 machines, with interest for the four years charged at 25% of the total borrowed. Option 2: leasing the machines from the national supplier. Evaluate whether Tom should take the bank loan (Option 1) or lease the vending machines (Option 2). (Past paper, January 2025)
+MARK SCHEME:
+Option 1 figures: loan £12,000 + 25% interest (£3,000) = £15,000 ÷ 48 = £312.50 a month. Location etc: £20 × 52 × 10 = £10,400 a year (£866.67 a month). Total about £1,179.17 a month (£14,150 a year).
+
+Option 2 figures: £40 × 52 × 10 = £20,800 a year = £1,733.33 a month.
+
+For Option 1: owns the machines, which can be sold later; about £554 a month (£6,650 a year) cheaper; after 4 years only location costs remain.
+
+Against Option 1: second-hand machines may break down, causing lost income and repairs; 4-year commitment; time to get the loan; machines may be worth little after 4 years.
+
+For Option 2: only a 3-year commitment; new machines are less likely to break, so cash flow is more predictable; can hand them back if the venture fails; easier budgeting; no capital tied up; no depreciation; quicker to arrange.
+
+Against Option 2: never owns the machines, so pays indefinitely; no asset to sell; pays for damage; expensive early termination charges.
+
+A strong answer uses the figures and reaches a supported judgement.
+
+Levels: 10 to 12 thorough, balanced evaluation with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic D1.2): Jisoo runs The Circle, which sells redesigned and recycled retro clothing online and through a small shop. In 2022 her profit before tax was £7,215.50. She wants to expand the online side by moving production to a £150,000 unit in a Local Enterprise Partnership area supported by the UK Government. Grants of between £10,000 and £500,000 are available, with larger grants for businesses that take on workers who have been unemployed for more than six months. Option 1: apply for a grant from the Local Enterprise Partnership. Option 2: take out a £150,000 mortgage at a variable interest rate of 6.9% a year, repaid over 25 years. Evaluate whether Jisoo should apply for a grant (Option 1) or take out a mortgage (Option 2) to pay for the unit. (Past paper, January 2023)
+MARK SCHEME:
+Figures: interest on £150,000 at 6.9% is about £10,350 in year 1. A repayment mortgage would cost about £1,050 a month (around £12,600 a year), more than her 2022 profit of £7,215.50.
+
+For the grant:
+- Doesn't need repaying and no interest, so no extra outflows.
+- Could cover the whole £150,000 if she qualifies for a large grant.
+- Taking on long-term unemployed workers could help her expand production and supports the local community.
+
+Against the grant:
+- Not guaranteed; competitive and slow to apply for.
+- May only get £10,000, leaving a big gap.
+- Conditions: hiring long-term unemployed workers may need training and supervision, and adds wage costs.
+- Must stay in the area or meet targets, or may have to repay.
+
+For the mortgage:
+- Raises the full £150,000 and she owns the unit, an asset that may rise in value.
+- Spread over 25 years.
+- Her decision alone, no conditions on who she hires.
+
+Against the mortgage:
+- Repayments of about £12,600 a year are more than her current profit.
+- Variable rate: repayments rise if interest rates rise.
+- Secured on the unit, which can be repossessed.
+- Total repaid over 25 years is about £315,000.
+
+A strong answer uses the figures and reaches a supported judgement, e.g. apply for the grant first and use a smaller mortgage for any gap.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic F3): Cody wants to diversify Cody's Chauffeurs and improve its financial performance. He is considering buying either Option 1, a florist business, or Option 2, a wedding cake business. Evaluate whether Cody's Chauffeurs should buy the florist business or the wedding cake business to improve its financial performance. (Past paper, June 2025)
+DATA:
+Year ending 31 Dec 2025 | Florist | Wedding cake
+Sales revenue | £160,000 | £67,500
+Profit margin | 25% | 40%
+Profit for the year | £40,000 | £27,000
+Trade receivable days | 30 | 60
+Trade payable days | 0 | 30
+Current ratio | 0.6 | 2
+Business purchase price | £39,000 | £25,000
+MARK SCHEME:
+Florist:
+- Higher revenue (£160,000) and profit (£40,000); pays back its £39,000 price in about a year (103% return).
+- Lower profit margin (25%).
+- Current ratio 0.6: current liabilities exceed current assets, so it may struggle to pay debts; Cody may need to inject cash.
+- Pays suppliers immediately (0 days) but waits 30 days for customers, which strains cash flow; perishable stock.
+
+Wedding cake:
+- Higher profit margin (40%), so more efficient at turning sales into profit.
+- Cheaper (£25,000), pays back in under a year (108% return).
+- Healthy current ratio of 2.
+- But customers take 60 days to pay, double the 30 days it takes to pay suppliers; lower absolute profit (£27,000).
+
+Fit with the business: both link to weddings, where limousines are often hired; cross-selling packages could raise revenue for all three. Either profit is small compared with Cody's £600,000, so the effect on overall performance is limited.
+
+Ratios are historic and may not continue under new ownership; they ignore reputation, staff and seasonality.
+
+A strong answer reaches a justified conclusion, e.g. the wedding cake business for its better margin, liquidity and lower price, or the florist for higher absolute profit if Cody can fix its liquidity.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks, topic F5): Candy has decided to move into a new studio. Rent will be 40% higher than her existing premises, but she will have more space to attract bigger contracts. Some new customers will be large software corporations which insist on long credit periods. Candy predicts her monthly revenue could increase by £15,000 if she attracts these contracts. Candy feels that offering 60 days' credit has been important in increasing sales. Many competitors offer 30 days' credit and she is wondering if she should do the same, as the business goes overdrawn frequently. She has an agreed £10,000 overdraft at 17% APR with no other fees. Evaluate whether Candy should reduce her customers' credit period from 60 days to 30 days or continue to use an overdraft in order to manage her cash flow. (Past paper, June 2024)
+DATA:
+Candy's Creative, 2023 | £
+Current assets | 12,000
+Current liabilities | 10,000
+Total revenue | 175,000
+Cost of sales | 63,000
+Expenses | 45,000
+Average selling price | 5,000
+Trade receivables | 19,200
+Credit sales | 32,000
+MARK SCHEME:
+Benefits of reducing the credit period:
+- Less risk of bad debts, as she waits less time.
+- Cash arrives 30 days sooner, so possibly 30 days less overdraft interest at 17% APR.
+- Less risk of being late with payments, e.g. rent, now 40% higher.
+
+Drawbacks of reducing the credit period:
+- May lose sales if 60 days' credit is a USP.
+- Large software corporations may not use her, losing up to £15,000 a month, leaving her struggling with the higher rent.
+- 30 days' credit still hurts cash flow.
+- May still need the overdraft, as credit sales are £32,000.
+- Existing customers used to 60 days may leave, making cash flow worse.
+
+Benefits of the overdraft:
+- Only pays interest on the amount overdrawn.
+- Flexible, used only when needed.
+- Keeps the 60-day USP, keeping customers and attracting large clients worth a potential £15,000 in inflows.
+- May be cheaper than other short-term finance such as a credit card or emergency loan.
+
+Drawbacks of the overdraft:
+- £10,000 may not be enough: new sales could be £15,000 and existing credit sales £32,000.
+- Repayable on demand.
+- 17% APR is expensive.
+
+A strong answer uses the ratios and figures (219 days is far above her 60-day terms) and reaches a supported judgement.
+
+Levels: 10 to 12 thorough, balanced evaluation with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (8 marks, topic D1.2): Cody's Chauffeurs has 20 limousines and made a profit for the year of £600,000 in 2025 (sales revenue £2,400,000). Cody is considering buying 20 new limousines at £52,000 each. A national car dealership has offered to supply them on hire purchase over five years at 4.5% APR. Analyse whether Cody should use hire purchase to buy the new limousines over five years at 4.5% APR. (Past paper, June 2025)
+MARK SCHEME:
+Figures: 20 × £52,000 = £1,040,000. At 4.5% APR over 5 years, repayments are roughly £19,400 a month (about £233,000 a year), around £123,000 interest in total. (A flat-rate estimate of 4.5% × £1,040,000 × 5 = £234,000 interest is also acceptable if explained.)
+
+For HP:
+- Spreads a very large cost, so he doesn't need £1.04m up front.
+- 4.5% APR is a low rate compared with most borrowing.
+- Annual repayments of about £233,000 are affordable from £600,000 profit.
+- New limousines may attract more executive customers and need fewer repairs.
+- He owns the vehicles at the end.
+
+Against HP:
+- Total cost is higher than buying outright.
+- Vehicles can be repossessed if he misses payments.
+- He can't sell them until the final payment.
+- Limousines depreciate quickly (he already charges £90,000 a year on his current fleet).
+- If demand falls, the fixed repayments still have to be paid.
+- Alternatives: leasing, or using retained profit for part of the cost.
+
+Levels: 7 to 8 thorough application with balanced analysis using the figures; 4 to 6 some linkages; 1 to 3 basic description.
+
+QUESTION (8 marks, topic F1): Farida's sales revenue has increased since 2022 but she feels disappointed with the overall performance of the business in 2023. Using the data and any relevant calculations and financial ratios, analyse how Farida might improve the performance of the business in 2023 compared with 2022. (Past paper, January 2024)
+DATA:
+Farida's business | 2022 £ | 2023 £
+Sales revenue | 38,267 | (iv)
+Opening inventory | 2,853 | 3,791
+Purchases | 18,523 | 47,913
+Closing inventory | (i) | 8,326
+Cost of goods sold | 17,585 | 43,378
+Gross profit | (ii) | 12,547
+Wages | 9,737 | 20,631
+Depreciation of delivery van | (iii) | 1,565
+Telephone | 2,700 | 6,398
+Utilities | 4,902 | 10,263
+Total expenses | 18,904 | 38,857
+Profit/loss for the year | 1,778 | (v)
+MARK SCHEME:
+Possible figures:
+- Sales revenue up £17,658 (46%)
+- Cost of goods sold up £25,793 (146%)
+- Gross profit down £8,135 (40%)
+- Expenses up £19,953 (105%)
+- Profit fell by £28,088, from £1,778 to a loss of (£26,310)
+- Gross profit margin fell from 54% to 22.4%
+
+Ways to improve:
+- Increase sales revenue or mark-up; increase or reduce selling price
+- Reduce cost of sales: spend less on purchases, hold less inventory, buy cheaper materials, bulk buy
+- Reduce expenses: sell the delivery van, reduce wages, telephone or utility bills
+
+Levels: 7 to 8 thorough application with balanced analysis linking the figures; 4 to 6 some linkages; 1 to 3 isolated knowledge, basic description.
+
+QUESTION (8 marks, topic F1): Using The Circle's figures (sales revenue fell from £64,500 to £48,760, gross profit from £40,105 to £26,365, and profit before tax from £17,470 to £7,215.50 between 2021 and 2022), analyse how the profit for the year before tax could be increased in 2023. (Past paper, January 2023)
+MARK SCHEME:
+Analysis of the figures:
+- Revenue fell by £15,740 (24%), the main cause of lower profit.
+- Gross profit margin fell from 62.18% to 54.07%, so each sale earns less.
+- Closing inventory rose to £26,719: lots of stock unsold, cash tied up.
+- Expenses fell (wages down £3,000), but not enough to offset lower gross profit.
+
+Ways to increase profit:
+- Increase sales: more online marketing, social media for retro fashion, the larger online side she plans.
+- Raise prices on redesigned items with a unique selling point; risk of losing price-sensitive customers.
+- Reduce cost of sales: buy clothing in bulk by weight more carefully so less is left unsold; sell off old inventory.
+- Cut expenses further: rent and utilities, postage; but she already does more alterations herself, so may be at her limit.
+
+Levels: 7 to 8 thorough application with balanced analysis using the figures; 4 to 6 some linkages; 1 to 3 basic description.
+
+QUESTION (8 marks, topic F2): Gabriella works from home and employs six staff. The business also sells plants, trees, flowers and garden ornaments. In 2025 her credit purchases were £6,000 and her credit sales were £92,000. She is concerned that her lack of business experience may affect the business's success. She wants to expand and has prepared a business plan. Analyse how a statement of financial position may be used by Gabriella to help plan the expansion of Gabriella's Garden Services. (Past paper, January 2026)
+DATA:
+Gabriella's Garden Services at 31 Dec 2025 | Cost £ | Acc. dep. £ | NBV £
+Vehicles | 54,000 | 5,400 | (i)
+Machinery | 10,500 | 1,050 | 9,450
+Inventory |  |  | 900
+Trade receivables |  |  | 10,500
+Prepayments |  |  | 4,600
+Cash |  |  | (ii)
+Total current assets |  |  | 16,700
+Trade payables |  |  | 1,200
+Short-term loan |  |  | 2,000
+Overdraft |  |  | 4,700
+Total current liabilities |  |  | 7,900
+Net current assets |  |  | (iii)
+Long-term borrowing |  |  | (iv)
+Net assets |  |  | 18,300
+Capital |  |  | 14,800
+Retained profit |  |  | (v)
+Capital employed |  |  | 18,300
+MARK SCHEME:
+Context:
+- Inventory may be misvalued as plants are perishable and affected by the weather.
+- The £92,000 credit sales may not all be paid.
+- The business is new, so there's no prior SOFP to compare with.
+- External factors such as the weather will affect future performance.
+
+How it helps:
+- Figures can be used to calculate liquidity and efficiency ratios, identifying what needs to change.
+- She can see the overdraft and trade receivables and consider their impact.
+- Shows the net worth of the business, useful to get finance or sell.
+- Balances what the business owns against what it owes.
+- Useful for comparing with future years or industry averages.
+
+How it may not help:
+- Historic data that may not reflect current market value.
+- Doesn't include intangibles such as reputation, so may undervalue the business.
+- Distorted by external factors such as inflation.
+- Hard to compare with businesses using different accounting methods.
+- Ignores non-financial factors.
+
+Levels: 7 to 8 thorough application with balanced analysis; 4 to 6 some linkages; 1 to 3 basic description.
+
+QUESTION (8 marks, topic F3): In 2024, Milk and Bubbles had sales revenue of £91,250 and profit for the year of £13,000. Tom wants to improve his profit for the year. He is considering expanding by buying two more mobile milkshake vans for £7,500 each, located at local sports and concert venues. Analyse whether Tom could increase profit by buying two more mobile milkshake vans. (Past paper, January 2025)
+MARK SCHEME:
+For buying:
+- If the new vans perform like the first, revenue could rise by £182,500.
+- Sports and concert venues may bring higher revenue, depending on how popular the events are.
+- Profit could rise by about £26,000 if both vans are as successful.
+- Bulk buying could lower cost per unit, lowering the break-even point and raising profit per unit.
+
+Against:
+- The vans cost £15,000; he only made £13,000 profit, so he'd use all of it and borrow £2,000, adding debt and interest.
+- Extra expenses: wages, road tax, insurance for two more vehicles.
+- Depreciation would be three times as high.
+- Profit may fall in the short term until the vans get regular customers.
+- May need a loan, HP or leasing, all of which cost money and reduce profit.
+
+Levels: 7 to 8 thorough application with balanced analysis using the figures; 4 to 6 some linkages; 1 to 3 basic description.
+
+QUESTION (8 marks, topic F6): Candy's Creative is projected to increase its sales revenue by 20% in the next 12 months. Candy also aims to expand by moving into bigger, more expensive studios, and is concerned she will not be able to afford the move. Analyse the limitations of ratio analysis to Candy in deciding whether she can afford to expand. (Past paper, June 2024)
+DATA:
+Candy's Creative, 2023 | £
+Current assets | 12,000
+Current liabilities | 10,000
+Total revenue | 175,000
+Cost of sales | 63,000
+Expenses | 45,000
+Average selling price | 5,000
+Trade receivables | 19,200
+Credit sales | 32,000
+MARK SCHEME:
+Learners may analyse benefits and drawbacks of individual ratios or of ratio analysis overall.
+
+Benefits:
+- Compare current with past performance, useful for predicting whether expansion will succeed.
+- Compare with competitors to see what they may be doing better.
+- Monitor and identify issues to avoid past mistakes and improve performance.
+
+Drawbacks:
+- Information is historic and may not be relevant in future.
+- Ignores factors such as recession, economic, social or political change, supply chains, competitors and customers, which could lead Candy to the wrong decision.
+- Single ratios used alone prevent the right conclusions about overall performance.
+- Actual figures may matter more than percentages: £67,000 profit may be low even though 38% looks high.
+- Ratios may show likely performance and areas to improve, but don't create solutions.
+
+Allow analysis of the learner's own calculated figures.
+
+Levels: 7 to 8 thorough application with balanced analysis; 4 to 6 some linkages; 1 to 3 basic description.
+
+QUESTION (7 marks, topic F1): Jisoo runs The Circle, selling recycled retro clothing. Her two sewing machines cost £3,250 on 1 January 2021 and are depreciated at 10% using reducing balance. She reduced her wage bill by £3,000 in 2022. Complete the statement of comprehensive income by calculating (i) purchases 2021, (ii) depreciation 2021, (iii) total expenses 2021, (iv) opening inventory 2022, (v) wages 2022, (vi) total expenses 2022 and (vii) profit before tax 2022. (Past paper, January 2023)
+DATA:
+The Circle | 2021 £ | 2022 £
+Sales revenue | 64,500 | 48,760
+Opening inventory | 13,245 | (iv)
+Purchases | (i) | 32,074
+Closing inventory | 17,040 | 26,719
+Cost of goods sold | 24,395 | 22,395
+Gross profit | 40,105 | 26,365
+Wages | 18,625 | (v)
+Depreciation of sewing machines | (ii) | 292.50
+Telephone and postage | 1,235 | 987
+Rent and utilities | 2,450 | 2,245
+Total expenses | (iii) | (vi)
+Profit before tax | 17,470 | (vii)
+MARK SCHEME:
+1 mark each:
+(i) Purchases 2021: £28,190 (£24,395 − £13,245 + £17,040)
+(ii) Depreciation 2021: £325 (£3,250 × 10%)
+(iii) Total expenses 2021: £22,635
+(iv) Opening inventory 2022: £17,040 (2021 closing inventory)
+(v) Wages 2022: £15,625 (£18,625 − £3,000)
+(vi) Total expenses 2022: £19,149.50
+(vii) Profit before tax 2022: £7,215.50
+
+QUESTION (6 marks, topic A4.1): Morgan is 23 years old and has a credit card balance of £2,000 at 19.9% APR. He also has £1,000 left to pay on his car loan over the next 12 months at 7% APR. Morgan is considering transferring all of his current debts onto a new credit card. He has been offered a new credit card at 0% interest for the first 12 months, increasing to 29.9% on any outstanding balance after the 12-month period. Discuss whether Morgan should transfer his debt onto the new credit card offering 0% interest for 12 months. (Past paper, January 2023)
+MARK SCHEME:
+For transferring:
+- Saves interest: about £398 a year on the £2,000 at 19.9%, plus the 7% on the car loan.
+- One payment instead of two, easier to manage.
+- If he pays £250 a month (£3,000 ÷ 12) he clears it all interest-free.
+
+Against:
+- Any balance left after 12 months is charged 29.9%, far higher than either current rate.
+- He needs £250 a month; we don't know if he can afford it.
+- Balance transfer cards often charge a transfer fee (often around 3%).
+- Paying off the car loan early may have an early settlement charge, and the car loan is at only 7%, so moving it may not be worth it.
+- A new credit application leaves a mark on his credit file; the old card's limit may tempt him to spend again.
+- A good answer may suggest moving only the £2,000 credit card balance.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic A4.1): Fatima is 23 years old and lives with her two friends in a flat. The three friends share responsibility for all bills, including rent. Fatima has booked a holiday to Ibiza with her two friends. The cost of the holiday is £1,500 for each friend. She paid half of the £1,500 when the holiday was booked in January. However, in the four months since January she has only saved £400 towards the cost of the holiday. The holiday is in four weeks' time and by then Fatima needs to have paid the balance of £750. Fatima cannot pay the balance by credit card because she has already reached her credit limit of £2,000. Fatima is concerned that she will have to cancel her holiday. One of Fatima's friends has advised her that she could qualify for a payday loan. Discuss whether Fatima should apply for a payday loan. (Past paper, June 2024)
+MARK SCHEME:
+Advantages:
+- Money straight away, often within an hour, so she can go on holiday.
+- Most people qualify, so she's likely to get it.
+- She can't repay more than double what she borrows, so £700 at most.
+- Payday loans are capped by law and regulated by the FCA, limiting interest and default fees.
+
+Disadvantages:
+- Very high interest, so she could repay a lot.
+- She couldn't save £750 in four months, so she may not afford the repayments.
+- She only saved £100 a month; the interest alone could be more than that.
+- She already owes £2,000 on her credit card, so she may not afford both.
+- She may fall behind on other bills, leading to charges and a poor credit rating.
+- She could end up in uncontrollable debt, an IVA or bankruptcy.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic A4.1): Adio and Aimee are considering buying a new car from a car dealership for £16,000. The dealership has offered Adio and Aimee a hire purchase agreement with a repayment figure of £330 per month for 60 months. Discuss the advantages and disadvantages for Adio and Aimee of using hire purchase to buy their new car. (Past paper, January 2025)
+MARK SCHEME:
+Advantages:
+- Fixed payments because the interest rate is fixed, so easier to budget.
+- Makes a dearer car affordable by spreading the cost.
+- Payment amounts can be adjusted by the size of deposit.
+- No restrictions on mileage, unlike some other finance.
+- Can ask for an early settlement figure.
+- Usually easier to get than other finance; some deals need no deposit.
+- They own the car once the option to purchase fee is paid.
+
+Disadvantages:
+- Total repaid: £330 × 60 = £19,800, which is £3,800 more than the £16,000 value.
+- The car can be repossessed if they can't pay.
+- Missed or late payments damage their credit score.
+- They don't own it until the final payment and can't sell it without permission.
+- HP is often more expensive than other borrowing, especially with a poor credit score.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic A4.1): Sonia will soon be starting her first job. She needs to buy new clothes for work, but she has no savings. She is considering applying for a store card. The store card has a variable interest rate and a credit limit of £3,000. Discuss the advantages and disadvantages for Sonia of using a store card to buy her new work clothes. (Past paper, January 2026)
+MARK SCHEME:
+Advantages:
+- She can buy the clothes straight away, which helps as she has no savings and wants to make a good impression.
+- Store cards often give a discount on the first purchase.
+- Repaying on time can build her credit score for better terms later.
+- She can delay payment until her first month's pay.
+
+Disadvantages:
+- The interest rate is variable, so she can't be sure what she'll pay and budgeting is harder.
+- She can only use it in one store, unlike a credit card or personal loan.
+- A £3,000 limit may tempt her to overspend, leading to spiralling debt.
+- Missed or late payments damage her credit score.
+- Store card interest is usually higher than credit cards.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic B4): Connor is 26 years old. He lives alone in a house that he bought five years ago. He was made redundant from his job eight months ago. He has no savings and owes £4,000 to the bank for missed mortgage payments. Connor also owes £2,000 for utility bills and he has credit card debts of £4,500. He recently sought help from Citizens Advice who suggested that he consider applying for an Individual Voluntary Arrangement (IVA). Discuss the advantages and disadvantages to Connor of applying for an IVA. (Past paper, January 2024)
+MARK SCHEME:
+Advantages:
+- Avoids bankruptcy.
+- Some of his debts may be written off.
+- One fixed monthly repayment, which helps budgeting.
+- Interest on his debts is frozen from when the IVA is approved.
+- Creditors' legal action is stopped.
+- Most IVAs make you debt-free in five to six years.
+- Because of the fees, IVAs suit debts over about £10,000, and Connor owes £10,500.
+- He can keep his home and carry on paying his mortgage.
+
+Disadvantages:
+- His credit rating will be damaged during the IVA and possibly after.
+- Some debts can't be included, e.g. court fines.
+- Any unexpected money may have to go into the IVA.
+- It may have to be disclosed to future lenders or employers, affecting borrowing, renting or jobs in finance or law.
+- It must be set up by a professional and involves fees (around £5,000), which is high compared with his debt.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic B4): Roberto has an annual income of £23,000 after tax and other deductions. He has debts of £22,500. Roberto is struggling to manage his monthly outgoings and is considering using a debt counsellor. Discuss the advantages and disadvantages for Roberto of using a debt counsellor. (Past paper, June 2025)
+MARK SCHEME:
+Context: his debts are almost a full year's take-home pay (about 98%), so he needs a plan.
+
+Advantages:
+- Free help from charities such as StepChange or Citizens Advice.
+- Helps him build a budget and prioritise essential debts (rent, council tax, utilities).
+- Can negotiate with creditors to lower payments or freeze interest.
+- Can explain options: debt management plan, IVA (his debts are well above the £10,000 usually needed), or bankruptcy.
+- Reduces stress and stops the situation getting worse.
+
+Disadvantages:
+- Fee-charging debt management companies can be expensive, taking money that could repay debts.
+- Any formal solution (DMP, IVA, bankruptcy) harms his credit rating for years.
+- Creditors don't have to accept a plan.
+- Can take time to set up, and he must stick to a strict budget.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic E1): Arjun and Sai run Home Office Creations, making furniture for small businesses and home workers. Complete the cash flow forecast for the three months ending 31 March 2024 by calculating (i) to (vi). (Past paper, January 2024)
+DATA:
+Home Office Creations | Jan £ | Feb £ | Mar £
+Credit sales | 1,890 | 953 | 509
+Cash sales | 20,068 | (ii) | 13,276
+Bank interest |  |  | 98
+Total inflows | 21,958 | 17,831 | 13,785
+Purchase of assets |  | 15,500 | 
+Rent | 1,500 | 1,500 | 1,500
+Wages | 6,890 | 6,200 | 8,578
+Utilities | 470 | 510 | (v)
+Other outflows | 2,349 | 2,489 | 4,495
+Total outflows | 11,209 | 26,199 | 14,953
+Net cash flow | 10,749 | (iii) | (1,168)
+Opening balance | (i) | (iv) | (5,008)
+Closing balance | 3,360 | (5,008) | (vi)
+MARK SCHEME:
+1 mark each. Answers must correctly show whether the figure is positive or negative.
+(i) January opening balance: (£7,389)
+(ii) February cash sales: £16,780
+(iii) February net cash flow: (£8,368)
+(iv) February opening balance: £3,360
+(v) March utilities: £380
+(vi) March closing balance: (£6,176)
+
+QUESTION (6 marks, topic E1): Discuss actions that Arjun and Sai could take to improve the closing balances in the cash flow forecast in the first three months of 2024. (Past paper, January 2024)
+DATA:
+Home Office Creations | Jan £ | Feb £ | Mar £
+Credit sales | 1,890 | 953 | 509
+Cash sales | 20,068 | (ii) | 13,276
+Bank interest |  |  | 98
+Total inflows | 21,958 | 17,831 | 13,785
+Purchase of assets |  | 15,500 | 
+Rent | 1,500 | 1,500 | 1,500
+Wages | 6,890 | 6,200 | 8,578
+Utilities | 470 | 510 | (v)
+Other outflows | 2,349 | 2,489 | 4,495
+Total outflows | 11,209 | 26,199 | 14,953
+Net cash flow | 10,749 | (iii) | (1,168)
+Opening balance | (i) | (iv) | (5,008)
+Closing balance | 3,360 | (5,008) | (vi)
+MARK SCHEME:
+Increase inflows:
+- Raise the selling price: only increases inflows if customers keep buying; they may not buy at a higher price.
+- Advertising or promotion: may worsen cash flow in the short term, but increases the closing balance long term if it brings in more revenue than it costs.
+- Reduce the credit period for customers: brings payments forward, but credit may be a sales tool, so customers may not buy at all.
+- Other ways, e.g. a wider product range, with advantages and disadvantages.
+
+Decrease outflows:
+- Don't buy, or delay buying, the wood cutting machine: raises the closing balance by £15,500 in the short term, but no wage savings in the long term.
+- Rent cheaper premises: relocating could be costly.
+- Reduce other outflows.
+- Buy the machine using HP, leasing or other credit to spread the cost.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic E1): Ruby owns Training Treats, which makes high quality pet treats. All credit sales are on 30 days' credit. Complete the cash flow forecast for the six months ending 31 December 2023 by calculating (i) to (vi). (Past paper, January 2023)
+DATA:
+Training Treats | Jul | Aug | Sep | Oct | Nov | Dec
+Opening balance | 2,300 | (iii) | 2,592 | 1,183 | 2,318 | 57
+Credit sales | 44,345 | 40,765 | 35,555 | 34,005 | 40,345 | 52,656
+Cash sales | 13,304 | 12,230 | 10,667 | 10,202 | 12,104 | 15,797
+Total inflows | 57,649 | 52,995 | 46,222 | 44,207 | 52,449 | 68,453
+Cash purchases | 43,236 | 39,746 | 34,666 | 33,155 | 39,336 | 51,340
+Advertising | 7,949 | 6,933 | 6,631 | 7,867 | 10,268 | 10,800
+Other expenses | 6,099 | 6,389 | 6,334 | 2,050 | 5,106 | 5,003
+Total outflows | (i) | 53,068 | 47,631 | 43,072 | 54,710 | 67,143
+Net cash flow | 365 | (iv) | (1,409) | 1,135 | (v) | 1,310
+Closing balance | (ii) | 2,592 | 1,183 | 2,318 | 57 | (vi)
+MARK SCHEME:
+1 mark each. Negative figures must show brackets or a minus sign.
+(i) July total outflows: £57,284
+(ii) July closing balance: £2,665
+(iii) August opening balance: £2,665
+(iv) August net cash flow: (£73)
+(v) November net cash flow: (£2,261)
+(vi) December closing balance: £1,367
+
+QUESTION (6 marks, topic E1): Ruby has an overdraft facility charging 30% a year on outstanding balances. She thinks she may have to use it if she buys the new £2,300 machine, which she hopes will improve production efficiency. Discuss the benefits and limitations for Training Treats of using a cash flow forecast. (Past paper, January 2023)
+MARK SCHEME:
+Benefits:
+- Shows that buying the machine in September would leave her overdrawn by £1,117, so she can plan ahead.
+- She can see the cost of using a 30% overdraft and look for cheaper options, e.g. buying the machine in a month with a bigger balance, or leasing.
+- Helps monitor advertising, which rises sharply in November and December.
+- Can be shown to the bank to support finance.
+- Highlights months with low balances (e.g. November, £57).
+
+Limitations:
+- Based on estimates; pet treat sales may differ, e.g. seasonal demand.
+- Assumes customers pay on time within 30 days.
+- Doesn't show the efficiency savings the new machine may bring.
+- External changes (ingredient costs, competitors) aren't predicted.
+- Only as good as the person preparing it.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic E1): Ella and Poppy have just started Lucky Unlimited, which sells crystals and lucky charms. Discuss the benefits and limitations to Ella and Poppy of using a cash flow forecast. (Past paper, January 2025)
+DATA:
+Lucky Unlimited | Jan £ | Feb £ | Mar £
+Shop sales | 650 | 1,000 | 1,450
+Online sales | 890 | 1,500 | 2,000
+Bank loan | 3,000 |  | 
+Total inflows | 4,540 | 2,500 | (iv)
+Stock | 4,500 | 2,500 | 2,500
+Rent | 1,500 | 1,500 | 1,500
+Postage and packaging | 90 | 150 | 200
+Utilities | 550 | 510 | 450
+Other outflows | 300 | 350 | 400
+Total outflows | 6,940 | 5,010 | (v)
+Net cash flow | (i) | (2,510) | (1,600)
+Opening balance | 5,000 | (iii) | 90
+Closing balance | (ii) | 90 | (1,510)
+MARK SCHEME:
+Benefits:
+- Gives an insight into inflows and outflows.
+- As a forecast it allows changes to be made if inflows are too low or outflows too high.
+- Pinpoints times of cash shortage so adjustments can be made (increase inflows, decrease outflows).
+- Can track actual spending so differences can be dealt with.
+- Can be used in a business plan to get finance.
+
+Limitations:
+- Based on predictions, so can be unreliable.
+- Doesn't account for external changes such as the economy.
+- Only as reliable as the person who creates it; lack of experience affects it.
+- Decisions may be based on inaccurate information.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic E2): Nesdi and Ben are considering buying a new printer, which would increase their expenses by £150 per month. It would improve the quality of their t-shirts and reduce the cost of printing each t-shirt to £4.50 (currently £5). Discuss the impact on T-hee-hee's profit for the year of buying the new printer. (Past paper, June 2025)
+MARK SCHEME:
+Figures: extra fixed costs £150 × 12 = £1,800 a year. Saving 50p per t-shirt. They need to sell 3,600 t-shirts (£1,800 ÷ £0.50) for the saving to cover the extra cost. At the 4,500 estimate, saving £2,250 − £1,800 = £450 more profit. At 6,000, £1,200 more profit. Below 3,600, profit falls.
+
+New break-even: £31,800 ÷ £10.50 = 3,029 t-shirts (up from 3,000).
+
+Other points:
+- Better quality may allow a higher price or attract more customers, increasing profit further.
+- Fewer misprints or wasted shirts.
+- Risk: if sales are lower than forecast, the higher fixed cost reduces profit.
+- Estimates may be wrong; the printer may need maintenance.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic E2): Discuss the actions that Lalisa could take to improve the break-even point per month of her new business. (Past paper, June 2024)
+DATA:
+Lettuce by Lalisa (estimates) | June | July | Aug | Sept | Oct | Nov
+Number of sales | 500 | (iii) | 1,000 | 1,000 | 1,250 | 1,500
+Total revenue (£) | 2,500 | 3,750 | 5,000 | 5,000 | (iv) | 7,500
+Fixed costs (£) | 3,010 | 3,010 | 3,010 | 3,010 | 3,010 | 3,010
+Total variable costs (£) | (i) | 1,125 | 1,500 | 1,500 | 1,875 | 2,250
+Total costs (£) | (ii) | 4,135 | 4,510 | 4,510 | 4,885 | 5,260
+MARK SCHEME:
+Indicative content:
+- Increase the selling price, so contribution per unit is higher. But customers may not buy at the higher price.
+- Reduce variable costs, e.g. cheaper ingredients or packaging, increasing contribution. But quality may suffer, harming reputation and sales.
+- Reduce fixed costs, e.g. not locating in the city centre. But there may be fewer customers, staff or less advertising, harming long-term success.
+- A new business may struggle to cut costs early because start-up costs are high.
+- Estimated sales from June to October are below the 1,375 break-even point.
+- It may be unwise to try to lower the BEP straight away; new businesses often aim to break even in the longer term.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (6 marks, topic E2): To increase profit, Johann plans to introduce a premium range of carpets which he will sell at £5,000 per roll. Discuss the advantages and disadvantages of break-even analysis for Quality Threads Ltd. (Past paper, January 2026)
+DATA:
+Quality Threads Ltd | January 2026
+Variable cost per roll of carpet | £570
+Average revenue per roll of carpet | £2,600
+Estimated number of rolls sold | 350
+Rent of factory | £3,000
+Other expenses | £1,030
+Utilities | £2,060
+MARK SCHEME:
+Advantages:
+- Shows fixed and variable costs, so the impact of the premium range and higher variable costs can be analysed.
+- Allows 'what if' modelling, e.g. the £5,000 selling price.
+- Useful for planning different prices and variable costs.
+- Helps set targets and judge whether the premium range will improve profit.
+- Can help secure finance.
+- Helps monitor and control costs and revenue.
+
+Disadvantages:
+- Based on predictions; customers may not pay £5,000 per roll.
+- Assumes all carpets are sold.
+- Ignores future changes in the cost of high-quality raw materials.
+- Ignores external factors, e.g. competitors launching their own premium range.
+- Only as reliable as the person who creates it.
+- Only applies to one product.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+

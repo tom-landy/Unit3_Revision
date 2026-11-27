@@ -1,0 +1,235 @@
+UNIT 3 PODCAST SOURCE PACK: E12 Break-even
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: Fixed, variable and semi-variable costs, contribution, break-even point, margin of safety, reading a break-even chart, what moves the break-even point, and benefits and limitations.
+
+=== WHAT THE SPECIFICATION SAYS ===
+E2 Break-even analysis
+- Costs:
+  - variable
+  - semi-variable
+  - fixed
+  - total.
+- Sales:
+  - total revenue
+  - total sales
+  - selling price per unit
+  - sales in value and/or units.
+- Calculation using/manipulating break-even formula (units and/or sales value),
+completion of break-even chart, break-even point.
+- Identification of area of profit, area of loss.
+- Identify and calculate margin of safety (units and value).
+- Calculation of total contribution, contribution per unit benefits and limitations.
+- Use of break-even for planning, monitoring, control, target setting.
+- Prepare, complete, analyse, revise and evaluate break-even.
+
+=== KEY POINTS: E2 Break-even analysis (Section B: Business finance) ===
+Costs
+- Fixed costs: don't change with output in the short term, e.g. rent, insurance, salaries, loan interest.
+- Variable costs: change directly with output, e.g. raw materials, packaging, piece-rate wages.
+- Semi-variable costs: a fixed part plus a variable part, e.g. telephone, electricity and other utilities, vehicle costs, internet, wages with overtime.
+- Total costs = fixed costs + total variable costs. Total variable costs = variable cost per unit × units.
+
+Sales
+- Total revenue (total sales) = selling price per unit × units sold.
+- Sales can be measured in units or in value (£).
+
+Formulas (not given in the exam)
+- Contribution per unit = selling price − variable cost per unit
+- Total contribution = contribution per unit × units sold (or total revenue − total variable costs)
+- Break-even point (units) = fixed costs ÷ contribution per unit
+- Break-even point (sales value) = break-even units × selling price
+- Margin of safety (units) = actual or forecast sales − break-even point
+- Margin of safety (value) = margin of safety in units × selling price
+- Profit = total contribution − fixed costs (or total revenue − total costs)
+- Units needed for a target profit = (fixed costs + target profit) ÷ contribution per unit
+
+Always round a break-even point UP to the next whole unit: 1,666.7 units means 1,667, because selling 1,666 still makes a loss.
+
+In the exam, write the formula in words first, then the numbers, then the answer. Each can earn marks even if the final answer is wrong.
+
+Break-even chart
+- x-axis: output or sales (units). y-axis: costs and revenue (£).
+- Fixed costs: a horizontal line.
+- Total costs: starts where fixed costs meet the y-axis and rises.
+- Total revenue: starts at zero and rises more steeply.
+- Break-even point: where total revenue crosses total costs.
+- Area of loss: left of the break-even point, between the lines. Area of profit: to the right.
+- Margin of safety: the distance between actual sales and the break-even point.
+
+What changes the break-even point?
+- Higher selling price → higher contribution → lower BEP (but customers may buy less).
+- Lower variable costs → higher contribution → lower BEP (but quality may suffer).
+- Lower fixed costs → lower BEP (e.g. cheaper premises, but fewer customers or less marketing).
+
+Uses: planning (is the idea viable?), what-if modelling of price or cost changes, setting sales targets, monitoring and controlling costs, supporting a loan application.
+Limitations: assumes everything made is sold; assumes selling price and variable costs stay the same (no bulk discounts or price cuts); only works for one product; based on estimates; ignores external factors such as competitors; fixed costs can change (e.g. a rent rise).
+
+=== GLOSSARY: E2 Break-even analysis ===
+- Fixed costs: Don't change with output, e.g. rent, insurance.
+- Variable costs: Change directly with output, e.g. raw materials.
+- Semi-variable costs: Fixed part plus variable part, e.g. telephone, utilities.
+- Contribution per unit: Selling price − variable cost per unit.
+- Break-even point (units): Fixed costs ÷ contribution per unit.
+- Break-even point (value): Break-even units × selling price.
+- Margin of safety: Actual or forecast sales − break-even point.
+- Profit using contribution: Total contribution − fixed costs.
+- Target profit output: (Fixed costs + target profit) ÷ contribution per unit.
+- Rounding the BEP: Always round up to the next whole unit.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (2 marks): Give two examples of semi-variable costs. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: telephone; electricity, gas, water or other utilities; vehicle expenses; internet fees; wages or salaries (with overtime).
+
+QUESTION (2 marks): State two figures that must be known to calculate the break-even point. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: fixed costs; selling price; variable costs; contribution; total revenue; total cost; quantity or output sold.
+
+QUESTION (4 marks): Lalisa owns a takeaway restaurant, Lettuce by Lalisa, selling boxed salads. She has estimated her costs and revenue for the first six months of a new branch. Calculate the figures missing from the table, (i) to (iv). (Past paper, June 2024)
+DATA:
+Lettuce by Lalisa (estimates) | June | July | Aug | Sept | Oct | Nov
+Number of sales | 500 | (iii) | 1,000 | 1,000 | 1,250 | 1,500
+Total revenue (£) | 2,500 | 3,750 | 5,000 | 5,000 | (iv) | 7,500
+Fixed costs (£) | 3,010 | 3,010 | 3,010 | 3,010 | 3,010 | 3,010
+Total variable costs (£) | (i) | 1,125 | 1,500 | 1,500 | 1,875 | 2,250
+Total costs (£) | (ii) | 4,135 | 4,510 | 4,510 | 4,885 | 5,260
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each:
+(i) June total variable costs: £750
+(ii) June total costs: £3,760 (own figure: (i) + fixed costs)
+(iii) July number of sales: 750
+(iv) October total revenue: £6,250
+
+QUESTION (2 marks): Explain one advantage of using break-even analysis when planning a new product launch. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark for the advantage and 1 for development, e.g.:
+- Shows how many units must be sold to cover costs (1), so the business can judge whether the launch is realistic (1).
+- Allows 'what if' testing of different prices or costs (1), so the best price can be chosen before launch (1).
+- Can support a loan application (1), as it shows lenders when the product will start making a profit (1).
+
+QUESTION (4 marks): Nesdi and Ben run a t-shirt printing business called T-hee-hee. Using their estimates for 2027, calculate (i) total costs at 2,000 t-shirts and (ii) total revenue at 4,000 t-shirts. Then work out the selling price, variable cost per t-shirt and break-even point. (Past paper, June 2025)
+DATA:
+Quantity | 0 | 2,000 | 4,000 | 6,000
+Fixed costs (£) | 30,000 | 30,000 | 30,000 | 30,000
+Total variable costs (£) | 0 | 10,000 | 20,000 | 30,000
+Total costs (£) | 30,000 | (i) | 50,000 | 60,000
+Total revenue (£) | 0 | 30,000 | (ii) | 90,000
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+On the paper (i) and (ii) are worth 2 marks; the chart is worth 4 more.
+(i) £40,000 (1)
+(ii) £60,000 (1)
+
+From the table: selling price = £30,000 ÷ 2,000 = £15; variable cost = £10,000 ÷ 2,000 = £5; contribution = £10.
+Break-even point = £30,000 ÷ £10 = 3,000 t-shirts (where total revenue and total costs cross on the chart, at £45,000) (2).
+
+QUESTION (4 marks): Using T-hee-hee's figures (fixed costs £30,000, selling price £15, variable cost £5 per t-shirt, break-even 3,000 t-shirts), calculate (c) the profit if they sell 5,000 t-shirts and (d) the margin of safety if estimated sales are 4,500 t-shirts. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+(c) 2 marks for £20,000. Working: revenue £75,000 − total costs £55,000 (£30,000 + £25,000), or 5,000 × £10 − £30,000. 1 mark for correct working with a wrong answer.
+
+(d) 2 marks for 1,500 t-shirts (or £22,500). Working: 4,500 − 3,000. 1 mark for the formula: estimated sales − break-even point.
+
+QUESTION (2 marks): Explain one way in which T-hee-hee could reduce its break-even point. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark for the way and 1 for development, e.g.:
+- Raise the selling price (1), which increases contribution per t-shirt, so fewer need to be sold to cover fixed costs (1).
+- Cut variable costs, e.g. cheaper blank t-shirts or ink (1), increasing contribution per unit (1).
+- Reduce fixed costs, e.g. cheaper premises (1), so there is less to cover (1).
+
+QUESTION (6 marks): Nesdi and Ben are considering buying a new printer, which would increase their expenses by £150 per month. It would improve the quality of their t-shirts and reduce the cost of printing each t-shirt to £4.50 (currently £5). Discuss the impact on T-hee-hee's profit for the year of buying the new printer. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Figures: extra fixed costs £150 × 12 = £1,800 a year. Saving 50p per t-shirt. They need to sell 3,600 t-shirts (£1,800 ÷ £0.50) for the saving to cover the extra cost. At the 4,500 estimate, saving £2,250 − £1,800 = £450 more profit. At 6,000, £1,200 more profit. Below 3,600, profit falls.
+
+New break-even: £31,800 ÷ £10.50 = 3,029 t-shirts (up from 3,000).
+
+Other points:
+- Better quality may allow a higher price or attract more customers, increasing profit further.
+- Fewer misprints or wasted shirts.
+- Risk: if sales are lower than forecast, the higher fixed cost reduces profit.
+- Estimates may be wrong; the printer may need maintenance.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (4 marks): Lalisa owns a takeaway restaurant, Lettuce by Lalisa, selling boxed salads. She is considering opening a second branch in the city centre, so costs and revenue will be higher than her current estimates. Calculate the break-even point per month for the new restaurant if she has variable costs of £2, a selling price of £6 and fixed costs of £5,500. (Past paper, June 2024)
+DATA:
+Lettuce by Lalisa (estimates) | June | July | Aug | Sept | Oct | Nov
+Number of sales | 500 | (iii) | 1,000 | 1,000 | 1,250 | 1,500
+Total revenue (£) | 2,500 | 3,750 | 5,000 | 5,000 | (iv) | 7,500
+Fixed costs (£) | 3,010 | 3,010 | 3,010 | 3,010 | 3,010 | 3,010
+Total variable costs (£) | (i) | 1,125 | 1,500 | 1,500 | 1,875 | 2,250
+Total costs (£) | (ii) | 4,135 | 4,510 | 4,510 | 4,885 | 5,260
+MARK SCHEME (Pearson mark scheme (condensed)):
+4 marks for 1,375 boxes per month.
+
+Otherwise:
+- 3 marks for the formula in numbers: BEP = £5,500 ÷ (£6 − £2) or £5,500 ÷ £4
+- OR 1 mark for the contribution of £4 AND 1 mark for the formula in words: break-even point = fixed costs ÷ (selling price − variable costs), or FC ÷ contribution per unit.
+
+QUESTION (2 marks): Lalisa's estimated sales in November are 1,500. Calculate the margin of safety in November for Lalisa's new takeaway restaurant. (Past paper, June 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+2 marks for 125 boxes (accept your own break-even figure carried forward).
+
+Otherwise 1 mark for the formula in words (margin of safety = estimated sales − break-even point) or in numbers (1,500 − 1,375).
+
+QUESTION (6 marks): Discuss the actions that Lalisa could take to improve the break-even point per month of her new business. (Past paper, June 2024)
+DATA:
+Lettuce by Lalisa (estimates) | June | July | Aug | Sept | Oct | Nov
+Number of sales | 500 | (iii) | 1,000 | 1,000 | 1,250 | 1,500
+Total revenue (£) | 2,500 | 3,750 | 5,000 | 5,000 | (iv) | 7,500
+Fixed costs (£) | 3,010 | 3,010 | 3,010 | 3,010 | 3,010 | 3,010
+Total variable costs (£) | (i) | 1,125 | 1,500 | 1,500 | 1,875 | 2,250
+Total costs (£) | (ii) | 4,135 | 4,510 | 4,510 | 4,885 | 5,260
+MARK SCHEME (Pearson mark scheme (condensed)):
+Indicative content:
+- Increase the selling price, so contribution per unit is higher. But customers may not buy at the higher price.
+- Reduce variable costs, e.g. cheaper ingredients or packaging, increasing contribution. But quality may suffer, harming reputation and sales.
+- Reduce fixed costs, e.g. not locating in the city centre. But there may be fewer customers, staff or less advertising, harming long-term success.
+- A new business may struggle to cut costs early because start-up costs are high.
+- Estimated sales from June to October are below the 1,375 break-even point.
+- It may be unwise to try to lower the BEP straight away; new businesses often aim to break even in the longer term.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.
+
+QUESTION (4 marks): Johann owns a carpet factory called Quality Threads Ltd. Using his forecast for January 2026, calculate the break-even point for Quality Threads Ltd. (Past paper, January 2026)
+DATA:
+Quality Threads Ltd | January 2026
+Variable cost per roll of carpet | £570
+Average revenue per roll of carpet | £2,600
+Estimated number of rolls sold | 350
+Rent of factory | £3,000
+Other expenses | £1,030
+Utilities | £2,060
+MARK SCHEME (Pearson mark scheme (condensed)):
+4 marks for 3 carpets.
+
+Otherwise:
+- 3 marks for the formula in numbers: £6,090 ÷ (£2,600 − £570) or £6,090 ÷ £2,030
+- OR 1 mark for fixed costs of £6,090 AND 1 mark for contribution of £2,030
+- OR 1 mark for the formula in words: BEP = fixed costs ÷ (selling price − variable costs).
+
+QUESTION (6 marks): To increase profit, Johann plans to introduce a premium range of carpets which he will sell at £5,000 per roll. Discuss the advantages and disadvantages of break-even analysis for Quality Threads Ltd. (Past paper, January 2026)
+DATA:
+Quality Threads Ltd | January 2026
+Variable cost per roll of carpet | £570
+Average revenue per roll of carpet | £2,600
+Estimated number of rolls sold | 350
+Rent of factory | £3,000
+Other expenses | £1,030
+Utilities | £2,060
+MARK SCHEME (Pearson mark scheme (condensed)):
+Advantages:
+- Shows fixed and variable costs, so the impact of the premium range and higher variable costs can be analysed.
+- Allows 'what if' modelling, e.g. the £5,000 selling price.
+- Useful for planning different prices and variable costs.
+- Helps set targets and judge whether the premium range will improve profit.
+- Can help secure finance.
+- Helps monitor and control costs and revenue.
+
+Disadvantages:
+- Based on predictions; customers may not pay £5,000 per roll.
+- Assumes all carpets are sold.
+- Ignores future changes in the cost of high-quality raw materials.
+- Ignores external factors, e.g. competitors launching their own premium range.
+- Only as reliable as the person who creates it.
+- Only applies to one product.
+
+Levels: 5 to 6 well-developed, balanced discussion in context; 3 to 4 partially developed, imbalanced; 1 to 2 basic description.

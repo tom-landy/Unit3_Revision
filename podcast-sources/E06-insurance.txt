@@ -1,0 +1,180 @@
+UNIT 3 PODCAST SOURCE PACK: E06 Insurance
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: Key terms (premium, excess, no-claims), car, home, life, travel, pet and health cover, what affects premiums, and how to compare policies. Walk through the Philip, Humaira, Takudzwa and Alex 12-mark scenarios.
+
+=== WHAT THE SPECIFICATION SAYS ===
+A4 Managing personal finance
+- Suitability of different financial products and services against individual needs.
+- Different types of borrowing, features, advantages and disadvantages:
+  - overdraft
+  - personal loans
+  - hire purchase
+  - mortgages
+  - credit cards
+  - payday loans
+- Different types of saving and investment features, advantages and disadvantages:
+  - individual savings accounts (ISAs)
+  - deposit and savings accounts
+  - premium bonds
+  - bonds and gilts
+  - shares
+  - pensions.
+- Risks and rewards of saving versus investment.
+- Different insurance products:
+  - products (car, home and contents, life assurance and insurance, travel, pet, health)
+  - different types of insurance policy for each product
+  - features of different types of insurance
+  - advantages and disadvantages of different types and features.
+
+=== KEY POINTS: A4.3 Insurance (Section A: Personal finance) ===
+Insurance: you pay a premium to an insurer, who pays out if a covered event happens. It protects against losses you couldn't afford.
+
+Key terms
+- Premium: the price of the policy (monthly or yearly).
+- Excess: the part of each claim you pay yourself. A higher excess usually means a lower premium.
+- No-claims bonus/discount: a lower premium for each year without a claim.
+- Exclusions: what the policy won't cover (e.g. pre-existing medical conditions).
+- Sum insured / maximum benefit: the most the insurer will pay.
+- Underinsurance: insuring for less than the true value, so a claim may be reduced.
+
+Car insurance (by law you need at least third party)
+- Third party only: covers damage or injury you cause to others. Not your own car.
+- Third party, fire and theft: adds cover if your car is stolen or catches fire.
+- Comprehensive: also covers damage to your own car. Often not much dearer than TPFT.
+
+Home insurance
+- Buildings: the structure (walls, roof, fitted kitchen). Mortgage lenders require it.
+- Contents: your belongings (furniture, clothes, electronics). Check the limit for single high-value items and whether it is 'new for old'. Accidental damage and home emergency cover are often extras.
+
+Life cover
+- Life assurance (whole of life): pays out whenever you die, so it will definitely pay. Higher premium.
+- Life insurance (term): pays out only if you die within the term (e.g. 25 years). Cheaper. Decreasing term is often used alongside a repayment mortgage.
+
+Travel insurance
+- Single trip or annual multi-trip. Covers medical treatment abroad, cancellation, lost luggage, delays. Check exclusions for medical conditions and activities like skiing.
+
+Pet insurance
+- Accident only (cheapest), time-limited, maximum benefit per condition, lifetime (covers ongoing conditions every year, most expensive). Pre-existing conditions are often excluded.
+
+Health insurance
+- Private medical insurance (faster private treatment), critical illness cover (lump sum if diagnosed with a serious illness), income protection (replaces part of your income if you can't work).
+
+Comparing policies: look at premium, excess, what's covered and excluded, limits per item or condition, and extras. The cheapest isn't always best if it doesn't cover what you're likely to claim for.
+
+What affects insurance premiums?
+- Car: age and driving experience (young, newly qualified drivers pay most), the car's value and insurance group, where it is kept (postcode, garage or street), annual mileage, claims history and no-claims discount, any convictions, the excess chosen, and extras such as a telematics (black box) device.
+- Home: location (flood or crime risk), type and size of property, value of contents, security (locks, alarms, a safe), claims history.
+- Life and health: age, health, smoking, occupation and hobbies.
+
+Legal requirement or personal choice?
+- Required by law: at least third party car insurance to drive on public roads.
+- Required by a lender: buildings insurance on a mortgaged home.
+- Personal choice: contents, travel, life, pet, health and critical illness cover. Tenants only need contents insurance, as the landlord insures the building.
+
+Attitude to risk: a risk-averse person buys more cover and a lower excess; someone comfortable with risk may choose the minimum cover to save money and accept paying more if something goes wrong.
+
+=== GLOSSARY: A4.3 Insurance ===
+- Factors raising car premiums: Young or new driver, high-value car, high-crime postcode, past claims, high mileage.
+- Insurance required by law: At least third party car insurance.
+- Tenants and insurance: Tenants only need contents cover; the landlord insures the building.
+- Premium: The price paid for an insurance policy.
+- Excess: The part of a claim you pay yourself.
+- No-claims bonus: A discount for each year without making a claim.
+- Third party only: Minimum legal car cover: damage you cause to others.
+- Comprehensive: Car cover that also pays for damage to your own car.
+- Buildings insurance: Covers the structure of a home. Required by mortgage lenders.
+- Contents insurance: Covers belongings inside the home.
+- Life assurance: Pays out whenever you die (whole of life).
+- Term life insurance: Pays out only if you die within the set term.
+- Lifetime pet cover: Covers ongoing conditions every year. Most expensive pet policy.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (12 marks): Philip is a student and has just bought a rescue puppy from a local charity. The puppy was abandoned so Philip does not know its medical history. Philip has discovered that the average annual pet insurance claim in the UK is over £750 and that an operation can cost over £3,000. Philip predicts that he will spend £58 per month on dog food once the puppy is fully grown. He has researched the insurance options in the table. (Pre-existing conditions are illnesses, injuries or health conditions that existed before the start of a policy.) Evaluate which option would be most suitable for Philip. (Past paper, June 2024)
+DATA:
+Provider | Cost per month | Covers | Maximum claim | Vet nurse text-chat | Excess
+Shirevale | £10 | Accidents only | £500 per accident, up to £2,000 per year | No | £150
+Ashridge | £38 | Accidents only | £5,000 per year | No | £80
+Westshire | £108 | Accidents, illnesses and pre-existing conditions | Up to £25,000 per year | Yes | £50
+Royal | £52 | Accidents and illnesses | £2,000 per condition, up to £10,000 per year | Yes | £200
+MARK SCHEME (Pearson mark scheme (condensed)):
+Context: Philip is a student so money is tight; food will cost £58 a month; the puppy is a rescue with unknown history, so may have pre-existing conditions; average claim £750; operations £3,000+.
+
+Shirevale: cheapest (£10, £120 a year) but accidents only, and the £500 per accident limit is below the £750 average claim. After the £150 excess he can only claim £350 per accident.
+
+Ashridge: nearly 4 times Shirevale (£456 a year) but still accidents only. £5,000 a year covers the average claim and an operation. £80 excess.
+
+Westshire: most expensive at £108 a month (£1,296 a year), hard on a student budget. But covers accidents, illness and pre-existing conditions, up to £25,000, vet chat saves consultation fees, lowest excess (£50).
+
+Royal: £52 a month (£624 a year), under half of Westshire. Covers accidents and illness but not pre-existing conditions. £2,000 per condition covers the average claim but not a £3,000 operation. Highest excess (£200), so many vet visits won't be worth claiming.
+
+A strong answer weighs cost against cover in Philip's situation and reaches a justified choice.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks): Humaira has a mortgage on the house she lives in. She has a lockable safe in her home and, apart from a laptop worth £1,000 and a mobile phone worth £250, she has no other valuables. Recent cost of living increases and a rise in her mortgage repayments mean she is looking to make savings on her monthly costs. She is currently insured with Royal Insurance, paying £57 a month, and has researched the home insurance options in the table. (Excess is the amount you pay towards the cost of any claim.) Evaluate which insurance option would be most suitable for Humaira. (Past paper, January 2025)
+DATA:
+Provider | Monthly cost | Total excess | High value item cover | Home emergency call out | Type of cover
+Shirevale | £45 | Buildings £350, contents £200 | Up to £1,000 per named item | Included | Buildings and contents
+Ashridge | £32 | Buildings £300 | No cover | Available for £47 | Buildings only
+Westshire | £42 | Buildings £175, contents £200 | Up to £500 per named item | Available for £19.95 | Buildings and contents
+Royal | £57 | Buildings £150, contents £150 | Up to £10,000 per named item | Available for £45 | Buildings and contents
+MARK SCHEME (Pearson mark scheme (condensed)):
+Shirevale: £12 a month cheaper than Royal (£144 a year), covers buildings and contents, call-out included. Highest excesses, so she funds more of any claim. £1,000 per item covers the laptop and phone.
+
+Ashridge: cheapest. £25 a month less than Royal (£300 a year). Even with call-out added it's only £431 a year. But buildings only: her belongings aren't covered after a fire or break-in.
+
+Westshire: £180 a year cheaper than Royal. With call-out £523.95 a year, £16.05 cheaper than Shirevale. £500 per item covers the phone but not the laptop. Higher excess.
+
+Royal: most expensive. With call-out £729 a year (£60.75 a month), so like for like Shirevale is £189 cheaper. £10,000 item cover is far more than she needs, though excesses are lowest.
+
+Application: she has few valuables so may consider buildings only, but after a fire or flood she'd need to replace beds, clothes, sofas, so contents cover is wise.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks): Takudzwa is planning to use all his savings to buy a camper van, to take his two children on outdoor adventure holidays across Europe. The family enjoys diving, kayaking and rock climbing. They each have a kayak worth £400 and a mobile phone worth £300. A friend has advised him to take out travel insurance including European travel to cover cancellation, theft from the camper van and medical expenses. Evaluate which insurance product would be the best for Takudzwa to purchase. (Past paper, January 2023)
+DATA:
+Provider | Annual cost | Cover for lost or stolen items or cash | Emergency medical expenses | Cancellation or missed departure
+Ashridge | £262 | £1,000, maximum £200 cash | Up to £2m | No
+Shirevale | £400 | £2,500, no limit for cash within the £2,500 | Up to £3m | Yes, up to £2,000
+Royal | £375 | £3,000, maximum £300 cash | Up to £8m | No
+Westshire | £545 | £5,000, maximum £1,000 cash | Up to £10m | Yes, up to £5,000
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Context: he has spent all his savings on the camper van, so cost matters and he can't afford a big uninsured loss. Belongings: 3 kayaks (£1,200) and 3 phones (£900) = £2,100. High-risk activities (diving, climbing) make medical cover important.
+
+Ashridge: cheapest (£262) but only £1,000 for lost or stolen items, under half his £2,100; no cancellation cover; lowest medical cover (£2m).
+
+Shirevale: £400. £2,500 covers the £2,100 of kit with no cash sub-limit; cancellation up to £2,000; £3m medical.
+
+Royal: £375, cheaper than Shirevale with more item cover (£3,000) and much higher medical cover (£8m), but no cancellation cover, which matters with two children.
+
+Westshire: most expensive (£545, £283 more than Ashridge) but the most cover: £5,000 items, £10m medical, £5,000 cancellation. May be more than he needs.
+
+Other points: check whether diving and climbing are excluded or need an add-on; check single-item limits (a £400 kayak); travel insurance won't cover the camper van itself.
+
+A strong answer reaches a justified choice, e.g. Shirevale as the cheapest policy covering his kit and cancellation, or Royal if he values medical cover over cancellation.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (12 marks): Alex has just passed his driving test and has been given a 15-year-old car by his grandmother, valued at £1,300. Alex drives 10 miles to work each day, partly on the motorway. Alex is on a low income and has £500 in savings. Alex needs to insure his car. Evaluate which insurance option would be most suitable for Alex. (Past paper, June 2025)
+DATA:
+Provider | Monthly cost | Total excess | Covered | Add-ons (extra cost per year) | Type of cover
+Shirevale | £150 | £475 | Personal accident, courtesy car, breakdown cover | Legal assistance £10 | Comprehensive
+Ashridge | £127 | £550 | Personal accident, courtesy car | Breakdown £68, legal assistance £22 | Comprehensive
+Westshire | £80 | £300 | Personal accident | Breakdown £100, legal assistance £45 | Third party, fire and theft
+Royal | £65 | N/A | Damage to someone else's vehicle or injury to others | Breakdown not available, legal assistance £50 | Third party
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Annual costs: Shirevale £1,800; Ashridge £1,524 (+£90 with add-ons); Westshire £960 (+£145 with add-ons); Royal £780 (+£50).
+
+Context: the car is worth only £1,300; Alex is a new driver on a low income with £500 savings; daily motorway driving means breakdown cover is useful.
+
+Shirevale: comprehensive with breakdown and courtesy car included, but £1,800 a year is more than the car is worth. The £475 excess nearly wipes out his savings, and a claim on a £1,300 car would pay at most about £825.
+
+Ashridge: cheaper comprehensive, but the £550 excess is more than his savings, and adding breakdown takes it to £1,592.
+
+Westshire: third party, fire and theft at £960. Covers theft and fire of his car plus damage to others. £300 excess is affordable from his savings. Adding breakdown (£100) gives £1,060, still well below comprehensive.
+
+Royal: cheapest at £780, the legal minimum. No cover for his own car and no breakdown cover available, risky for motorway driving. But with a £1,300 car the loss is limited.
+
+A strong answer reaches a justified choice, e.g. Westshire with breakdown cover as the best balance, or Royal if cost is the priority, noting comprehensive cover costs more than the car's value.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.

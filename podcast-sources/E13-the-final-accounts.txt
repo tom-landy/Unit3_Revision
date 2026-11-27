@@ -1,0 +1,336 @@
+UNIT 3 PODCAST SOURCE PACK: E13 The final accounts
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: The statement of comprehensive income (cost of goods sold, gross profit, expenses, profit) and the statement of financial position (assets, liabilities, net assets, capital, drawings), with accruals, prepayments and depreciation.
+
+=== WHAT THE SPECIFICATION SAYS ===
+F1 Statement of comprehensive income
+- Purpose and use.
+- Completion, calculation and amendment to include gross profit (revenue, opening
+inventories, purchases, closing inventories, cost of goods sold), calculation of profit/loss
+for the year (expenses, other income).
+- Adjustments for depreciation (straight-line and reducing balance).
+- Adjustments for prepayments, accruals.
+- Interpretation, analysis and evaluation of statements.
+F2 Statement of financial position
+- Purpose and use.
+- Completion, calculation and amendment of statement using vertical presentation to
+include:
+  - non-current assets (tangible and intangible, cost, depreciation and amortisation,
+net book value)
+  - current assets (inventories, trade receivables, prepayments, bank, cash)
+  - current liabilities (bank overdraft, accruals, trade payables)
+  - net current assets/liabilities
+  - non-current liabilities (bank loan and mortgage)
+  - net assets
+  - total equity (opening capital, transfer of profit or loss, drawings, closing capital).
+- Adjustments for straight line (cost x%) depreciation, reducing balance
+(cost – depreciation to date x%).
+- Adjustments for prepayments, accruals.
+- Interpretation, analysis, and evaluation of statements.
+
+=== KEY POINTS: F1 Statement of comprehensive income (Section B: Business finance) ===
+Unit 3 only covers sole traders.
+
+Purpose: the statement of comprehensive income (SOCI) shows whether a business made a profit or loss over a period, usually a year. It's used by the owner (to judge performance and decide drawings), HMRC (tax on profit), lenders and potential buyers.
+
+Layout
+Revenue (sales)
+Less cost of goods sold (cost of sales):
+  Opening inventory
+  + Purchases
+  − Closing inventory
+= Gross profit
++ Other income (rent received, commission received, interest received, discount received)
+− Expenses (wages, rent, rates, utilities, insurance, telephone, marketing, depreciation, interest paid, discount allowed, etc.)
+= Profit (or loss) for the year
+
+Formulas (learn these)
+- Cost of goods sold = opening inventory + purchases − closing inventory
+- Gross profit = revenue − cost of goods sold
+- Profit for the year = gross profit + other income − expenses
+
+Adjustments
+- Depreciation: the year's charge (straight-line: cost × %; reducing balance: (cost − depreciation to date) × %) is added as an expense.
+- Accrual: an expense used this year but not yet paid (e.g. an electricity bill still owing). ADD it to the expense. It's also a current liability in the SOFP.
+- Prepayment: an expense paid this year that belongs to next year (e.g. rent paid in advance). SUBTRACT it from the expense. It's also a current asset in the SOFP.
+
+Worked example (Sam's Sports)
+- Cost of goods sold: £4,000 + £25,000 − £5,000 = £24,000
+- Gross profit: £60,000 − £24,000 = £36,000
+- Rent: £9,000 − £1,000 prepaid = £8,000
+- Electricity: £2,400 + £300 accrued = £2,700
+- Depreciation: £15,000 × 10% = £1,500
+- Expenses: £8,000 + £2,700 + £14,000 + £1,500 = £26,200
+- Profit: £36,000 + £800 commission − £26,200 = £10,600
+
+Interpreting: compare with previous years and competitors. Did revenue rise? Did cost of sales rise faster than revenue (squeezing gross profit)? Which expenses grew? Use ratios (F3) to support the analysis.
+
+Losses are shown in brackets, e.g. (26,310).
+
+=== GLOSSARY: F1 Statement of comprehensive income ===
+- Cost of goods sold: Opening inventory + purchases − closing inventory.
+- Gross profit: Revenue − cost of goods sold.
+- Profit for the year: Gross profit + other income − expenses.
+- Accrual: Expense owed but not paid. Add to the expense; current liability.
+- Prepayment: Expense paid in advance. Subtract from the expense; current asset.
+- Other income: Rent, commission, interest and discount received.
+- Purpose of the SOCI: Shows profit or loss over a period.
+
+=== KEY POINTS: F2 Statement of financial position (Section B: Business finance) ===
+Purpose: the statement of financial position (SOFP) is a snapshot of what a business owns (assets) and owes (liabilities) on one date, and how it's financed. It shows the net worth of the business. Used by the owner, lenders and potential buyers.
+
+Vertical layout
+Non-current assets (cost − accumulated depreciation = net book value)
+  Tangible: land, buildings, machinery, vehicles, fixtures and fittings
+  Intangible: goodwill, patents, trademarks (amortisation instead of depreciation)
+Current assets: inventories, trade receivables, prepayments, bank, cash
+Current liabilities (due within a year): bank overdraft, accruals, trade payables
+Net current assets (or liabilities) = current assets − current liabilities
+Non-current liabilities (due after a year): bank loan, mortgage
+Net assets = non-current assets + net current assets − non-current liabilities
+
+Financed by (total equity)
+Opening capital
++ Profit for the year (or − loss)
+− Drawings (money or goods the owner takes out for personal use)
+= Closing capital
+
+Net assets must equal closing capital. If they don't, something is wrong.
+
+Adjustments
+- Depreciation: add the year's charge to accumulated depreciation, so net book value falls. Straight-line: cost × %. Reducing balance: (cost − depreciation to date) × %.
+- Prepayment: a current asset.
+- Accrual: a current liability.
+
+Worked example (Sam's Sports)
+- NBV: equipment £20,000 − £6,000 = £14,000; van £12,000 − £4,800 = £7,200. Total £21,200.
+- Current assets: £3,500 + £2,800 + £400 + £1,900 = £8,600.
+- Current liabilities: £3,100 + £500 = £3,600.
+- Net current assets: £8,600 − £3,600 = £5,000.
+- Net assets: £21,200 + £5,000 − £8,000 loan = £18,200.
+- Closing capital: £15,000 + £9,200 − £6,000 = £18,200. It balances.
+
+Capital employed = total assets − current liabilities, or non-current liabilities + total equity. For Sam's Sports: £8,000 + £18,200 = £26,200.
+
+Interpreting: is the business able to pay its short-term debts (net current assets positive)? How much is borrowed long-term? Is the owner taking out more in drawings than the business earns? Limitations: historic; assets at book value, not market value; doesn't value reputation or staff.
+
+=== GLOSSARY: F2 Statement of financial position ===
+- Net current assets: Current assets − current liabilities.
+- Net assets: Non-current assets + net current assets − non-current liabilities.
+- Closing capital: Opening capital + profit − drawings.
+- Drawings: Money or goods the owner takes out for personal use.
+- Current liabilities: Due within a year: overdraft, accruals, trade payables.
+- Non-current liabilities: Due after a year: bank loan, mortgage.
+- Capital employed: Total assets − current liabilities, or non-current liabilities + total equity.
+- Purpose of the SOFP: A snapshot of assets, liabilities and capital at one date.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (5 marks): Farida runs Camping Cuisine, which manufactures and sells camping stoves. She has a delivery van bought for £15,650 on 1 January 2022, depreciated by 10% using the straight-line method. Complete the statement of comprehensive income by calculating (i) closing inventory for 2022, (ii) gross profit for 2022, (iii) depreciation for 2022, (iv) sales revenue for 2023 and (v) profit/loss for 2023. (Past paper, January 2024)
+DATA:
+Farida's business | 2022 £ | 2023 £
+Sales revenue | 38,267 | (iv)
+Opening inventory | 2,853 | 3,791
+Purchases | 18,523 | 47,913
+Closing inventory | (i) | 8,326
+Cost of goods sold | 17,585 | 43,378
+Gross profit | (ii) | 12,547
+Wages | 9,737 | 20,631
+Depreciation of delivery van | (iii) | 1,565
+Telephone | 2,700 | 6,398
+Utilities | 4,902 | 10,263
+Total expenses | 18,904 | 38,857
+Profit/loss for the year | 1,778 | (v)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each:
+(i) Closing inventory 2022: £3,791 (it is the opening inventory for 2023)
+(ii) Gross profit 2022: £20,682
+(iii) Depreciation 2022: £1,565
+(iv) Sales revenue 2023: £55,925
+(v) Loss for 2023: (£26,310) — must show it is negative
+
+QUESTION (2 marks): Farida has forgotten to add sales revenue of £3,000 to her figures for 2022. Calculate Farida's new profit/loss for the year. (Past paper, January 2024)
+DATA:
+Farida's business | 2022 £ | 2023 £
+Sales revenue | 38,267 | (iv)
+Opening inventory | 2,853 | 3,791
+Purchases | 18,523 | 47,913
+Closing inventory | (i) | 8,326
+Cost of goods sold | 17,585 | 43,378
+Gross profit | (ii) | 12,547
+Wages | 9,737 | 20,631
+Depreciation of delivery van | (iii) | 1,565
+Telephone | 2,700 | 6,398
+Utilities | 4,902 | 10,263
+Total expenses | 18,904 | 38,857
+Profit/loss for the year | 1,778 | (v)
+MARK SCHEME (Pearson mark scheme (condensed)):
+2 marks for £4,778.
+
+Otherwise 1 mark for any of:
+- Formula in words: profit = gross profit − expenses
+- £23,682 − £18,904
+- New sales revenue £41,267
+- New gross profit £23,682
+
+QUESTION (2 marks): Milk and Bubbles' 2024 figures: sales revenue £91,250, opening inventory £1,700, purchases £36,100, closing inventory £1,300. Calculate (i) cost of goods sold and (ii) gross profit. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each:
+(i) Cost of goods sold: £36,500
+(ii) Gross profit: £54,750 (own figure carried forward)
+
+QUESTION (2 marks): State two uses of a statement of comprehensive income for a business. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each, up to 2: shows profit or loss for the year; measure performance; compare with previous years or competitors; calculate profitability ratios; work out tax due; support a loan application; help plan and set targets; decide how much the owner can take as drawings.
+
+QUESTION (8 marks): Farida's sales revenue has increased since 2022 but she feels disappointed with the overall performance of the business in 2023. Using the data and any relevant calculations and financial ratios, analyse how Farida might improve the performance of the business in 2023 compared with 2022. (Past paper, January 2024)
+DATA:
+Farida's business | 2022 £ | 2023 £
+Sales revenue | 38,267 | (iv)
+Opening inventory | 2,853 | 3,791
+Purchases | 18,523 | 47,913
+Closing inventory | (i) | 8,326
+Cost of goods sold | 17,585 | 43,378
+Gross profit | (ii) | 12,547
+Wages | 9,737 | 20,631
+Depreciation of delivery van | (iii) | 1,565
+Telephone | 2,700 | 6,398
+Utilities | 4,902 | 10,263
+Total expenses | 18,904 | 38,857
+Profit/loss for the year | 1,778 | (v)
+MARK SCHEME (Pearson mark scheme (condensed)):
+Possible figures:
+- Sales revenue up £17,658 (46%)
+- Cost of goods sold up £25,793 (146%)
+- Gross profit down £8,135 (40%)
+- Expenses up £19,953 (105%)
+- Profit fell by £28,088, from £1,778 to a loss of (£26,310)
+- Gross profit margin fell from 54% to 22.4%
+
+Ways to improve:
+- Increase sales revenue or mark-up; increase or reduce selling price
+- Reduce cost of sales: spend less on purchases, hold less inventory, buy cheaper materials, bulk buy
+- Reduce expenses: sell the delivery van, reduce wages, telephone or utility bills
+
+Levels: 7 to 8 thorough application with balanced analysis linking the figures; 4 to 6 some linkages; 1 to 3 isolated knowledge, basic description.
+
+QUESTION (7 marks): Jisoo runs The Circle, selling recycled retro clothing. Her two sewing machines cost £3,250 on 1 January 2021 and are depreciated at 10% using reducing balance. She reduced her wage bill by £3,000 in 2022. Complete the statement of comprehensive income by calculating (i) purchases 2021, (ii) depreciation 2021, (iii) total expenses 2021, (iv) opening inventory 2022, (v) wages 2022, (vi) total expenses 2022 and (vii) profit before tax 2022. (Past paper, January 2023)
+DATA:
+The Circle | 2021 £ | 2022 £
+Sales revenue | 64,500 | 48,760
+Opening inventory | 13,245 | (iv)
+Purchases | (i) | 32,074
+Closing inventory | 17,040 | 26,719
+Cost of goods sold | 24,395 | 22,395
+Gross profit | 40,105 | 26,365
+Wages | 18,625 | (v)
+Depreciation of sewing machines | (ii) | 292.50
+Telephone and postage | 1,235 | 987
+Rent and utilities | 2,450 | 2,245
+Total expenses | (iii) | (vi)
+Profit before tax | 17,470 | (vii)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each:
+(i) Purchases 2021: £28,190 (£24,395 − £13,245 + £17,040)
+(ii) Depreciation 2021: £325 (£3,250 × 10%)
+(iii) Total expenses 2021: £22,635
+(iv) Opening inventory 2022: £17,040 (2021 closing inventory)
+(v) Wages 2022: £15,625 (£18,625 − £3,000)
+(vi) Total expenses 2022: £19,149.50
+(vii) Profit before tax 2022: £7,215.50
+
+QUESTION (8 marks): Using The Circle's figures (sales revenue fell from £64,500 to £48,760, gross profit from £40,105 to £26,365, and profit before tax from £17,470 to £7,215.50 between 2021 and 2022), analyse how the profit for the year before tax could be increased in 2023. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Analysis of the figures:
+- Revenue fell by £15,740 (24%), the main cause of lower profit.
+- Gross profit margin fell from 62.18% to 54.07%, so each sale earns less.
+- Closing inventory rose to £26,719: lots of stock unsold, cash tied up.
+- Expenses fell (wages down £3,000), but not enough to offset lower gross profit.
+
+Ways to increase profit:
+- Increase sales: more online marketing, social media for retro fashion, the larger online side she plans.
+- Raise prices on redesigned items with a unique selling point; risk of losing price-sensitive customers.
+- Reduce cost of sales: buy clothing in bulk by weight more carefully so less is left unsold; sell off old inventory.
+- Cut expenses further: rent and utilities, postage; but she already does more alterations herself, so may be at her limit.
+
+Levels: 7 to 8 thorough application with balanced analysis using the figures; 4 to 6 some linkages; 1 to 3 basic description.
+
+QUESTION (5 marks): Gabriella's Garden Services started in January 2025. Complete the statement of financial position by calculating (i) net book value of vehicles, (ii) cash, (iii) net current assets/liabilities, (iv) long-term borrowing and (v) retained profit. (Past paper, January 2026)
+DATA:
+Gabriella's Garden Services at 31 Dec 2025 | Cost £ | Acc. dep. £ | NBV £
+Vehicles | 54,000 | 5,400 | (i)
+Machinery | 10,500 | 1,050 | 9,450
+Inventory |  |  | 900
+Trade receivables |  |  | 10,500
+Prepayments |  |  | 4,600
+Cash |  |  | (ii)
+Total current assets |  |  | 16,700
+Trade payables |  |  | 1,200
+Short-term loan |  |  | 2,000
+Overdraft |  |  | 4,700
+Total current liabilities |  |  | 7,900
+Net current assets |  |  | (iii)
+Long-term borrowing |  |  | (iv)
+Net assets |  |  | 18,300
+Capital |  |  | 14,800
+Retained profit |  |  | (v)
+Capital employed |  |  | 18,300
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each:
+(i) Vehicles NBV: £48,600
+(ii) Cash: £700
+(iii) Net current assets: £8,800
+(iv) Long-term borrowing: £48,550
+(v) Retained profit: £3,500
+
+Check: non-current assets £48,600 + £9,450 = £58,050. £58,050 + £8,800 − £48,550 = £18,300 net assets. £14,800 + £3,500 = £18,300.
+
+QUESTION (2 marks): Give two items that could appear on a statement of financial position. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+1 mark each, up to 2: any non-current asset (land, buildings, machinery, vehicles, fixtures and fittings, goodwill); inventory; trade receivables; prepayments; bank; cash; bank overdraft; accruals; trade payables; bank loan; mortgage; capital; profit for the year; drawings.
+
+QUESTION (2 marks): State two current liabilities. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: bank overdraft; accruals; trade payables.
+
+QUESTION (8 marks): Gabriella works from home and employs six staff. The business also sells plants, trees, flowers and garden ornaments. In 2025 her credit purchases were £6,000 and her credit sales were £92,000. She is concerned that her lack of business experience may affect the business's success. She wants to expand and has prepared a business plan. Analyse how a statement of financial position may be used by Gabriella to help plan the expansion of Gabriella's Garden Services. (Past paper, January 2026)
+DATA:
+Gabriella's Garden Services at 31 Dec 2025 | Cost £ | Acc. dep. £ | NBV £
+Vehicles | 54,000 | 5,400 | (i)
+Machinery | 10,500 | 1,050 | 9,450
+Inventory |  |  | 900
+Trade receivables |  |  | 10,500
+Prepayments |  |  | 4,600
+Cash |  |  | (ii)
+Total current assets |  |  | 16,700
+Trade payables |  |  | 1,200
+Short-term loan |  |  | 2,000
+Overdraft |  |  | 4,700
+Total current liabilities |  |  | 7,900
+Net current assets |  |  | (iii)
+Long-term borrowing |  |  | (iv)
+Net assets |  |  | 18,300
+Capital |  |  | 14,800
+Retained profit |  |  | (v)
+Capital employed |  |  | 18,300
+MARK SCHEME (Pearson mark scheme (condensed)):
+Context:
+- Inventory may be misvalued as plants are perishable and affected by the weather.
+- The £92,000 credit sales may not all be paid.
+- The business is new, so there's no prior SOFP to compare with.
+- External factors such as the weather will affect future performance.
+
+How it helps:
+- Figures can be used to calculate liquidity and efficiency ratios, identifying what needs to change.
+- She can see the overdraft and trade receivables and consider their impact.
+- Shows the net worth of the business, useful to get finance or sell.
+- Balances what the business owns against what it owes.
+- Useful for comparing with future years or industry averages.
+
+How it may not help:
+- Historic data that may not reflect current market value.
+- Doesn't include intangibles such as reputation, so may undervalue the business.
+- Distorted by external factors such as inflation.
+- Hard to compare with businesses using different accounting methods.
+- Ignores non-financial factors.
+
+Levels: 7 to 8 thorough application with balanced analysis; 4 to 6 some linkages; 1 to 3 basic description.

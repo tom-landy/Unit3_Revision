@@ -1,0 +1,411 @@
+UNIT 3 PODCAST SOURCE PACK: E14 Ratio analysis
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: Profitability, liquidity and efficiency ratios: what each formula is, what a good or bad result means, how to improve it, and the limitations of ratios. Use Candy's Creative and Cody's Chauffeurs.
+
+=== WHAT THE SPECIFICATION SAYS ===
+F3 Measuring profitability
+Calculation, interpretation, analysis and evaluation of:
+- gross profit margin: (gross profit/revenue) × 100
+- mark-up: (gross profit/cost of sales) × 100
+- profit margin: (profit/revenue) × 100
+- return on capital employed (ROCE): (profit/capital employed) × 100
+  - Profit for the year = Revenue – cost of sales – expenses
+  - Capital employed = total assets – current liabilities
+  - or Capital employed = non-current liabilities + total equity
+F4 Measuring liquidity
+Calculation, interpretation, analysis and evaluation of:
+- current ratio: current assets/current liabilities
+- liquid capital ratio: (current assets – inventory)/current liabilities
+F5 Measuring efficiency
+Calculation, interpretation, analysis and evaluation of:
+- trade receivable days: (trade receivable/credit sales) × 365
+- trade payable days: (trade payables/credit purchases) × 365
+- inventory turnover: (average inventory/cost of sales) × 365
+F6 Limitations of ratios
+- Limitations of ratios when assessing business performance.
+
+=== KEY POINTS: F3 Measuring profitability (Section B: Business finance) ===
+Formulas (not given in the exam)
+- Gross profit margin = (gross profit ÷ revenue) × 100
+- Mark-up = (gross profit ÷ cost of sales) × 100
+- Profit margin = (profit for the year ÷ revenue) × 100
+- Return on capital employed (ROCE) = (profit for the year ÷ capital employed) × 100
+  - Profit for the year = revenue − cost of sales − expenses
+  - Capital employed = total assets − current liabilities, or non-current liabilities + total equity
+
+Exam method: write the formula in words (1 mark), then the numbers (2 marks), then the answer (full marks). Give percentages to 2 decimal places unless told otherwise.
+
+Worked example: revenue £80,000, cost of sales £50,000, expenses £18,000, capital employed £60,000.
+- Gross profit £30,000. GPM = 30,000 ÷ 80,000 × 100 = 37.5%
+- Mark-up = 30,000 ÷ 50,000 × 100 = 60%
+- Profit £12,000. Profit margin = 12,000 ÷ 80,000 × 100 = 15%
+- ROCE = 12,000 ÷ 60,000 × 100 = 20%
+
+Interpreting
+- Gross profit margin: how much of each £1 of sales is left after the cost of the goods. Higher is better. A fall means cost of sales has risen faster than revenue, or prices were cut.
+- Mark-up: how much is added to the cost of goods. It is always higher than the gross profit margin for the same figures.
+- Profit margin: how much of each £1 of sales is profit after all expenses. A big gap between GPM and profit margin means high expenses.
+- ROCE: how well the capital invested is used to make profit. Compare it with what the owner could earn in a savings account: if ROCE is lower, the owner might be better off saving.
+
+Improving profitability
+- Raise selling prices (customers may buy less).
+- Cut cost of sales: cheaper suppliers, bulk buying, less waste (quality may suffer).
+- Cut expenses: cheaper premises, fewer staff hours, lower energy use.
+- Increase sales volume through marketing (costs money first).
+
+Always compare ratios with previous years, targets, competitors or industry averages. A ratio on its own means little.
+
+=== GLOSSARY: F3 Measuring profitability ===
+- Gross profit margin: (Gross profit ÷ revenue) × 100
+- Mark-up: (Gross profit ÷ cost of sales) × 100
+- Profit margin: (Profit for the year ÷ revenue) × 100
+- ROCE: (Profit for the year ÷ capital employed) × 100
+- Capital employed: Total assets − current liabilities (or non-current liabilities + total equity)
+- Gap between GPM and profit margin: Shows how much expenses take from gross profit.
+- Low ROCE: Compare with savings rates: the owner might earn more elsewhere.
+
+=== KEY POINTS: F4 Measuring liquidity (Section B: Business finance) ===
+Liquidity: the ability of a business to pay its short-term debts (current liabilities) when they are due.
+
+Formulas (not given in the exam)
+- Current ratio = current assets ÷ current liabilities
+- Liquid capital ratio = (current assets − inventory) ÷ current liabilities
+Both are written as a ratio to 1, e.g. 1.5:1.
+
+Why take inventory out? Inventory is the hardest current asset to turn into cash quickly, so the liquid capital ratio (also called the acid test) is a stricter test.
+
+Worked example: current assets £18,000 (including inventory £7,200), current liabilities £12,000.
+- Current ratio = 18,000 ÷ 12,000 = 1.5:1
+- Liquid capital ratio = (18,000 − 7,200) ÷ 12,000 = 10,800 ÷ 12,000 = 0.9:1
+
+Interpreting
+- Current ratio: around 1.5:1 to 2:1 is often seen as comfortable. Below 1:1 the business may struggle to pay its bills. Very high may mean too much cash or inventory sitting idle.
+- Liquid capital ratio: around 1:1 is often seen as comfortable. Below 1:1 means the business relies on selling inventory to pay its debts.
+- What's 'right' depends on the industry: a supermarket sells inventory fast and can run with low ratios.
+
+Improving liquidity
+- Bring in more cash: owner introduces capital, sell unused assets, sale and leaseback.
+- Collect money from customers faster (lower trade receivables, more cash).
+- Replace short-term borrowing (overdraft) with a long-term loan.
+- Reduce inventory levels (improves the liquid capital ratio if sold for cash).
+- Cut drawings.
+
+=== GLOSSARY: F4 Measuring liquidity ===
+- Liquidity: Ability to pay short-term debts when due.
+- Current ratio: Current assets ÷ current liabilities
+- Liquid capital ratio: (Current assets − inventory) ÷ current liabilities
+- Why remove inventory?: It's the hardest current asset to turn into cash quickly.
+- Comfortable current ratio: Around 1.5:1 to 2:1.
+- Comfortable liquid capital ratio: Around 1:1.
+
+=== KEY POINTS: F5 Measuring efficiency (Section B: Business finance) ===
+Efficiency ratios show how well a business manages its working capital: money owed to it, money it owes, and inventory.
+
+Formulas (not given in the exam)
+- Trade receivable days = (trade receivables ÷ credit sales) × 365
+- Trade payable days = (trade payables ÷ credit purchases) × 365
+- Inventory turnover (days) = (average inventory ÷ cost of sales) × 365
+  - Average inventory = (opening inventory + closing inventory) ÷ 2
+Answers are in days. Round to the nearest day unless told otherwise.
+
+Worked examples
+- Trade receivables £6,000, credit sales £48,000: (6,000 ÷ 48,000) × 365 = 45.6, about 46 days.
+- Trade payables £4,000, credit purchases £36,500: (4,000 ÷ 36,500) × 365 = 40 days.
+- Opening inventory £3,000, closing £5,000, cost of sales £73,000: average £4,000. (4,000 ÷ 73,000) × 365 = 20 days.
+
+Interpreting
+- Trade receivable days: how long customers take to pay on average. Lower is better for cash flow. Compare with the credit terms given (e.g. 30 days). Much longer suggests poor credit control and risk of bad debts.
+- Trade payable days: how long the business takes to pay suppliers. Higher helps cash flow, but too high can damage supplier relationships and the business's credit rating, and lose prompt payment discounts.
+- Ideally receivable days are lower than payable days: money comes in before it has to go out.
+- Inventory turnover: how many days inventory is held before it's sold. Lower usually means efficient, fresh stock and less cash tied up. Too low risks running out. What's normal depends on the product: a florist turns stock over in days, a furniture shop in months.
+
+Improving efficiency
+- Receivables: shorter credit terms, discounts for early payment, chase late payers, credit checks, debt factoring (but customers may go elsewhere).
+- Payables: negotiate longer credit with suppliers (but keep good relationships).
+- Inventory: order smaller amounts more often (just in time), discount slow-moving stock, better stock control.
+
+=== GLOSSARY: F5 Measuring efficiency ===
+- Trade receivable days: (Trade receivables ÷ credit sales) × 365
+- Trade payable days: (Trade payables ÷ credit purchases) × 365
+- Inventory turnover: (Average inventory ÷ cost of sales) × 365
+- Average inventory: (Opening inventory + closing inventory) ÷ 2
+- Ideal receivables vs payables: Collect from customers faster than you pay suppliers.
+- High receivable days: Customers pay slowly; poor cash flow; risk of bad debts.
+
+=== KEY POINTS: F6 Limitations of ratios (Section B: Business finance) ===
+Ratios are useful for comparing performance over time, against targets and against competitors, and for spotting problems early. But they have limits:
+
+- Historic data: ratios use past figures, which may not reflect what happens next.
+- External factors are ignored: a recession, new competitors, changes in costs, supply chain problems, new laws or changes in customer tastes aren't shown.
+- Non-financial factors are ignored: staff morale and skills, reputation, customer satisfaction, product quality, location.
+- A snapshot: the SOFP is one date; seasonal businesses may look very different at another time of year.
+- Comparisons must be like for like: businesses of different sizes, in different industries, or using different accounting methods (e.g. depreciation) can't be compared fairly.
+- Ratios in isolation mislead: one ratio alone gives a partial picture. Look at several together and at trends.
+- Actual figures can matter more than percentages: a high profit margin on a small revenue may still be a small profit in pounds.
+- They show symptoms, not causes or solutions: a falling GPM tells you there's a problem, not what caused it or how to fix it.
+- Inflation distorts comparisons over several years.
+- Data quality: ratios are only as accurate as the accounts; figures can be 'window dressed' at year end.
+- A new business has no previous years to compare with.
+
+In the exam, link limitations to the scenario: e.g. 'Candy's ratios are based on last year, but her new studio rent is 40% higher, so her future profit margin is likely to be lower than 38%.'
+
+=== GLOSSARY: F6 Limitations of ratios ===
+- Historic data: Ratios use past figures, which may not predict the future.
+- Non-financial factors: Morale, reputation and quality aren't shown in ratios.
+- Like-for-like comparison: Compare with similar businesses, sizes and accounting methods.
+- Ratios in isolation: One ratio gives a partial picture; use several and look at trends.
+- Symptoms not causes: Ratios show a problem exists, not why or how to fix it.
+- Window dressing: Making year-end figures look better than usual.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (2 marks): Identify two figures which must be known to calculate the return on capital employed (ROCE). (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark each, up to 2: profit for the year; capital employed; revenue; cost of sales; expenses; total assets; current liabilities; non-current liabilities; total equity.
+
+QUESTION (3 marks): Candy's Creative composes music and ringtones for software and gaming companies. Calculate the gross profit margin. (Past paper, June 2024)
+DATA:
+Candy's Creative, 2023 | £
+Current assets | 12,000
+Current liabilities | 10,000
+Total revenue | 175,000
+Cost of sales | 63,000
+Expenses | 45,000
+Average selling price | 5,000
+Trade receivables | 19,200
+Credit sales | 32,000
+MARK SCHEME (Pearson mark scheme (condensed)):
+3 marks for 64%.
+
+Otherwise:
+- 2 marks for the formula in numbers: 112,000 ÷ 175,000 × 100
+- 1 mark for the formula in words: gross profit margin = gross profit ÷ revenue × 100
+- OR 1 mark for gross profit of £112,000
+
+QUESTION (3 marks): Calculate Candy's profit margin in 2023. (Past paper, June 2024)
+DATA:
+Candy's Creative, 2023 | £
+Current assets | 12,000
+Current liabilities | 10,000
+Total revenue | 175,000
+Cost of sales | 63,000
+Expenses | 45,000
+Average selling price | 5,000
+Trade receivables | 19,200
+Credit sales | 32,000
+MARK SCHEME (Pearson mark scheme (condensed)):
+3 marks for 38.29% (accept 38, 38.2 or 38.3).
+
+Otherwise:
+- 2 marks for the formula in numbers: 67,000 ÷ 175,000 × 100
+- 1 mark for the formula in words: profit margin = profit ÷ revenue × 100
+- OR 1 mark for profit of £67,000
+
+QUESTION (3 marks): Calculate Farida's mark-up in 2023. Her 2023 gross profit was £12,547 and cost of goods sold was £43,378. (Past paper, January 2024)
+MARK SCHEME (Pearson mark scheme (condensed)):
+3 marks for 28.9% (accept more decimal places, e.g. 28.92%).
+
+Otherwise:
+- 2 marks for the formula in numbers: (£12,547 ÷ £43,378) × 100
+- 1 mark for the formula in words: mark-up = (gross profit ÷ cost of sales) × 100
+
+QUESTION (2 marks): Using the Milk and Bubbles figures (gross profit £54,750, sales revenue £91,250), calculate the gross profit margin in 2024. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+2 marks for 60%.
+
+Otherwise 1 mark for the formula in words (gross profit ÷ revenue × 100) or in numbers (£54,750 ÷ £91,250 × 100).
+
+QUESTION (8 marks): In 2024, Milk and Bubbles had sales revenue of £91,250 and profit for the year of £13,000. Tom wants to improve his profit for the year. He is considering expanding by buying two more mobile milkshake vans for £7,500 each, located at local sports and concert venues. Analyse whether Tom could increase profit by buying two more mobile milkshake vans. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+For buying:
+- If the new vans perform like the first, revenue could rise by £182,500.
+- Sports and concert venues may bring higher revenue, depending on how popular the events are.
+- Profit could rise by about £26,000 if both vans are as successful.
+- Bulk buying could lower cost per unit, lowering the break-even point and raising profit per unit.
+
+Against:
+- The vans cost £15,000; he only made £13,000 profit, so he'd use all of it and borrow £2,000, adding debt and interest.
+- Extra expenses: wages, road tax, insurance for two more vehicles.
+- Depreciation would be three times as high.
+- Profit may fall in the short term until the vans get regular customers.
+- May need a loan, HP or leasing, all of which cost money and reduce profit.
+
+Levels: 7 to 8 thorough application with balanced analysis using the figures; 4 to 6 some linkages; 1 to 3 basic description.
+
+QUESTION (4 marks): The Circle's sales revenue was £64,500 in 2021 and £48,760 in 2022. Gross profit was £40,105 in 2021 and £26,365 in 2022. Calculate the difference in the gross profit margin between 2021 and 2022. (Past paper, January 2023)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+4 marks for a fall of 8.11 percentage points (accept 8.1).
+
+Otherwise:
+- 1 mark for the formula: gross profit ÷ revenue × 100
+- 1 mark for 2021: 62.18%
+- 1 mark for 2022: 54.07%
+
+QUESTION (5 marks): Cody's Chauffeurs, an executive limousine company, had sales revenue of £2,400,000, gross profit of £800,000 and profit for the year of £600,000 in 2025. Calculate (a) the mark-up and (b) the gross profit margin. (Past paper, June 2025)
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+(a) 3 marks for 50%. Otherwise 2 marks for £800,000 ÷ £1,600,000 × 100; or 1 mark for cost of sales £1,600,000 or the formula (gross profit ÷ cost of sales × 100).
+
+(b) 2 marks for 33.33% (accept 33.3 or 33). Otherwise 1 mark for £800,000 ÷ £2,400,000 × 100 or the formula.
+
+QUESTION (12 marks): Cody wants to diversify Cody's Chauffeurs and improve its financial performance. He is considering buying either Option 1, a florist business, or Option 2, a wedding cake business. Evaluate whether Cody's Chauffeurs should buy the florist business or the wedding cake business to improve its financial performance. (Past paper, June 2025)
+DATA:
+Year ending 31 Dec 2025 | Florist | Wedding cake
+Sales revenue | £160,000 | £67,500
+Profit margin | 25% | 40%
+Profit for the year | £40,000 | £27,000
+Trade receivable days | 30 | 60
+Trade payable days | 0 | 30
+Current ratio | 0.6 | 2
+Business purchase price | £39,000 | £25,000
+MARK SCHEME (Mark scheme written by the teacher (no Pearson mark scheme available)):
+Florist:
+- Higher revenue (£160,000) and profit (£40,000); pays back its £39,000 price in about a year (103% return).
+- Lower profit margin (25%).
+- Current ratio 0.6: current liabilities exceed current assets, so it may struggle to pay debts; Cody may need to inject cash.
+- Pays suppliers immediately (0 days) but waits 30 days for customers, which strains cash flow; perishable stock.
+
+Wedding cake:
+- Higher profit margin (40%), so more efficient at turning sales into profit.
+- Cheaper (£25,000), pays back in under a year (108% return).
+- Healthy current ratio of 2.
+- But customers take 60 days to pay, double the 30 days it takes to pay suppliers; lower absolute profit (£27,000).
+
+Fit with the business: both link to weddings, where limousines are often hired; cross-selling packages could raise revenue for all three. Either profit is small compared with Cody's £600,000, so the effect on overall performance is limited.
+
+Ratios are historic and may not continue under new ownership; they ignore reputation, staff and seasonality.
+
+A strong answer reaches a justified conclusion, e.g. the wedding cake business for its better margin, liquidity and lower price, or the florist for higher absolute profit if Cody can fix its liquidity.
+
+Levels: 10 to 12 thorough, balanced evaluation using the figures with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (2 marks): Calculate the current ratio for Candy's Creative. (Past paper, June 2024)
+DATA:
+Candy's Creative, 2023 | £
+Current assets | 12,000
+Current liabilities | 10,000
+Total revenue | 175,000
+Cost of sales | 63,000
+Expenses | 45,000
+Average selling price | 5,000
+Trade receivables | 19,200
+Credit sales | 32,000
+MARK SCHEME (Pearson mark scheme (condensed)):
+2 marks for 1.2:1 (accept 1.2).
+
+Otherwise 1 mark for the formula in words (current ratio = current assets ÷ current liabilities) or in numbers (12,000 ÷ 10,000).
+
+QUESTION (3 marks): Using the figures in Gabriella's statement of financial position, calculate the liquid capital ratio. (Past paper, January 2026)
+DATA:
+Gabriella's Garden Services | £
+Inventory | 900
+Trade receivables | 10,500
+Prepayments | 4,600
+Cash | 700
+Total current assets | 16,700
+Total current liabilities | 7,900
+MARK SCHEME (Pearson mark scheme (condensed)):
+3 marks for 2:1 (accept with or without :1).
+
+Otherwise:
+- 2 marks for the formula in numbers: £15,800 ÷ £7,900
+- 1 mark for current assets − inventory = £15,800
+- OR 1 mark for the formula in words: (current assets − inventory) ÷ current liabilities
+
+QUESTION (2 marks): Calculate the trade receivable days for Candy's Creative. (Past paper, June 2024)
+DATA:
+Candy's Creative, 2023 | £
+Current assets | 12,000
+Current liabilities | 10,000
+Total revenue | 175,000
+Cost of sales | 63,000
+Expenses | 45,000
+Average selling price | 5,000
+Trade receivables | 19,200
+Credit sales | 32,000
+MARK SCHEME (Pearson mark scheme (condensed)):
+2 marks for 219 days.
+
+Otherwise 1 mark for the formula in numbers (19,200 ÷ 32,000 × 365) or in words (trade receivable days = trade receivables ÷ credit sales × 365).
+
+QUESTION (3 marks): Milk and Bubbles' 2024 figures: opening inventory £1,700, closing inventory £1,300, cost of goods sold £36,500. Calculate the inventory turnover in 2024. (Past paper, January 2025)
+MARK SCHEME (Pearson mark scheme (condensed)):
+3 marks for 15 days (accept 14.99).
+
+Otherwise:
+- 2 marks for the formula in numbers: (1,500 ÷ 36,500) × 365
+- 1 mark for the formula in words: (average inventory ÷ cost of sales) × 365
+- OR 1 mark for average inventory of £1,500
+
+QUESTION (2 marks): In 2025 Gabriella's credit purchases were £6,000. Her trade payables at the year end were £1,200. Calculate Gabriella's Garden Services's trade payable days in 2025. (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+2 marks for 73 days.
+
+Otherwise 1 mark for the formula in numbers ((1,200 ÷ 6,000) × 365) or in words ((trade payables ÷ credit purchases) × 365).
+
+QUESTION (12 marks): Candy has decided to move into a new studio. Rent will be 40% higher than her existing premises, but she will have more space to attract bigger contracts. Some new customers will be large software corporations which insist on long credit periods. Candy predicts her monthly revenue could increase by £15,000 if she attracts these contracts. Candy feels that offering 60 days' credit has been important in increasing sales. Many competitors offer 30 days' credit and she is wondering if she should do the same, as the business goes overdrawn frequently. She has an agreed £10,000 overdraft at 17% APR with no other fees. Evaluate whether Candy should reduce her customers' credit period from 60 days to 30 days or continue to use an overdraft in order to manage her cash flow. (Past paper, June 2024)
+DATA:
+Candy's Creative, 2023 | £
+Current assets | 12,000
+Current liabilities | 10,000
+Total revenue | 175,000
+Cost of sales | 63,000
+Expenses | 45,000
+Average selling price | 5,000
+Trade receivables | 19,200
+Credit sales | 32,000
+MARK SCHEME (Pearson mark scheme (condensed)):
+Benefits of reducing the credit period:
+- Less risk of bad debts, as she waits less time.
+- Cash arrives 30 days sooner, so possibly 30 days less overdraft interest at 17% APR.
+- Less risk of being late with payments, e.g. rent, now 40% higher.
+
+Drawbacks of reducing the credit period:
+- May lose sales if 60 days' credit is a USP.
+- Large software corporations may not use her, losing up to £15,000 a month, leaving her struggling with the higher rent.
+- 30 days' credit still hurts cash flow.
+- May still need the overdraft, as credit sales are £32,000.
+- Existing customers used to 60 days may leave, making cash flow worse.
+
+Benefits of the overdraft:
+- Only pays interest on the amount overdrawn.
+- Flexible, used only when needed.
+- Keeps the 60-day USP, keeping customers and attracting large clients worth a potential £15,000 in inflows.
+- May be cheaper than other short-term finance such as a credit card or emergency loan.
+
+Drawbacks of the overdraft:
+- £10,000 may not be enough: new sales could be £15,000 and existing credit sales £32,000.
+- Repayable on demand.
+- 17% APR is expensive.
+
+A strong answer uses the ratios and figures (219 days is far above her 60-day terms) and reaches a supported judgement.
+
+Levels: 10 to 12 thorough, balanced evaluation with a supported conclusion; 7 to 9 balanced with some support; 4 to 6 some application and judgement; 1 to 3 basic description.
+
+QUESTION (8 marks): Candy's Creative is projected to increase its sales revenue by 20% in the next 12 months. Candy also aims to expand by moving into bigger, more expensive studios, and is concerned she will not be able to afford the move. Analyse the limitations of ratio analysis to Candy in deciding whether she can afford to expand. (Past paper, June 2024)
+DATA:
+Candy's Creative, 2023 | £
+Current assets | 12,000
+Current liabilities | 10,000
+Total revenue | 175,000
+Cost of sales | 63,000
+Expenses | 45,000
+Average selling price | 5,000
+Trade receivables | 19,200
+Credit sales | 32,000
+MARK SCHEME (Pearson mark scheme (condensed)):
+Learners may analyse benefits and drawbacks of individual ratios or of ratio analysis overall.
+
+Benefits:
+- Compare current with past performance, useful for predicting whether expansion will succeed.
+- Compare with competitors to see what they may be doing better.
+- Monitor and identify issues to avoid past mistakes and improve performance.
+
+Drawbacks:
+- Information is historic and may not be relevant in future.
+- Ignores factors such as recession, economic, social or political change, supply chains, competitors and customers, which could lead Candy to the wrong decision.
+- Single ratios used alone prevent the right conclusions about overall performance.
+- Actual figures may matter more than percentages: £67,000 profit may be low even though 38% looks high.
+- Ratios may show likely performance and areas to improve, but don't create solutions.
+
+Allow analysis of the learner's own calculated figures.
+
+Levels: 7 to 8 thorough application with balanced analysis; 4 to 6 some linkages; 1 to 3 basic description.

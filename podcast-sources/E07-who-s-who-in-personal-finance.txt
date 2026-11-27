@@ -1,0 +1,131 @@
+UNIT 3 PODCAST SOURCE PACK: E07 Who's who in personal finance
+BTEC Level 3 National in Business, Unit 3: Personal and Business Finance (Pearson).
+Episode focus: The Bank of England, banks, building societies, credit unions, NS&I, insurers, pension companies, pawnbrokers and payday lenders; then branch, online, telephone, mobile and postal banking and the fraud risks online.
+
+=== WHAT THE SPECIFICATION SAYS ===
+B1 Features of financial institutions
+Types of organisations and their advantages and disadvantages:
+- Bank of England
+- banks
+- building societies
+- credit unions
+- National Savings and Investments
+- insurance companies
+- pension companies
+- pawnbrokers
+- payday loans.
+B2 Communicating with customers
+Methods of interacting with customers, advantages and disadvantages:
+- branch
+- online banking
+- telephone banking
+- mobile banking
+- postal banking
+
+=== KEY POINTS: B1 Features of financial institutions (Section A: Personal finance) ===
+Bank of England: the UK's central bank. It doesn't deal with the public.
+- Sets Bank Rate (the base interest rate) through its Monetary Policy Committee, aiming to keep inflation at 2%.
+- Issues banknotes in England and Wales.
+- Banker to the government and to other banks; lender of last resort if a bank runs short.
+- Regulates banks and building societies (through the Prudential Regulation Authority) to keep the system stable.
+
+Banks (retail or high-street banks): public limited companies owned by shareholders, run for profit.
+- Advantages: full range of services (current accounts, savings, loans, mortgages, cards, business banking); large branch and ATM networks; good apps; deposits protected by the FSCS.
+- Disadvantages: profits go to shareholders, so rates may be less good; branch closures; can be impersonal.
+
+Building societies: mutual organisations owned by their members (savers and borrowers).
+- Focus on savings and mortgages, though many now offer current accounts.
+- Advantages: no shareholders, so profits go back to members through better savings and mortgage rates; often strong customer service; FSCS protected.
+- Disadvantages: smaller range of products; fewer branches; may be less innovative.
+
+Credit unions: not-for-profit co-operatives. Members share a 'common bond' such as living in the same area or working for the same employer.
+- Offer savings and small, affordable loans. By law, loan interest is capped at 3% a month (42.6% APR).
+- Advantages: help people who can't borrow from banks; much cheaper than payday lenders; profits shared with members; savings FSCS protected.
+- Disadvantages: you must be eligible to join; limited products; may need to save before borrowing; few branches.
+
+National Savings and Investments (NS&I): backed by HM Treasury, so 100% of savings are safe however much you hold.
+- Products include Premium Bonds and savings accounts. Money raised helps fund government borrowing.
+- Advantages: completely secure; Premium Bond prizes are tax-free.
+- Disadvantages: rates aren't always the best; no branches (online and phone only).
+
+Insurance companies: take premiums from many customers and pay out claims to the few who suffer a loss (pooling risk).
+- Advantages: protect people from losses they couldn't afford.
+- Disadvantages: premiums can be high; exclusions mean claims can be refused.
+
+Pension companies: manage pension funds. They invest contributions and later pay retirement income (through annuities or drawdown).
+- Advantages: expert investment; tax relief on contributions.
+- Disadvantages: fees reduce returns; investment values can fall.
+
+Pawnbrokers: lend money against a valuable item (e.g. jewellery) left with them, usually for about six months.
+- Advantages: fast cash; no credit check; you get the item back when you repay; little paperwork (just ID and proof of ownership).
+- Disadvantages: high interest; you usually borrow far less than the item is worth; the item is sold if you don't repay.
+
+Payday lenders: short-term, high-cost loans regulated by the FCA (see A4.1).
+- Advantages: quick, easy to get.
+- Disadvantages: very expensive; risk of a debt spiral.
+
+=== GLOSSARY: B1 Features of financial institutions ===
+- Bank of England: UK central bank. Sets Bank Rate, issues notes, lender of last resort.
+- Building society: Mutual owned by its members. Focus on savings and mortgages.
+- Credit union: Not-for-profit co-operative with a common bond. Small, cheaper loans.
+- NS&I: Government-backed savings, including Premium Bonds. 100% secure.
+- Pawnbroker: Lends money against a valuable item, which is sold if not repaid.
+- Mutual: Owned by its members rather than shareholders.
+- Credit union interest cap: 3% a month (42.6% APR).
+- Monetary Policy Committee: Bank of England group that sets Bank Rate to target 2% inflation.
+
+=== KEY POINTS: B2 Communicating with customers (Section A: Personal finance) ===
+Branch banking
+- Advantages: face-to-face help for complex matters (mortgages, bereavement, fraud); can pay in cash and cheques; suits people who aren't confident online; builds trust.
+- Disadvantages: limited opening hours; travel time and cost; many branches have closed, especially in rural areas; queues.
+
+Online banking (website)
+- Advantages: available 24/7 from anywhere; quick to check balances, pay bills and transfer money; paperless statements; often better rates on online-only accounts.
+- Disadvantages: needs internet access and digital skills, so excludes some people; risk of scams, phishing and hacking; harder to get personal advice.
+
+Telephone banking
+- Advantages: no internet needed; can speak to a real person; often available long hours or 24/7 with automated services; good for people with limited mobility.
+- Disadvantages: waiting in queues; security questions can be frustrating; can't pay in cash; risk of phone scams.
+
+Mobile banking (app)
+- Advantages: always with you; biometric security (fingerprint or face); instant notifications; pay in cheques by photo; freeze a lost card; budgeting tools.
+- Disadvantages: needs a smartphone and data; a lost or stolen phone is a risk; not everyone can use apps (age, disability, cost); app outages.
+
+Postal banking
+- Advantages: written record; useful for those without internet; can pay in cheques by post.
+- Disadvantages: slow; letters can be lost or stolen; declining service.
+
+Who is affected by the move away from branches? Elderly customers, people in rural areas, people with some disabilities, people on low incomes without smartphones, and small businesses that handle cash. Banking hubs and the Post Office offer some basic services where branches have closed.
+
+Risks to financial security
+- Phishing: fake emails, texts (smishing) or calls (vishing) pretending to be a bank or company, to get passwords or card details.
+- Scams: tricking people into handing over money, e.g. fake investments, or being persuaded to transfer money to a 'safe account' (authorised push payment fraud).
+- Hacking: criminals break into online accounts or devices, often through weak or reused passwords.
+- Identity theft: criminals use someone's personal details to open accounts or borrow in their name. This can damage the victim's credit score.
+
+Reducing the risk
+- Never share PINs, passwords or one-time codes; a bank will never ask you to move money to a safe account.
+- Use strong, different passwords and two-factor authentication.
+- Check the sender and don't click links in unexpected messages; contact the firm using its official number.
+- Check bank statements and your credit report regularly.
+- Shred documents with personal details; keep devices updated.
+
+=== GLOSSARY: B2 Communicating with customers ===
+- Phishing: Fake emails, texts or calls designed to steal passwords or card details.
+- Identity theft: Criminals use your personal details to open accounts or borrow in your name.
+- Authorised push payment scam: Being tricked into transferring money to a criminal.
+- Branch banking: Face-to-face. Best for complex help and cash, but limited hours.
+- Online banking: 24/7 via a website, but needs internet and digital skills.
+- Telephone banking: No internet needed, can speak to a person, but queues.
+- Mobile banking: App with biometrics and notifications, but needs a smartphone.
+- Postal banking: Written record but slow and declining.
+- Digital exclusion: People who can't access or use online services, e.g. some elderly customers.
+
+=== PAST PAPER QUESTIONS AND MARK SCHEMES ===
+QUESTION (4 marks): Explain two advantages for an individual of using a pawnbroker. (Past paper, January 2026)
+MARK SCHEME (Pearson mark scheme (condensed)):
+1 mark for each advantage and 1 for a linked development, up to 4:
+- Fast and easy access to funds (1), useful in an emergency (1).
+- No credit checks (1), so accessible to people with poor credit scores (1).
+- The item can be bought back within a set time (1), so you don't have to sell it permanently (1).
+- Less paperwork (1): only ID and proof of ownership are needed (1).
